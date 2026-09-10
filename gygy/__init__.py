@@ -1,0 +1,1 @@
+"""Gygy translator package."""
