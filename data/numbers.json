@@ -1,0 +1,368 @@
+[
+    {
+        "liczba": 0,
+        "nazwa": "kum"
+    },
+    {
+        "liczba": 1,
+        "nazwa": "cum"
+    },
+    {
+        "liczba": 2,
+        "nazwa": "tum"
+    },
+    {
+        "liczba": 3,
+        "nazwa": "pum"
+    },
+    {
+        "liczba": 4,
+        "nazwa": "gum"
+    },
+    {
+        "liczba": 5,
+        "nazwa": "qum"
+    },
+    {
+        "liczba": 6,
+        "nazwa": "dum"
+    },
+    {
+        "liczba": 7,
+        "nazwa": "bum"
+    },
+    {
+        "liczba": 8,
+        "nazwa": "hum"
+    },
+    {
+        "liczba": 9,
+        "nazwa": "xum"
+    },
+    {
+        "liczba": 10,
+        "nazwa": "sum"
+    },
+    {
+        "liczba": 11,
+        "nazwa": "fum"
+    },
+    {
+        "liczba": 12,
+        "nazwa": "lum"
+    },
+    {
+        "liczba": 13,
+        "nazwa": "rum"
+    },
+    {
+        "liczba": 14,
+        "nazwa": "num"
+    },
+    {
+        "liczba": 15,
+        "nazwa": "mum"
+    },
+    {
+        "liczba": 16,
+        "nazwa": "cukum"
+    },
+    {
+        "liczba": 17,
+        "nazwa": "cucum"
+    },
+    {
+        "liczba": 18,
+        "nazwa": "cutum"
+    },
+    {
+        "liczba": 19,
+        "nazwa": "cupum"
+    },
+    {
+        "liczba": 20,
+        "nazwa": "cugum"
+    },
+    {
+        "liczba": 21,
+        "nazwa": "cuqum"
+    },
+    {
+        "liczba": 22,
+        "nazwa": "cudum"
+    },
+    {
+        "liczba": 23,
+        "nazwa": "cubum"
+    },
+    {
+        "liczba": 24,
+        "nazwa": "cuhum"
+    },
+    {
+        "liczba": 25,
+        "nazwa": "cuxum"
+    },
+    {
+        "liczba": 26,
+        "nazwa": "cusum"
+    },
+    {
+        "liczba": 27,
+        "nazwa": "cufum"
+    },
+    {
+        "liczba": 28,
+        "nazwa": "culum"
+    },
+    {
+        "liczba": 29,
+        "nazwa": "curum"
+    },
+    {
+        "liczba": 30,
+        "nazwa": "cunum"
+    },
+    {
+        "liczba": 31,
+        "nazwa": "cumum"
+    },
+    {
+        "liczba": 32,
+        "nazwa": "tukum"
+    },
+    {
+        "liczba": 33,
+        "nazwa": "tucum"
+    },
+    {
+        "liczba": 34,
+        "nazwa": "tutum"
+    },
+    {
+        "liczba": 35,
+        "nazwa": "tupum"
+    },
+    {
+        "liczba": 36,
+        "nazwa": "tugum"
+    },
+    {
+        "liczba": 37,
+        "nazwa": "tuqum"
+    },
+    {
+        "liczba": 38,
+        "nazwa": "tudum"
+    },
+    {
+        "liczba": 39,
+        "nazwa": "tubum"
+    },
+    {
+        "liczba": 40,
+        "nazwa": "tuhum"
+    },
+    {
+        "liczba": 41,
+        "nazwa": "tuxum"
+    },
+    {
+        "liczba": 42,
+        "nazwa": "tusum"
+    },
+    {
+        "liczba": 43,
+        "nazwa": "tufum"
+    },
+    {
+        "liczba": 44,
+        "nazwa": "tulum"
+    },
+    {
+        "liczba": 45,
+        "nazwa": "turum"
+    },
+    {
+        "liczba": 46,
+        "nazwa": "tunum"
+    },
+    {
+        "liczba": 47,
+        "nazwa": "tumum"
+    },
+    {
+        "liczba": 48,
+        "nazwa": "pukum"
+    },
+    {
+        "liczba": 49,
+        "nazwa": "pucum"
+    },
+    {
+        "liczba": 50,
+        "nazwa": "putum"
+    },
+    {
+        "liczba": 51,
+        "nazwa": "pupum"
+    },
+    {
+        "liczba": 52,
+        "nazwa": "pugum"
+    },
+    {
+        "liczba": 53,
+        "nazwa": "puqum"
+    },
+    {
+        "liczba": 54,
+        "nazwa": "pudum"
+    },
+    {
+        "liczba": 55,
+        "nazwa": "pubum"
+    },
+    {
+        "liczba": 56,
+        "nazwa": "puhum"
+    },
+    {
+        "liczba": 57,
+        "nazwa": "puxum"
+    },
+    {
+        "liczba": 58,
+        "nazwa": "pusum"
+    },
+    {
+        "liczba": 59,
+        "nazwa": "pufum"
+    },
+    {
+        "liczba": 60,
+        "nazwa": "pulum"
+    },
+
+    {
+        "liczba": 16,
+        "nazwa": "cam"
+    },
+    {
+        "liczba": 32,
+        "nazwa": "tucam"
+    },
+    {
+        "liczba": 48,
+        "nazwa": "pucam"
+    },
+    {
+        "liczba": 64,
+        "nazwa": "gucam"
+    },
+    {
+        "liczba": 80,
+        "nazwa": "qucam"
+    },
+    {
+        "liczba": 96,
+        "nazwa": "ducam"
+    },
+    {
+        "liczba": 112,
+        "nazwa": "bucam"
+    },
+    {
+        "liczba": 128,
+        "nazwa": "hucam"
+    },
+    {
+        "liczba": 144,
+        "nazwa": "xucam"
+    },
+    {
+        "liczba": 160,
+        "nazwa": "sucam"
+    },
+    {
+        "liczba": 176,
+        "nazwa": "fucam"
+    },
+    {
+        "liczba": 192,
+        "nazwa": "lucam"
+    },
+    {
+        "liczba": 208,
+        "nazwa": "rucam"
+    },
+    {
+        "liczba": 224,
+        "nazwa": "nucam"
+    },
+    {
+        "liczba": 240,
+        "nazwa": "mucam"
+    },
+    {
+        "liczba": 256,
+        "nazwa": "tam"
+    },
+    {
+        "liczba": 4096,
+        "nazwa": "pam"
+    },
+    {
+        "liczba": 65536,
+        "nazwa": "gam"
+    },
+    {
+        "liczba": 1048576,
+        "nazwa": "qam"
+    },
+    {
+        "liczba": 16777216,
+        "nazwa": "dam"
+    },
+    {
+        "liczba": 268435456,
+        "nazwa": "bam"
+    },
+    {
+        "liczba": 4294967296,
+        "nazwa": "ham"
+    },
+    {
+        "liczba": 68719476736,
+        "nazwa": "xam"
+    },
+    {
+        "liczba": 1099511627776,
+        "nazwa": "sam"
+    },
+    {
+        "liczba": 17592186044416,
+        "nazwa": "fam"
+    },
+    {
+        "liczba": 281474976710656,
+        "nazwa": "lam"
+    },
+    {
+        "liczba": 4503599627370496,
+        "nazwa": "ram"
+    },
+    {
+        "liczba": 72057594037927936,
+        "nazwa": "nam"
+    },
+    {
+        "liczba": 1152921504606846976,
+        "nazwa": "mam"
+    },
+    {
+        "liczba": 18446744073709551616,
+        "nazwa": "com"
+    }
+
+]

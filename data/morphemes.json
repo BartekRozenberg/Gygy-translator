@@ -1,1 +1,2262 @@
-{}
+[
+    {
+        "morfem": "ke",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "+++",
+        "znaczenia_pl": ["naród", "narodowy", "tworzyć naród"]
+    },
+    {
+        "morfem": "ko",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "++",
+        "znaczenia_pl": ["potomek", "potomny", "być potomkiem"]
+    },
+    {
+        "morfem": "ka",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "+",
+        "znaczenia_pl": ["kobieta", "kobiecy", "być kobietą", "czynić kobietą"]
+    },
+    {
+        "morfem": "ku",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": ".",
+        "znaczenia_pl": ["człowiek", "ludzki", "być człowiekiem"]
+    },
+    {
+        "morfem": "kua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "-",
+        "znaczenia_pl": ["mężczyzna", "męski", "być mężczyzną", "czynić mężczyzną"]
+    },
+    {
+        "morfem": "kuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "--",
+        "znaczenia_pl": ["przodek", "przodkowy", "być przodkiem", "rodzić"]
+    },
+    {
+        "morfem": "kue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "---",
+        "znaczenia_pl": ["obcość", "obcy", "być obcym", "czynić obcym"]
+    },
+    {
+        "morfem": "kie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "+++",
+        "znaczenia_pl": ["ten sam", "być tym samym", "czynić tym samym"]
+    },
+    {
+        "morfem": "kio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "++",
+        "znaczenia_pl": ["on", "jego", "być nim", "czynić nim", "ona", "jej", "być nią", "czynić nią", "ono"]
+    },
+    {
+        "morfem": "kia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "+",
+        "znaczenia_pl": ["ja", "mój", "być mną", "czynić mną"]
+    },
+    {
+        "morfem": "ky",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": ".",
+        "znaczenia_pl": ["osoba", "osobowy", "być osobą", "czynić osobą"]
+    },
+    {
+        "morfem": "kya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "-",
+        "znaczenia_pl": ["ty", "twój", "być tobą", "czynić tobą"]
+    },
+    {
+        "morfem": "kyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "--",
+        "znaczenia_pl": ["Pan", "Pani", "być Panem", "być Panią", "czynić Panem", "czynić Panią", "Państwo", "być Państwem", "czynić Państwem"]
+    },
+    {
+        "morfem": "kye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "---",
+        "znaczenia_pl": ["inny", "być innym", "czynić innym"]
+    },
+
+    {
+        "morfem": "ce",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "+++",
+        "znaczenia_pl": ["zaskoczenie", "zaskoczony", "być zaskoczonym", "zaskakiwać"]
+    },
+    {
+        "morfem": "co",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "++",
+        "znaczenia_pl": ["szczęście", "szczęśliwy", "być szczęśliwym", "uszczęśliwiać"]
+    },
+    {
+        "morfem": "ca",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "+",
+        "znaczenia_pl": ["radość", "radosny", "być radosnym", "radować"]
+    },
+    {
+        "morfem": "cu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": ".",
+        "znaczenia_pl": ["emocja", "emocjonalny", "być emocjonalnym", "wywoływać emocje", "czuć emocje", "czuć"]
+    },
+    {
+        "morfem": "cua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "-",
+        "znaczenia_pl": ["smutek", "smutny", "być smutnym", "smucić"]
+    },
+    {
+        "morfem": "cuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "--",
+        "znaczenia_pl": ["rozpacz", "rozpaczliwy", "być rozpaczliwym", "rozpaczać"]
+    },
+    {
+        "morfem": "cue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "---",
+        "znaczenia_pl": ["strach", "przerażony", "być przerażonym", "przerażać"]
+    },
+
+    {
+        "morfem": "cie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "+++",
+        "znaczenia_pl": ["pokój", "pokojowy", "być pokojowym", "czynić pokojowym"]
+    },
+    {
+        "morfem": "cio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "++",
+        "znaczenia_pl": ["miłość", "kochany", "być kochanym", "kochać"]
+    },
+    {
+        "morfem": "cia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "+",
+        "znaczenia_pl": ["razem", "być razem", "czynić razem", "wspólnie", "współdzielić", "wiązać", "łączyć"]
+    },
+    {
+        "morfem": "cy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": ".",
+        "znaczenia_pl": ["uczucie", "uczuciowy", "być uczuciowym", "wywoływać uczucia", "czuć uczucia", "czuć"]
+    },
+    {
+        "morfem": "cya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "-",
+        "znaczenia_pl": ["osobno", "być osobno", "czynić osobno", "samotny", "samotność", "rozdzielać", "oddzielać"]
+    },
+    {
+        "morfem": "cyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "--",
+        "znaczenia_pl": ["nienawiść", "nienawistny", "być nienawistnym", "nienawidzić"]
+    },
+    {
+        "morfem": "cye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "emocja",
+        "typ": "---",
+        "znaczenia_pl": ["wojna", "wojenny", "być wojennym", "czynić wojennym", "wojować"]
+    },
+
+    {
+        "morfem": "te",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "+++",
+        "znaczenia_pl": ["wzrok", "widzieć", "widoczny", "być widocznym", "czynić widocznym"]
+    },
+    {
+        "morfem": "to",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "++",
+        "znaczenia_pl": ["słuch", "słyszeć", "słyszalny", "być słyszalnym", "czynić słysalnym"]
+    },
+    {
+        "morfem": "ta",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "+",
+        "znaczenia_pl": ["dotyk", "dotykać", "dotykalny", "być dotykalnym", "czynić dotykalnym"]
+    },
+    {
+        "morfem": "tu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": ".",
+        "znaczenia_pl": ["ciało", "ciałowy", "być ciałem", "czynić ciałem"]
+    },
+    {
+        "morfem": "tua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "-",
+        "znaczenia_pl": ["czucie", "czuć", "czuciowy", "być czuciowym", "wywoływać uczucia", "czuć uczucia"]
+    },
+    {
+        "morfem": "tuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "--",
+        "znaczenia_pl": ["smak", "smakować", "smakowy", "być smakowym", "czynić smakowym"]
+    },
+    {
+        "morfem": "tue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "---",
+        "znaczenia_pl": ["węch", "zapach", "wąchać", "zapachowy", "być zapachowym", "czynić zapachowym"]
+    },
+    {
+        "morfem": "tie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "+++",
+        "znaczenia_pl": ["czystość", "czysty", "być czystym", "czynić czystym", "myć"]
+    },
+    {
+        "morfem": "tio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "++",
+        "znaczenia_pl": ["ubranie", "ubierać", "ubieralny", "być ubieralnym", "czynić ubieralnym"]
+    },
+    {
+        "morfem": "tia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "+",
+        "znaczenia_pl": ["jedzenie", "jeść", "jadalny", "być jadalnym", "czynić jadalnym"]
+    },
+    {
+        "morfem": "ty",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": ".",
+        "znaczenia_pl": ["potrzeba", "potrzebny", "być potrzebnym", "czynić potrzebnym"]
+    },
+    {
+        "morfem": "tya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "-",
+        "znaczenia_pl": ["picie", "pić", "pijalny", "być pijalnym", "czynić pijalnym"]
+    },
+    {
+        "morfem": "tyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "--",
+        "znaczenia_pl": ["nagość", "nagi", "być nagim", "czynić nagim", "rozbierać"]
+    },
+    {
+        "morfem": "tye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ciało",
+        "typ": "---",
+        "znaczenia_pl": ["brud", "brudny", "być brudnym", "czynić brudnym", "brudzić"]
+    },
+
+    {
+        "morfem": "pe",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "+++",
+        "znaczenia_pl": ["pomyślność", "pomyślny", "być pomyślnym", "czynić pomyślnym", "powodzenie", "hossa"]
+    },
+    {
+        "morfem": "po",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "++",
+        "znaczenia_pl": ["bogactwo", "bogaty", "być bogatym", "czynić bogatym", "zysk", "zyskiwać"]
+    },
+    {
+        "morfem": "pa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "+",
+        "znaczenia_pl": ["dawać", "dający", "być dającym", "czynić dającym", "dar"]
+    },
+    {
+        "morfem": "pu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": ".",
+        "znaczenia_pl": ["mieć", "posiadać", "posiadany", "być posiadanym", "czynić posiadanym", "posiadanie", "własność"]
+    },
+    {
+        "morfem": "pua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "-",
+        "znaczenia_pl": ["przyjmować", "przyjmowany", "być przyjmowanym", "czynić przyjmowanym", "przyjęcie"]
+    },
+    {
+        "morfem": "puo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "--",
+        "znaczenia_pl": ["bieda", "biedny", "być biednym", "czynić biednym", "strata", "tracić"]
+    },
+    {
+        "morfem": "pue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "---",
+        "znaczenia_pl": ["kryzys", "kryzysowy", "być kryzysowym", "czynić kryzysowym", "trudność", "trudny", "być trudnym", "czynić trudnym"]
+    },
+    {
+        "morfem": "pie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "+++",
+        "znaczenia_pl": ["wolność", "wolny", "być wolnym", "czynić wolnym", "uwalniać"]
+    },
+    {
+        "morfem": "pio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "++",
+        "znaczenia_pl": ["władza", "władczy", "być władczym", "czynić władczym", "rządzić"]
+    },
+    {
+        "morfem": "pia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "+",
+        "znaczenia_pl": ["prawo", "prawny", "być prawnym", "czynić prawnym", "prawość"]
+    },
+    {
+        "morfem": "py",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": ".",
+        "znaczenia_pl": ["stan", "stanowy", "być stanem", "czynić stanem", "stanowić"]
+    },
+    {
+        "morfem": "pya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "-",
+        "znaczenia_pl": ["bezprawie", "bezprawny", "być bezprawnym", "czynić bezprawnym", "bezprawność"]
+    },
+    {
+        "morfem": "pyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "--",
+        "znaczenia_pl": ["poddaństwo", "poddańczy", "być poddaństwem", "czynić poddaństwem", "podporządkowanie"]
+    },
+    {
+        "morfem": "pye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "mieć",
+        "typ": "---",
+        "znaczenia_pl": ["niewola", "niewolny", "być niewolnym", "czynić niewolnym", "zniewolenie"]
+    },
+    {
+        "morfem": "p",
+        "klasa": "functio",
+        "pole_znaczeniowe": "mieć",
+        "typ": "*",
+        "znaczenia_pl": ["przymiot", "określenie", "przynależność"]
+    },
+    {
+        "morfem": "pi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "mieć",
+        "typ": "*",
+        "znaczenia_pl": ["ale"]
+    },
+    {
+        "morfem": "t",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ciało",
+        "typ": "*",
+        "znaczenia_pl": ["kolor"]
+    },
+    {
+        "morfem": "ti",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ciało",
+        "typ": "*",
+        "znaczenia_pl": ["sam", "się"]
+    },
+    {
+        "morfem": "c",
+        "klasa": "functio",
+        "pole_znaczeniowe": "emocja",
+        "typ": "*",
+        "znaczenia_pl": ["pewien"]
+    },
+    {
+        "morfem": "ci",
+        "klasa": "functio",
+        "pole_znaczeniowe": "emocja",
+        "typ": "*",
+        "znaczenia_pl": ["oraz", "i"]
+    },
+    {
+        "morfem": "k",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "*",
+        "znaczenia_pl": ["podmiot"]
+    },
+    {
+        "morfem": "ki",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ludzie",
+        "typ": "*",
+        "znaczenia_pl": ["zdanie podrzędne"]
+    },
+
+    {
+        "morfem": "b",
+        "klasa": "functio",
+        "pole_znaczeniowe": "wartość",
+        "typ": "*",
+        "znaczenia_pl": ["-kolwiek"]
+    },
+    {
+        "morfem": "bi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "wartość",
+        "typ": "*",
+        "znaczenia_pl": ["wtedy i tylko wtedy"]
+    },
+    {
+        "morfem": "be",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "+++",
+        "znaczenia_pl": ["wiara", "wierzyć", "wierny", "być wierzącym"]
+    },
+    {
+        "morfem": "bo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "++",
+        "znaczenia_pl": ["bezpieczeństwo", "bezpieczny", "być bezpiecznym", "czynić bezpiecznym"]
+    },
+    {
+        "morfem": "ba",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "+",
+        "znaczenia_pl": ["zakrycie", "zakrywać", "zakryty", "być zakrytym"]
+    },
+    {
+        "morfem": "bu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": ".",
+        "znaczenia_pl": ["ochrona", "chronić", "chroniony", "być chronionym"]
+    },
+    {
+        "morfem": "bua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "-",
+        "znaczenia_pl": ["otwarcie", "otwierać", "otwarty", "być otwartym"]
+    },
+    {
+        "morfem": "buo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "--",
+        "znaczenia_pl": ["zagrożenie", "zagrażać", "zagrożony", "być zagrożonym"]
+    },
+    {
+        "morfem": "bue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "---",
+        "znaczenia_pl": ["ateizm", "ateistyczny", "być ateistą", "nie wierzyć"]
+    },
+    {
+        "morfem": "bie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "+++",
+        "znaczenia_pl": ["świętość", "święty", "być świętym", "czynić świętym", "uświęcać"]
+    },
+    {
+        "morfem": "bio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "++",
+        "znaczenia_pl": ["chwała", "chwalebny", "chwalić", "być chwalonym"]
+    },
+    {
+        "morfem": "bia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "+",
+        "znaczenia_pl": ["piękno", "piękny", "być pięknym", "upiększać"]
+    },
+    {
+        "morfem": "by",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": ".",
+        "znaczenia_pl": ["wartość", "wartościowy", "być wartościowym", "cenić"]
+    },
+    {
+        "morfem": "bya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "-",
+        "znaczenia_pl": ["brzydota", "brzydki", "być brzydkim", "oszpecać"]
+    },
+    {
+        "morfem": "byo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "--",
+        "znaczenia_pl": ["hańba", "haniebny", "hańbić", "być zhańbionym"]
+    },
+    {
+        "morfem": "bye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wartość",
+        "typ": "---",
+        "znaczenia_pl": ["potępienie", "potępiać", "potępiony", "być potępionym"]
+    },
+
+    {
+        "morfem": "d",
+        "klasa": "functio",
+        "pole_znaczeniowe": "czas",
+        "typ": "*",
+        "znaczenia_pl": ["znowu"]
+    },
+    {
+        "morfem": "di",
+        "klasa": "functio",
+        "pole_znaczeniowe": "czas",
+        "typ": "*",
+        "znaczenia_pl": ["pytanie"]
+    },
+    {
+        "morfem": "de",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "+++",
+        "znaczenia_pl": ["młody", "młodość", "być młodym", "odmładzać"]
+    },
+    {
+        "morfem": "do",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "++",
+        "znaczenia_pl": ["początek", "zaczynać", "początkowy", "być początkiem"]
+    },
+    {
+        "morfem": "da",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "+",
+        "znaczenia_pl": ["przyszłość", "przyszły", "być w przyszłości"]
+    },
+    {
+        "morfem": "du",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": ".",
+        "znaczenia_pl": ["czas", "czasowy", "trwać w czasie"]
+    },
+    {
+        "morfem": "dua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "-",
+        "znaczenia_pl": ["przeszłość", "przeszły", "były", "być w przeszłości"]
+    },
+    {
+        "morfem": "duo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "--",
+        "znaczenia_pl": ["koniec", "kończyć", "końcowy", "być końcem"]
+    },
+    {
+        "morfem": "due",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "---",
+        "znaczenia_pl": ["stary", "starość", "być starym", "postarzać"]
+    },
+    {
+        "morfem": "die",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "+++",
+        "znaczenia_pl": ["pewność", "pewny", "być pewnym", "upewniać"]
+    },
+    {
+        "morfem": "dio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "++",
+        "znaczenia_pl": ["wierność", "wierny", "być wiernym", "dochowywać wierności"]
+    },
+    {
+        "morfem": "dia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "+",
+        "znaczenia_pl": ["trwanie", "trwać", "trwały", "kontynuacja"]
+    },
+    {
+        "morfem": "dy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": ".",
+        "znaczenia_pl": ["wybór", "wybierać", "szukać"]
+    },
+    {
+        "morfem": "dya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "-",
+        "znaczenia_pl": ["zmiana", "zmieniać", "zmienny", "być zmiennym"]
+    },
+    {
+        "morfem": "dyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "--",
+        "znaczenia_pl": ["zdrada", "zdradzać", "zdradziecki", "być zdrajcą"]
+    },
+    {
+        "morfem": "dye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czas",
+        "typ": "---",
+        "znaczenia_pl": ["przypuszczenie", "przypuszczać", "przypuszczalny", "przypadek"]
+    },
+
+    {
+        "morfem": "q",
+        "klasa": "functio",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "*",
+        "znaczenia_pl": []
+    },
+    {
+        "morfem": "qi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "*",
+        "znaczenia_pl": ["using namespace", "przestrzeń nazw"]
+    },
+    {
+        "morfem": "qe",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "+++",
+        "znaczenia_pl": ["kamień", "kamienny", "być kamieniem"]
+    },
+    {
+        "morfem": "qo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "++",
+        "znaczenia_pl": ["glina", "gliniany", "być gliną"]
+    },
+    {
+        "morfem": "qa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "+",
+        "znaczenia_pl": ["piasek", "piaskowy", "być piaskiem"]
+    },
+    {
+        "morfem": "qu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": ".",
+        "znaczenia_pl": ["dziura", "dziurawy", "być dziurą", "dziurawić"]
+    },
+    {
+        "morfem": "qua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "-",
+        "znaczenia_pl": ["gąbka", "gąbczasty", "być gąbką"]
+    },
+    {
+        "morfem": "quo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "--",
+        "znaczenia_pl": ["kryształ", "kryształowy", "być kryształem"]
+    },
+    {
+        "morfem": "que",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "---",
+        "znaczenia_pl": ["metal", "metalowy", "być metalem"]
+    },
+    {
+        "morfem": "qie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "+++",
+        "znaczenia_pl": ["wieszać", "wieszanie", "wiszący"]
+    },
+    {
+        "morfem": "qio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "++",
+        "znaczenia_pl": ["trzymać", "trzymanie", "uchwyt"]
+    },
+    {
+        "morfem": "qia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "+",
+        "znaczenia_pl": ["ciągnąć", "ciągnięcie"]
+    },
+    {
+        "morfem": "qy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": ".",
+        "znaczenia_pl": ["nosić", "noszenie"]
+    },
+    {
+        "morfem": "qya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "-",
+        "znaczenia_pl": ["pchać", "pchanie"]
+    },
+    {
+        "morfem": "qyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "--",
+        "znaczenia_pl": ["puszczać", "puszczanie"]
+    },
+    {
+        "morfem": "qye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "materiał_i_czynność",
+        "typ": "---",
+        "znaczenia_pl": ["kłaść", "kładzenie"]
+    },
+
+    {
+        "morfem": "g",
+        "klasa": "functio",
+        "pole_znaczeniowe": "słowo",
+        "typ": "*",
+        "znaczenia_pl": ["zmienna", "nazwa własna"]
+    },
+    {
+        "morfem": "gi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "słowo",
+        "typ": "*",
+        "znaczenia_pl": ["wołacz"]
+    },
+    {
+        "morfem": "ge",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "+++",
+        "znaczenia_pl": ["dziękować", "podziękowanie", "wdzięczność", "wdzięczny"]
+    },
+    {
+        "morfem": "go",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "++",
+        "znaczenia_pl": ["prawda", "prawdziwy", "być prawdziwym", "mówić prawdę"]
+    },
+    {
+        "morfem": "ga",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "+",
+        "znaczenia_pl": ["emfaza", "tak", "potwierdzać", "potwierdzenie"]
+    },
+    {
+        "morfem": "gu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": ".",
+        "znaczenia_pl": ["nazwa", "nazywać", "imię"]
+    },
+    {
+        "morfem": "gua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "-",
+        "znaczenia_pl": ["przeczenie", "nie", "zaprzeczać", "negacja"]
+    },
+    {
+        "morfem": "guo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "--",
+        "znaczenia_pl": ["kłamstwo", "kłamać", "kłamliwy", "być kłamstwem"]
+    },
+    {
+        "morfem": "gue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "---",
+        "znaczenia_pl": ["przepraszać", "przeprosiny", "skrucha"]
+    },
+    {
+        "morfem": "gie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "+++",
+        "znaczenia_pl": ["roztropność", "roztropny", "być roztropnym", "czynić roztropnym"]
+    },
+    {
+        "morfem": "gio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "++",
+        "znaczenia_pl": ["mądrość", "mądry", "być mądrym", "czynić mądrym"]
+    },
+    {
+        "morfem": "gia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "+",
+        "znaczenia_pl": ["głos", "głosowy", "wydawać głos", "brzmieć"]
+    },
+    {
+        "morfem": "gy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": ".",
+        "znaczenia_pl": ["słowo", "mówić", "słowny", "wypowiadać"]
+    },
+    {
+        "morfem": "gya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "-",
+        "znaczenia_pl": ["cisza", "cichy", "być cichym", "uciszać", "milczeć"]
+    },
+    {
+        "morfem": "gyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "--",
+        "znaczenia_pl": ["głupota", "głupi", "być głupim", "ogłupiać"]
+    },
+    {
+        "morfem": "gye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "słowo",
+        "typ": "---",
+        "znaczenia_pl": ["gniew", "gniewać się", "gniewny", "złościć"]
+    },
+
+    {
+        "morfem": "f",
+        "klasa": "functio",
+        "pole_znaczeniowe": "kształt",
+        "typ": "*",
+        "znaczenia_pl": ["imiesłowowy równoważnik zdania"]
+    },
+    {
+        "morfem": "fi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "kształt",
+        "typ": "*",
+        "znaczenia_pl": ["modus irrealis", "tryb przypuszczający"]
+    },
+    {
+        "morfem": "fe",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "+++",
+        "znaczenia_pl": ["prawo", "prawy", "strona prawa"]
+    },
+    {
+        "morfem": "fo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "++",
+        "znaczenia_pl": ["bryła", "bryłowy", "trójwymiarowy"]
+    },
+    {
+        "morfem": "fa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "+",
+        "znaczenia_pl": ["koło", "okrąg", "kolisty", "okrągły"]
+    },
+    {
+        "morfem": "fu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": ".",
+        "znaczenia_pl": ["kształt", "kształtować", "kształtny"]
+    },
+    {
+        "morfem": "fua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "-",
+        "znaczenia_pl": ["linia", "liniowy", "prosta", "nić"]
+    },
+    {
+        "morfem": "fuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "--",
+        "znaczenia_pl": ["wielokąt", "wielokątny"]
+    },
+    {
+        "morfem": "fue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "---",
+        "znaczenia_pl": ["lewo", "lewy", "strona lewa"]
+    },
+    {
+        "morfem": "fie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "+++",
+        "znaczenia_pl": ["elektryczność", "elektryczny", "elektryzować"]
+    },
+    {
+        "morfem": "fio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "++",
+        "znaczenia_pl": ["jasno", "jasny", "światło", "rozjaśniać", "świecić"]
+    },
+    {
+        "morfem": "fia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "+",
+        "znaczenia_pl": ["ciepło", "ciepły", "ogrzewać"]
+    },
+    {
+        "morfem": "fy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": ".",
+        "znaczenia_pl": ["cecha", "cechować", "właściwość"]
+    },
+    {
+        "morfem": "fya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "-",
+        "znaczenia_pl": ["zimno", "zimny", "chłodzić", "mróz"]
+    },
+    {
+        "morfem": "fyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "--",
+        "znaczenia_pl": ["ciemno", "ciemny", "ciemność", "ściemniać"]
+    },
+    {
+        "morfem": "fye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kształt",
+        "typ": "---",
+        "znaczenia_pl": ["magnetyzm", "magnetyczny", "przyciągać magnetycznie"]
+    },
+
+    {
+        "morfem": "s",
+        "klasa": "functio",
+        "pole_znaczeniowe": "substancja",
+        "typ": "*",
+        "znaczenia_pl": ["dopełnienie", "dopełnienie bliższe"]
+    },
+    {
+        "morfem": "si",
+        "klasa": "functio",
+        "pole_znaczeniowe": "substancja",
+        "typ": "*",
+        "znaczenia_pl": ["lub", "albo"]
+    },
+    {
+        "morfem": "se",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "+++",
+        "znaczenia_pl": ["świat", "światowy", "wszechświat"]
+    },
+    {
+        "morfem": "so",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "++",
+        "znaczenia_pl": ["zwierzę", "zwierzęcy", "być zwierzęciem"]
+    },
+    {
+        "morfem": "sa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "+",
+        "znaczenia_pl": ["bakteria", "bakteryjny", "mikrob"]
+    },
+    {
+        "morfem": "su",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": ".",
+        "znaczenia_pl": ["minerał", "mineralny", "skała"]
+    },
+    {
+        "morfem": "sua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "-",
+        "znaczenia_pl": ["grzyb", "grzybowy"]
+    },
+    {
+        "morfem": "suo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "--",
+        "znaczenia_pl": ["roślina", "roślinny", "rosnąć"]
+    },
+    {
+        "morfem": "sue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "---",
+        "znaczenia_pl": ["pojemnik", "naczynie", "mieścić", "zawierać"]
+    },
+    {
+        "morfem": "sie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "+++",
+        "znaczenia_pl": ["energia", "energetyczny", "zasilać"]
+    },
+    {
+        "morfem": "sio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "++",
+        "znaczenia_pl": ["ogień", "ognisty", "palić", "płonąć"]
+    },
+    {
+        "morfem": "sia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "+",
+        "znaczenia_pl": ["powietrze", "powietrzny", "wiatr", "wiać"]
+    },
+    {
+        "morfem": "sy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": ".",
+        "znaczenia_pl": ["substancja", "substancjalny", "tworzywo"]
+    },
+    {
+        "morfem": "sya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "-",
+        "znaczenia_pl": ["ziemia", "grunt", "ziemski", "ląd"]
+    },
+    {
+        "morfem": "syo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "--",
+        "znaczenia_pl": ["woda", "wodny", "płyn", "ciecz", "moczyć"]
+    },
+    {
+        "morfem": "sye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "substancja",
+        "typ": "---",
+        "znaczenia_pl": ["masa", "materia", "materialny", "ciężar"]
+    },
+
+    {
+        "morfem": "x",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ruch",
+        "typ": "*",
+        "znaczenia_pl": ["pętla"]
+    },
+    {
+        "morfem": "xi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ruch",
+        "typ": "*",
+        "znaczenia_pl": ["więc", "zatem"]
+    },
+    {
+        "morfem": "xe",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "+++",
+        "znaczenia_pl": ["cel", "celowy", "celować", "zmierzać do celu"]
+    },
+    {
+        "morfem": "xo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "++",
+        "znaczenia_pl": ["szybko", "szybki", "szybkość", "przyspieszać"]
+    },
+    {
+        "morfem": "xa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "+",
+        "znaczenia_pl": ["iść", "droga", "chodzić", "podążać"]
+    },
+    {
+        "morfem": "xu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": ".",
+        "znaczenia_pl": ["ruch", "ruszać się", "ruchomy", "poruszać"]
+    },
+    {
+        "morfem": "xua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "-",
+        "znaczenia_pl": ["stać", "bezruch", "nieruchomy", "zatrzymywać"]
+    },
+    {
+        "morfem": "xuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "--",
+        "znaczenia_pl": ["wolno", "powolny", "powoli", "zwalniać"]
+    },
+    {
+        "morfem": "xue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "---",
+        "znaczenia_pl": ["warunek", "warunkowy", "jeśli", "uzależniać"]
+    },
+    {
+        "morfem": "xie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "+++",
+        "znaczenia_pl": ["szeroki", "szerokość", "szeroko", "poszerzać"]
+    },
+    {
+        "morfem": "xio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "++",
+        "znaczenia_pl": ["długi", "długość", "długo", "wydłużać"]
+    },
+    {
+        "morfem": "xia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "+",
+        "znaczenia_pl": ["za (łac. pro)", "w zamian", "popierać"]
+    },
+    {
+        "morfem": "xy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": ".",
+        "znaczenia_pl": ["środek", "środkowy", "centrum", "SBCFz7D"]
+    },
+    {
+        "morfem": "xya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "-",
+        "znaczenia_pl": ["contra", "przeciw", "przeciwstawiać się"]
+    },
+    {
+        "morfem": "xyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "--",
+        "znaczenia_pl": ["krótki", "krótko", "krótkość", "skracać"]
+    },
+    {
+        "morfem": "xye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ruch",
+        "typ": "---",
+        "znaczenia_pl": ["wąski", "wąsko", "wąskość", "zwężać"]
+    },
+
+    {
+        "morfem": "h",
+        "klasa": "functio",
+        "pole_znaczeniowe": "natura",
+        "typ": "*",
+        "znaczenia_pl": ["funkcja"]
+    },
+    {
+        "morfem": "hi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "natura",
+        "typ": "*",
+        "znaczenia_pl": ["zaimek względny w zdaniu podrzędnym", "który"]
+    },
+    {
+        "morfem": "he",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "+++",
+        "znaczenia_pl": ["wzrost", "rosnąć", "wzrastać", "zwiększać"]
+    },
+    {
+        "morfem": "ho",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "++",
+        "znaczenia_pl": ["zdrowie", "zdrowy", "być zdrowym", "leczyć", "uzdrawiać"]
+    },
+    {
+        "morfem": "ha",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "+",
+        "znaczenia_pl": ["siła", "silny", "mocny", "wzmacniać"]
+    },
+    {
+        "morfem": "hu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": ".",
+        "znaczenia_pl": ["natura", "naturalny", "przyroda"]
+    },
+    {
+        "morfem": "hua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "-",
+        "znaczenia_pl": ["słabość", "słaby", "osłabiać", "być słabym"]
+    },
+    {
+        "morfem": "huo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "--",
+        "znaczenia_pl": ["choroba", "chory", "chorować", "zarażać"]
+    },
+    {
+        "morfem": "hue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "---",
+        "znaczenia_pl": ["zanik", "zanikać", "znikać", "ubytki", "zmniejszać"]
+    },
+    {
+        "morfem": "hie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "+++",
+        "znaczenia_pl": ["pojedynczy", "unikalny", "jedyny"]
+    },
+    {
+        "morfem": "hio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "++",
+        "znaczenia_pl": ["prostota", "prosty", "łatwy", "upraszczać"]
+    },
+    {
+        "morfem": "hia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "+",
+        "znaczenia_pl": ["normalny", "normalność", "zwykły", "normalizować"]
+    },
+    {
+        "morfem": "hy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": ".",
+        "znaczenia_pl": ["rodzaj", "typ", "gatunek", "klasyfikować"]
+    },
+    {
+        "morfem": "hya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "-",
+        "znaczenia_pl": ["dziwny", "dziwność", "nietypowy", "dziwić"]
+    },
+    {
+        "morfem": "hyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "--",
+        "znaczenia_pl": ["skomplikowanie", "skomplikowany", "trudny", "problem", "komplikować"]
+    },
+    {
+        "morfem": "hye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "natura",
+        "typ": "---",
+        "znaczenia_pl": ["z (kimś)", "towarzyszyć", "wraz z"]
+    },
+
+    {
+        "morfem": "v",
+        "klasa": "functio",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "*",
+        "znaczenia_pl": []
+    },
+    {
+        "morfem": "vi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "*",
+        "znaczenia_pl": []
+    },
+    {
+        "morfem": "ve",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "+++",
+        "znaczenia_pl": ["czerwony", "czerwień", "czerwienić"]
+    },
+    {
+        "morfem": "vo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "++",
+        "znaczenia_pl": ["żółty", "żółć", "żółknąć"]
+    },
+    {
+        "morfem": "va",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "+",
+        "znaczenia_pl": ["biały", "biel", "bielić"]
+    },
+    {
+        "morfem": "vu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": ".",
+        "znaczenia_pl": ["barwa", "kolor", "barwny", "kolorować"]
+    },
+    {
+        "morfem": "vua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "-",
+        "znaczenia_pl": ["czarny", "czerń", "czernić"]
+    },
+    {
+        "morfem": "vuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "--",
+        "znaczenia_pl": ["zielony", "zieleń", "zielenić się"]
+    },
+    {
+        "morfem": "vue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "---",
+        "znaczenia_pl": ["niebieski", "błękit", "niebieski kolor"]
+    },
+    {
+        "morfem": "vie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "+++",
+        "znaczenia_pl": ["suchy", "suchość", "suszyć"]
+    },
+    {
+        "morfem": "vio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "++",
+        "znaczenia_pl": ["wschód", "wschodni"]
+    },
+    {
+        "morfem": "via",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "+",
+        "znaczenia_pl": ["południe", "południowy"]
+    },
+    {
+        "morfem": "vy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": ".",
+        "znaczenia_pl": ["strona", "kierunek"]
+    },
+    {
+        "morfem": "vya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "-",
+        "znaczenia_pl": ["północ", "północny"]
+    },
+    {
+        "morfem": "vyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "--",
+        "znaczenia_pl": ["zachód", "zachodni"]
+    },
+    {
+        "morfem": "vye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "typ": "---",
+        "znaczenia_pl": ["mokry", "wilgoć", "moczyć"]
+    },
+
+    {
+        "morfem": "z",
+        "klasa": "functio",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "*",
+        "znaczenia_pl": ["dopełnienie dalsze"]
+    },
+    {
+        "morfem": "zi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "*",
+        "znaczenia_pl": ["też", "również"]
+    },
+    {
+        "morfem": "ze",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "+++",
+        "znaczenia_pl": ["gad", "gadzi"]
+    },
+    {
+        "morfem": "zo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "++",
+        "znaczenia_pl": ["ptak", "ptasi"]
+    },
+    {
+        "morfem": "za",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "+",
+        "znaczenia_pl": ["ssak", "ssaczy"]
+    },
+    {
+        "morfem": "zu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": ".",
+        "znaczenia_pl": ["sen", "spać", "śnić"]
+    },
+    {
+        "morfem": "zua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "-",
+        "znaczenia_pl": ["robak", "owad", "insekt"]
+    },
+    {
+        "morfem": "zuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "--",
+        "znaczenia_pl": ["ryba", "rybi"]
+    },
+    {
+        "morfem": "zue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "---",
+        "znaczenia_pl": ["płaz", "płazi"]
+    },
+    {
+        "morfem": "zie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "+++",
+        "znaczenia_pl": ["rzucać", "rzut"]
+    },
+    {
+        "morfem": "zio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "++",
+        "znaczenia_pl": ["latać", "lot"]
+    },
+    {
+        "morfem": "zia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "+",
+        "znaczenia_pl": ["biec", "bieg", "biegać"]
+    },
+    {
+        "morfem": "zy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": ".",
+        "znaczenia_pl": ["jechać", "jazda"]
+    },
+    {
+        "morfem": "zya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "-",
+        "znaczenia_pl": ["tańczyć", "taniec"]
+    },
+    {
+        "morfem": "zyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "--",
+        "znaczenia_pl": ["pływać", "pływanie"]
+    },
+    {
+        "morfem": "zye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "typ": "---",
+        "znaczenia_pl": ["kopać", "kopanie"]
+    },
+
+    {
+        "morfem": "j",
+        "klasa": "functio",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "*",
+        "znaczenia_pl": ["bez", "oprócz"]
+    },
+    {
+        "morfem": "ji",
+        "klasa": "functio",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "*",
+        "znaczenia_pl": ["aż"]
+    },
+    {
+        "morfem": "je",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "+++",
+        "znaczenia_pl": ["łatwo", "łatwy", "łatwość"]
+    },
+    {
+        "morfem": "jo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "++",
+        "znaczenia_pl": ["gładki", "gładko", "gładkość", "wygładzać"]
+    },
+    {
+        "morfem": "ja",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "+",
+        "znaczenia_pl": ["miękki", "miękko", "miękkość", "zmiękczać"]
+    },
+    {
+        "morfem": "ju",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": ".",
+        "znaczenia_pl": ["próbować", "próba", "testować"]
+    },
+    {
+        "morfem": "jua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "-",
+        "znaczenia_pl": ["twardy", "twardo", "twardość", "utwardzać"]
+    },
+    {
+        "morfem": "juo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "--",
+        "znaczenia_pl": ["szorstki", "szorstko", "szorstkość"]
+    },
+    {
+        "morfem": "jue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "---",
+        "znaczenia_pl": ["trudno", "trudny", "trudność", "utrudniać"]
+    },
+    {
+        "morfem": "jie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "+++",
+        "znaczenia_pl": ["drogi", "drogo", "kosztowny"]
+    },
+    {
+        "morfem": "jio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "++",
+        "znaczenia_pl": ["pełny", "pełno", "pełnia", "napełniać"]
+    },
+    {
+        "morfem": "jia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "+",
+        "znaczenia_pl": ["gruby", "grubo", "grubość", "pogrubiać"]
+    },
+    {
+        "morfem": "jy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": ".",
+        "znaczenia_pl": ["pieniądze", "pieniężny", "waluta"]
+    },
+    {
+        "morfem": "jya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "-",
+        "znaczenia_pl": ["chudy", "cienko", "cienki", "odchudzać"]
+    },
+    {
+        "morfem": "jyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "--",
+        "znaczenia_pl": ["pusty", "pusto", "pustka", "opróżniać"]
+    },
+    {
+        "morfem": "jye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pieniądze_i_faktura",
+        "typ": "---",
+        "znaczenia_pl": ["tani", "tanio", "taniość"]
+    },
+
+    {
+        "morfem": "w",
+        "klasa": "functio",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "*",
+        "znaczenia_pl": ["zamiast"]
+    },
+    {
+        "morfem": "wi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "*",
+        "znaczenia_pl": ["tylko"]
+    },
+    {
+        "morfem": "we",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "+++",
+        "znaczenia_pl": ["owoc", "owocowy", "owocować"]
+    },
+    {
+        "morfem": "wo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "++",
+        "znaczenia_pl": ["drzewo", "drzewny"]
+    },
+    {
+        "morfem": "wa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "+",
+        "znaczenia_pl": ["kwiat", "kwiatowy", "kwitnąć"]
+    },
+    {
+        "morfem": "wu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": ".",
+        "znaczenia_pl": ["liść", "liściasty"]
+    },
+    {
+        "morfem": "wua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "-",
+        "znaczenia_pl": ["zioło", "ziołowy"]
+    },
+    {
+        "morfem": "wuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "--",
+        "znaczenia_pl": ["krzew", "krzaczasty"]
+    },
+    {
+        "morfem": "wue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "---",
+        "znaczenia_pl": ["warzywo", "warzywny"]
+    },
+    {
+        "morfem": "wie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "+++",
+        "znaczenia_pl": ["słodki", "słodycz", "słodzić"]
+    },
+    {
+        "morfem": "wio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "++",
+        "znaczenia_pl": ["kwaśny", "kwas", "zakwaszać"]
+    },
+    {
+        "morfem": "wia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "+",
+        "znaczenia_pl": ["ciągły", "ciągłość", "nieprzerwany"]
+    },
+    {
+        "morfem": "wy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": ".",
+        "znaczenia_pl": ["SBCFz7D"]
+    },
+    {
+        "morfem": "wya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "-",
+        "znaczenia_pl": ["sypki", "sypkość", "sypać"]
+    },
+    {
+        "morfem": "wyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "--",
+        "znaczenia_pl": ["gorzki", "gorycz"]
+    },
+    {
+        "morfem": "wye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "typ": "---",
+        "znaczenia_pl": ["słony", "słoność", "solić"]
+    },
+
+    {
+        "morfem": "m",
+        "klasa": "functio",
+        "pole_znaczeniowe": "liczba",
+        "typ": "*",
+        "znaczenia_pl": ["liczebnik"]
+    },
+    {
+        "morfem": "mi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "liczba",
+        "typ": "*",
+        "znaczenia_pl": ["każdy", "wszyscy", "wszystko"]
+    },
+    {
+        "morfem": "me",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "+++",
+        "znaczenia_pl": ["całość", "cały", "kompletny"]
+    },
+    {
+        "morfem": "mo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "++",
+        "znaczenia_pl": ["dużo", "wiele", "mnogość", "liczba mnoga"]
+    },
+    {
+        "morfem": "ma",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "+",
+        "znaczenia_pl": ["część", "częściowy", "dzielić", "kawałek"]
+    },
+    {
+        "morfem": "mu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": ".",
+        "znaczenia_pl": ["liczba", "liczyć", "klasyfikator liczbowy"]
+    },
+    {
+        "morfem": "mua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "-",
+        "znaczenia_pl": ["reszta", "pozostałość", "pozostały"]
+    },
+    {
+        "morfem": "muo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "--",
+        "znaczenia_pl": ["mało", "niewiele", "niedużo"]
+    },
+    {
+        "morfem": "mue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "---",
+        "znaczenia_pl": ["brak", "brakować", "zero", "bez", "pozbawiać"]
+    },
+    {
+        "morfem": "mie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "+++",
+        "znaczenia_pl": ["wielkość", "duży", "wielki", "powiększać"]
+    },
+    {
+        "morfem": "mio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "++",
+        "znaczenia_pl": ["najbardziej", "stopień najwyższy"]
+    },
+    {
+        "morfem": "mia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "+",
+        "znaczenia_pl": ["bardziej", "więcej", "stopień wyższy"]
+    },
+    {
+        "morfem": "my",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": ".",
+        "znaczenia_pl": ["równy", "równość", "równać się", "taki sam"]
+    },
+    {
+        "morfem": "mya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "-",
+        "znaczenia_pl": ["mniej", "stopień niższy"]
+    },
+    {
+        "morfem": "myo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "--",
+        "znaczenia_pl": ["najmniej"]
+    },
+    {
+        "morfem": "mye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "liczba",
+        "typ": "---",
+        "znaczenia_pl": ["małość", "mały", "drobny", "zmniejszać"]
+    },
+
+    {
+        "morfem": "n",
+        "klasa": "functio",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "*",
+        "znaczenia_pl": ["okolicznik"]
+    },
+    {
+        "morfem": "ni",
+        "klasa": "functio",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "*",
+        "znaczenia_pl": ["czyli", "to znaczy"]
+    },
+    {
+        "morfem": "ne",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "+++",
+        "znaczenia_pl": ["na", "powierzchnia", "znajdować się na"]
+    },
+    {
+        "morfem": "no",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "++",
+        "znaczenia_pl": ["góra", "u góry", "nad", "wznosić się"]
+    },
+    {
+        "morfem": "na",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "+",
+        "znaczenia_pl": ["przed", "przód", "z przodu"]
+    },
+    {
+        "morfem": "nu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": ".",
+        "znaczenia_pl": ["miejsce", "lokalizacja", "znajdować się"]
+    },
+    {
+        "morfem": "nua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "-",
+        "znaczenia_pl": ["za", "tył", "z tyłu"]
+    },
+    {
+        "morfem": "nuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "--",
+        "znaczenia_pl": ["dół", "na dole", "poniżej"]
+    },
+    {
+        "morfem": "nue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "---",
+        "znaczenia_pl": ["pod", "spód", "znajdować się pod"]
+    },
+    {
+        "morfem": "nie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "+++",
+        "znaczenia_pl": ["zewnątrz", "na zewnątrz", "zewnętrzny"]
+    },
+    {
+        "morfem": "nio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "++",
+        "znaczenia_pl": ["do", "ku", "kierunek do", "dopełnienie dalsze"]
+    },
+    {
+        "morfem": "nia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "+",
+        "znaczenia_pl": ["blisko", "bliski", "bliskość", "zbliżać"]
+    },
+    {
+        "morfem": "ny",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": ".",
+        "znaczenia_pl": ["przestrzeń", "przestrzenny"]
+    },
+    {
+        "morfem": "nya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "-",
+        "znaczenia_pl": ["daleko", "daleki", "oddalać"]
+    },
+    {
+        "morfem": "nyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "--",
+        "znaczenia_pl": ["od", "z", "kierunek od"]
+    },
+    {
+        "morfem": "nye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "miejsce",
+        "typ": "---",
+        "znaczenia_pl": ["wewnątrz", "w środku", "wnętrze", "wewnętrzny"]
+    },
+
+    {
+        "morfem": "r",
+        "klasa": "functio",
+        "pole_znaczeniowe": "czynność",
+        "typ": "*",
+        "znaczenia_pl": ["orzeczenie"]
+    },
+    {
+        "morfem": "ri",
+        "klasa": "functio",
+        "pole_znaczeniowe": "czynność",
+        "typ": "*",
+        "znaczenia_pl": ["sposób", "jak"]
+    },
+    {
+        "morfem": "re",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "+++",
+        "znaczenia_pl": ["moc", "potęga", "potężny"]
+    },
+    {
+        "morfem": "ro",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "++",
+        "znaczenia_pl": ["praca", "pracować", "pracowniczy"]
+    },
+    {
+        "morfem": "ra",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "+",
+        "znaczenia_pl": ["narzędzie", "środek", "używać narzędzia"]
+    },
+    {
+        "morfem": "ru",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": ".",
+        "znaczenia_pl": ["czynność", "robić", "czynić", "działać"]
+    },
+    {
+        "morfem": "rua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "-",
+        "znaczenia_pl": ["rzecz", "przedmiot", "obiekt"]
+    },
+    {
+        "morfem": "ruo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "--",
+        "znaczenia_pl": ["czekanie", "czekać", "oczekiwać"]
+    },
+    {
+        "morfem": "rue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "---",
+        "znaczenia_pl": ["zaniechanie", "zaniechać", "rezygnować"]
+    },
+    {
+        "morfem": "rie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "+++",
+        "znaczenia_pl": ["sprawiedliwość", "sprawiedliwy", "sądzić sprawiedliwie"]
+    },
+    {
+        "morfem": "rio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "++",
+        "znaczenia_pl": ["dobro", "dobry", "być dobrym", "czynić dobro"]
+    },
+    {
+        "morfem": "ria",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "+",
+        "znaczenia_pl": ["poprawa", "poprawiać", "ulepszać"]
+    },
+    {
+        "morfem": "ry",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": ".",
+        "znaczenia_pl": ["akcja", "działanie"]
+    },
+    {
+        "morfem": "rya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "-",
+        "znaczenia_pl": ["pogorszenie", "pogarszać", "psuć"]
+    },
+    {
+        "morfem": "ryo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "--",
+        "znaczenia_pl": ["zło", "zły", "być złym", "czynić zło"]
+    },
+    {
+        "morfem": "rye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "czynność",
+        "typ": "---",
+        "znaczenia_pl": ["oszustwo", "oszukiwać", "oszust"]
+    },
+
+    {
+        "morfem": "l",
+        "klasa": "functio",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "*",
+        "znaczenia_pl": ["zaimek wskazujący", "ten", "wskaźnik"]
+    },
+    {
+        "morfem": "li",
+        "klasa": "functio",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "*",
+        "znaczenia_pl": ["niech", "tryb rozkazujący", "życzenie"]
+    },
+    {
+        "morfem": "le",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "+++",
+        "znaczenia_pl": ["przyczyna", "powód", "ponieważ", "bo", "powodować"]
+    },
+    {
+        "morfem": "lo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "++",
+        "znaczenia_pl": ["życie", "żyć", "żywy", "ożywiać"]
+    },
+    {
+        "morfem": "la",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "+",
+        "znaczenia_pl": ["tworzenie", "tworzyć", "robić", "kreować"]
+    },
+    {
+        "morfem": "lu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": ".",
+        "znaczenia_pl": ["istnienie", "istnieć", "być"]
+    },
+    {
+        "morfem": "lua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "-",
+        "znaczenia_pl": ["niszczenie", "niszczyć", "destrukcja"]
+    },
+    {
+        "morfem": "luo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "--",
+        "znaczenia_pl": ["śmierć", "umierać", "zabijać", "martwy", "śmiertelny"]
+    },
+    {
+        "morfem": "lue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "---",
+        "znaczenia_pl": ["skutek", "rezultat", "wynikać"]
+    },
+    {
+        "morfem": "lie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "+++",
+        "znaczenia_pl": ["nadzieja", "mieć nadzieję", "ufać"]
+    },
+    {
+        "morfem": "lio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "++",
+        "znaczenia_pl": ["wola", "chcieć", "chęć", "pragnąć"]
+    },
+    {
+        "morfem": "lia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "+",
+        "znaczenia_pl": ["przyzwolenie", "pozwalać", "zgoda", "móc"]
+    },
+    {
+        "morfem": "ly",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": ".",
+        "znaczenia_pl": ["możliwość", "móc", "możliwy", "potrafić"]
+    },
+    {
+        "morfem": "lya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "-",
+        "znaczenia_pl": ["powinność", "powinien", "obowiązek"]
+    },
+    {
+        "morfem": "lyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "--",
+        "znaczenia_pl": ["konieczność", "musieć", "konieczny", "przymus"]
+    },
+    {
+        "morfem": "lye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "istnienie",
+        "typ": "---",
+        "znaczenia_pl": ["zwątpienie", "wątpić", "niepewność"]
+    }
+]

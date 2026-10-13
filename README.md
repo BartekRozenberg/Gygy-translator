@@ -4,6 +4,7 @@ Translator for a conlang gygy.
 
 gygy-translator/
 ├── data/
+│   ├── numbers.json             # Słownik liczb w języku gygy
 │   ├── morphemes.json           # Twój ustrukturyzowany słownik 256 morfemów
 │   ├── golden_dataset.jsonl     # Zbiór testowy do walidacji (50-100 par)
 │   └── synthetic_train.jsonl    # Wygenerowane pary do fine-tuningu
