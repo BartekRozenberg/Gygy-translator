@@ -618,7 +618,7 @@ GOLDEN_MANUAL_SENTENCES = [
 # 6. GŁÓWNA PĘTLA GENERUJĄCA ZBIÓR TRENINGOWY I WALIDACYJNY
 # =====================================================================
 
-def build_datasets(num_synthetic: int = 5000):
+def build_datasets(num_synthetic: int = 50000):
     output_dir = Path("data")
     output_dir.mkdir(exist_ok=True)
 
@@ -681,4 +681,4 @@ def build_datasets(num_synthetic: int = 5000):
 
 
 if __name__ == "__main__":
-    build_datasets(num_synthetic=5000)
+    build_datasets(num_synthetic=50000)
