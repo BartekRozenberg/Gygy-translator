@@ -623,10 +623,12 @@ def build_datasets(num_synthetic: int = 5000):
     output_dir.mkdir(exist_ok=True)
 
     # 1. Zapis złotego zbioru testowego (z podręcznika)
-    golden_path = output_dir / "test_golden.jsonl"
-    with open(golden_path, "w", encoding="utf-8") as f:
-        for item in GOLDEN_MANUAL_SENTENCES:
-            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+    golden_path = Path("data/test_golden.jsonl")
+    seen_gygy = set()
+    if golden_path.exists():
+        with open(golden_path, "r", encoding="utf-8") as f:
+            for line in f:
+                seen_gygy.add(json.loads(line)["gygy"].strip().lower())
     print(f"[✓] Zapisano {len(GOLDEN_MANUAL_SENTENCES)} zdań testowych z podręcznika do: {golden_path}")
 
     # 2. Generowanie wprawek słownikowych z morphemes.json i numbers.json
