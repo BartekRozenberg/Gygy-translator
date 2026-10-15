@@ -2,6 +2,8 @@
 Translator for a conlang gygy.
 
 
+
+```
 gygy-translator/
 ├── data/
 │   ├── numbers.json             # Słownik liczb w języku gygy
@@ -19,3 +21,4 @@ gygy-translator/
 ├── cli.py                       # Interfejs terminalowy
 ├── requirements.txt
 └── README.md                    # Dokumentacja języka, architektury i wykres metryk
+```
