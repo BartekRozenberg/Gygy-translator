@@ -1,0 +1,4898 @@
+[
+    {
+        "morfem": "k'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuokop",
+        "typ": "*",
+        "znaczenia_pl": [
+            "pokrewieństwo"
+        ]
+    },
+    {
+        "morfem": "k'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "rola"
+        ]
+    },
+    {
+        "morfem": "k'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuokuokua",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "dziadek",
+            "być dziadek",
+            "związany z: dziadek"
+        ]
+    },
+    {
+        "morfem": "k'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuokup kiekuokukua",
+        "typ": "++",
+        "znaczenia_pl": [
+            "wujek",
+            "być wujek",
+            "związany z: wujek"
+        ]
+    },
+    {
+        "morfem": "k'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "piakuokua",
+        "typ": "+",
+        "znaczenia_pl": [
+            "teść",
+            "być teść",
+            "związany z: teść"
+        ]
+    },
+    {
+        "morfem": "k'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuoko",
+        "typ": ".",
+        "znaczenia_pl": [
+            "krewny",
+            "być krewny",
+            "związany z: krewny"
+        ]
+    },
+    {
+        "morfem": "k'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuokup koku",
+        "typ": "-",
+        "znaczenia_pl": [
+            "kuzyn",
+            "być kuzyn",
+            "związany z: kuzyn"
+        ]
+    },
+    {
+        "morfem": "k'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kiekuap kokua",
+        "typ": "--",
+        "znaczenia_pl": [
+            "bratanek",
+            "być bratanek",
+            "związany z: bratanek"
+        ]
+    },
+    {
+        "morfem": "k'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kokokua",
+        "typ": "---",
+        "znaczenia_pl": [
+            "wnuk",
+            "być wnuk",
+            "związany z: wnuk"
+        ]
+    },
+    {
+        "morfem": "k'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuekua",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "gospodarz",
+            "być gospodarz",
+            "związany z: gospodarz"
+        ]
+    },
+    {
+        "morfem": "k'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "nioxaku",
+        "typ": "++",
+        "znaczenia_pl": [
+            "gość",
+            "być gość",
+            "związany z: gość"
+        ]
+    },
+    {
+        "morfem": "k'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "nialonuku",
+        "typ": "+",
+        "znaczenia_pl": [
+            "sąsiad",
+            "być sąsiad",
+            "związany z: sąsiad"
+        ]
+    },
+    {
+        "morfem": "k'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "giogyku",
+        "typ": ".",
+        "znaczenia_pl": [
+            "znajomy",
+            "być znajomy",
+            "związany z: znajomy"
+        ]
+    },
+    {
+        "morfem": "k'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "kuokumueku",
+        "typ": "-",
+        "znaczenia_pl": [
+            "sierota",
+            "być sierota",
+            "związany z: sierota"
+        ]
+    },
+    {
+        "morfem": "k'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "luociakua",
+        "typ": "--",
+        "znaczenia_pl": [
+            "wdowiec",
+            "być wdowiec",
+            "związany z: wdowiec"
+        ]
+    },
+    {
+        "morfem": "k'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "pokrewieństwo_i_relacje",
+        "namespace": "kuoqi",
+        "alias": "ciakoku",
+        "typ": "---",
+        "znaczenia_pl": [
+            "pasierb",
+            "być pasierb",
+            "związany z: pasierb"
+        ]
+    },
+    {
+        "morfem": "v",
+        "klasa": "functio",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "t",
+        "typ": "*",
+        "znaczenia_pl": [
+            "barwa"
+        ]
+    },
+    {
+        "morfem": "vi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "vyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "strona"
+        ]
+    },
+    {
+        "morfem": "ve",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "siot",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "czerwony",
+            "być czerwony",
+            "związany z: czerwony"
+        ]
+    },
+    {
+        "morfem": "vo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "pot",
+        "typ": "++",
+        "znaczenia_pl": [
+            "żółty",
+            "być żółty",
+            "związany z: żółty"
+        ]
+    },
+    {
+        "morfem": "va",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fiot",
+        "typ": "+",
+        "znaczenia_pl": [
+            "biały",
+            "być biały",
+            "związany z: biały"
+        ]
+    },
+    {
+        "morfem": "vu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fut",
+        "typ": ".",
+        "znaczenia_pl": [
+            "barwa",
+            "być barwa",
+            "związany z: barwa"
+        ]
+    },
+    {
+        "morfem": "vua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fyot",
+        "typ": "-",
+        "znaczenia_pl": [
+            "czarny",
+            "być czarny",
+            "związany z: czarny"
+        ]
+    },
+    {
+        "morfem": "vuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "suot",
+        "typ": "--",
+        "znaczenia_pl": [
+            "zielony",
+            "być zielony",
+            "związany z: zielony"
+        ]
+    },
+    {
+        "morfem": "vue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "syot",
+        "typ": "---",
+        "znaczenia_pl": [
+            "niebieski",
+            "być niebieski",
+            "związany z: niebieski"
+        ]
+    },
+    {
+        "morfem": "vie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "syomue",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "suchy",
+            "być suchy",
+            "związany z: suchy"
+        ]
+    },
+    {
+        "morfem": "vio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fiodonu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "wschód",
+            "być wschód",
+            "związany z: wschód"
+        ]
+    },
+    {
+        "morfem": "via",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fiononu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "południe",
+            "być południe",
+            "związany z: południe"
+        ]
+    },
+    {
+        "morfem": "vy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "nyhy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "strona",
+            "być strona",
+            "związany z: strona"
+        ]
+    },
+    {
+        "morfem": "vya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fyonuonu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "północ",
+            "być północ",
+            "związany z: północ"
+        ]
+    },
+    {
+        "morfem": "vyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "fioduonu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "zachód",
+            "być zachód",
+            "związany z: zachód"
+        ]
+    },
+    {
+        "morfem": "vye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "barwa_i_strona",
+        "namespace": "teqi",
+        "alias": "syopu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "mokry",
+            "być mokry",
+            "związany z: mokry"
+        ]
+    },
+    {
+        "morfem": "z",
+        "klasa": "functio",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "nio",
+        "typ": "*",
+        "znaczenia_pl": [
+            "dopełnienie dalsze"
+        ]
+    },
+    {
+        "morfem": "zi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "ci",
+        "typ": "*",
+        "znaczenia_pl": [
+            "też"
+        ]
+    },
+    {
+        "morfem": "ze",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "fuaso",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "gad",
+            "być gad",
+            "związany z: gad"
+        ]
+    },
+    {
+        "morfem": "zo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "siaso",
+        "typ": "++",
+        "znaczenia_pl": [
+            "ptak",
+            "być ptak",
+            "związany z: ptak"
+        ]
+    },
+    {
+        "morfem": "za",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "tiasyoso",
+        "typ": "+",
+        "znaczenia_pl": [
+            "ssak",
+            "być ssak",
+            "związany z: ssak"
+        ]
+    },
+    {
+        "morfem": "zu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "fyodupy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "sen",
+            "być sen",
+            "związany z: sen"
+        ]
+    },
+    {
+        "morfem": "zua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "myeso",
+        "typ": "-",
+        "znaczenia_pl": [
+            "robak",
+            "być robak",
+            "związany z: robak"
+        ]
+    },
+    {
+        "morfem": "zuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "syoso",
+        "typ": "--",
+        "znaczenia_pl": [
+            "ryba",
+            "być ryba",
+            "związany z: ryba"
+        ]
+    },
+    {
+        "morfem": "zue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "syosvaso",
+        "typ": "---",
+        "znaczenia_pl": [
+            "płaz",
+            "być płaz",
+            "związany z: płaz"
+        ]
+    },
+    {
+        "morfem": "zie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "nyaxa",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "rzucać",
+            "być rzucać",
+            "związany z: rzucać"
+        ]
+    },
+    {
+        "morfem": "zio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "siaxa",
+        "typ": "++",
+        "znaczenia_pl": [
+            "latać",
+            "być latać",
+            "związany z: latać"
+        ]
+    },
+    {
+        "morfem": "zia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "xoxa",
+        "typ": "+",
+        "znaczenia_pl": [
+            "biec",
+            "być biec",
+            "związany z: biec"
+        ]
+    },
+    {
+        "morfem": "zy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "xaraxa",
+        "typ": ".",
+        "znaczenia_pl": [
+            "jechać",
+            "być jechać",
+            "związany z: jechać"
+        ]
+    },
+    {
+        "morfem": "zya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "biaxu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "tańczyć",
+            "być tańczyć",
+            "związany z: tańczyć"
+        ]
+    },
+    {
+        "morfem": "zyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "syoxa",
+        "typ": "--",
+        "znaczenia_pl": [
+            "pływać",
+            "być pływać",
+            "związany z: pływać"
+        ]
+    },
+    {
+        "morfem": "zye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "zwierzęta_i_ruch",
+        "namespace": "soqi",
+        "alias": "syaxu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "kopać",
+            "być kopać",
+            "związany z: kopać"
+        ]
+    },
+    {
+        "morfem": "j",
+        "klasa": "functio",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "mue",
+        "typ": "*",
+        "znaczenia_pl": [
+            "bez"
+        ]
+    },
+    {
+        "morfem": "ji",
+        "klasa": "functio",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "duon",
+        "typ": "*",
+        "znaczenia_pl": [
+            "aż"
+        ]
+    },
+    {
+        "morfem": "je",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "hio",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "łatwo",
+            "być łatwo",
+            "związany z: łatwo"
+        ]
+    },
+    {
+        "morfem": "jo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "nanyta",
+        "typ": "++",
+        "znaczenia_pl": [
+            "gładki",
+            "być gładki",
+            "związany z: gładki"
+        ]
+    },
+    {
+        "morfem": "ja",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "huata",
+        "typ": "+",
+        "znaczenia_pl": [
+            "miękki",
+            "być miękki",
+            "związany z: miękki"
+        ]
+    },
+    {
+        "morfem": "ju",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "rody",
+        "typ": ".",
+        "znaczenia_pl": [
+            "próbować",
+            "być próbować",
+            "związany z: próbować"
+        ]
+    },
+    {
+        "morfem": "jua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "hata",
+        "typ": "-",
+        "znaczenia_pl": [
+            "twardy",
+            "być twardy",
+            "związany z: twardy"
+        ]
+    },
+    {
+        "morfem": "juo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "ryota",
+        "typ": "--",
+        "znaczenia_pl": [
+            "szorstki",
+            "być szorstki",
+            "związany z: szorstki"
+        ]
+    },
+    {
+        "morfem": "jue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "hyo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "trudno",
+            "być trudno",
+            "związany z: trudno"
+        ]
+    },
+    {
+        "morfem": "jie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "mobyp",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "drogi",
+            "być drogi",
+            "związany z: drogi"
+        ]
+    },
+    {
+        "morfem": "jio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "mepu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "pełny",
+            "być pełny",
+            "związany z: pełny"
+        ]
+    },
+    {
+        "morfem": "jia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "xiony",
+        "typ": "+",
+        "znaczenia_pl": [
+            "gruby",
+            "być gruby",
+            "związany z: gruby"
+        ]
+    },
+    {
+        "morfem": "jy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "pora",
+        "typ": ".",
+        "znaczenia_pl": [
+            "pieniądze",
+            "być pieniądze",
+            "związany z: pieniądze"
+        ]
+    },
+    {
+        "morfem": "jya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "xyony",
+        "typ": "-",
+        "znaczenia_pl": [
+            "chudy",
+            "być chudy",
+            "związany z: chudy"
+        ]
+    },
+    {
+        "morfem": "jyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "muepu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "pusty",
+            "być pusty",
+            "związany z: pusty"
+        ]
+    },
+    {
+        "morfem": "jye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "faktura_i_pieniądze",
+        "namespace": "taqi",
+        "alias": "muobyp",
+        "typ": "---",
+        "znaczenia_pl": [
+            "tani",
+            "być tani",
+            "związany z: tani"
+        ]
+    },
+    {
+        "morfem": "w",
+        "klasa": "functio",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "xia",
+        "typ": "*",
+        "znaczenia_pl": [
+            "zamiast"
+        ]
+    },
+    {
+        "morfem": "wi",
+        "klasa": "functio",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "hiep",
+        "typ": "*",
+        "znaczenia_pl": [
+            "tylko"
+        ]
+    },
+    {
+        "morfem": "we",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "suoko",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "owoc",
+            "być owoc",
+            "związany z: owoc"
+        ]
+    },
+    {
+        "morfem": "wo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "miesuo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "drzewo",
+            "być drzewo",
+            "związany z: drzewo"
+        ]
+    },
+    {
+        "morfem": "wa",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "biasuo",
+        "typ": "+",
+        "znaczenia_pl": [
+            "kwiat",
+            "być kwiat",
+            "związany z: kwiat"
+        ]
+    },
+    {
+        "morfem": "wu",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "suotio",
+        "typ": ".",
+        "znaczenia_pl": [
+            "liść",
+            "być liść",
+            "związany z: liść"
+        ]
+    },
+    {
+        "morfem": "wua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "hosuo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "zioło",
+            "być zioło",
+            "związany z: zioło"
+        ]
+    },
+    {
+        "morfem": "wuo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "myesuo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "krzew",
+            "być krzew",
+            "związany z: krzew"
+        ]
+    },
+    {
+        "morfem": "wue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "tiasuo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "warzywo",
+            "być warzywo",
+            "związany z: warzywo"
+        ]
+    },
+    {
+        "morfem": "wie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "sietuo",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "słodki",
+            "być słodki",
+            "związany z: słodki"
+        ]
+    },
+    {
+        "morfem": "wio",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "suotuo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "kwaśny",
+            "być kwaśny",
+            "związany z: kwaśny"
+        ]
+    },
+    {
+        "morfem": "wia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "modu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "ciągły",
+            "być ciągły",
+            "związany z: ciągły"
+        ]
+    },
+    {
+        "morfem": "wy",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "xy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "SBCFz7D",
+            "być SBCFz7D",
+            "związany z: SBCFz7D"
+        ]
+    },
+    {
+        "morfem": "wya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "muosu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "sypki",
+            "być sypki",
+            "związany z: sypki"
+        ]
+    },
+    {
+        "morfem": "wyo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "ryotuo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "gorzki",
+            "być gorzki",
+            "związany z: gorzki"
+        ]
+    },
+    {
+        "morfem": "wye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "rośliny_i_smak",
+        "namespace": "suoqi",
+        "alias": "sutuo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "słony",
+            "być słony",
+            "związany z: słony"
+        ]
+    },
+    {
+        "morfem": "p'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "piogup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "tytuł"
+        ]
+    },
+    {
+        "morfem": "p'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "piopep",
+        "typ": "*",
+        "znaczenia_pl": [
+            "ustrój"
+        ]
+    },
+    {
+        "morfem": "p'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "miepioku",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "cesarz",
+            "być cesarz",
+            "związany z: cesarz"
+        ]
+    },
+    {
+        "morfem": "p'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "pioku",
+        "typ": "++",
+        "znaczenia_pl": [
+            "król",
+            "być król",
+            "związany z: król"
+        ]
+    },
+    {
+        "morfem": "p'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "depioku",
+        "typ": "+",
+        "znaczenia_pl": [
+            "książę",
+            "być książę",
+            "związany z: książę"
+        ]
+    },
+    {
+        "morfem": "p'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "pionu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "państwo",
+            "być państwo",
+            "związany z: państwo"
+        ]
+    },
+    {
+        "morfem": "p'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "mapionu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "prowincja",
+            "być prowincja",
+            "związany z: prowincja"
+        ]
+    },
+    {
+        "morfem": "p'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "pyopionu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "kolonia",
+            "być kolonia",
+            "związany z: kolonia"
+        ]
+    },
+    {
+        "morfem": "p'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "piomue",
+        "typ": "---",
+        "znaczenia_pl": [
+            "anarchia",
+            "być anarchia",
+            "związany z: anarchia"
+        ]
+    },
+    {
+        "morfem": "p'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "kucia",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "społeczeństwo",
+            "być społeczeństwo",
+            "związany z: społeczeństwo"
+        ]
+    },
+    {
+        "morfem": "p'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "pionuku",
+        "typ": "++",
+        "znaczenia_pl": [
+            "obywatel",
+            "być obywatel",
+            "związany z: obywatel"
+        ]
+    },
+    {
+        "morfem": "p'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "popioku",
+        "typ": "+",
+        "znaczenia_pl": [
+            "arystokrata",
+            "być arystokrata",
+            "związany z: arystokrata"
+        ]
+    },
+    {
+        "morfem": "p'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "kumo",
+        "typ": ".",
+        "znaczenia_pl": [
+            "lud",
+            "być lud",
+            "związany z: lud"
+        ]
+    },
+    {
+        "morfem": "p'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "suoroku",
+        "typ": "-",
+        "znaczenia_pl": [
+            "chłop",
+            "być chłop",
+            "związany z: chłop"
+        ]
+    },
+    {
+        "morfem": "p'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "pyoku",
+        "typ": "--",
+        "znaczenia_pl": [
+            "poddany",
+            "być poddany",
+            "związany z: poddany"
+        ]
+    },
+    {
+        "morfem": "p'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "władza_i_społeczeństwo",
+        "namespace": "pioqi",
+        "alias": "nyopionuku",
+        "typ": "---",
+        "znaczenia_pl": [
+            "banita",
+            "być banita",
+            "związany z: banita"
+        ]
+    },
+    {
+        "morfem": "t'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "nyetup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "narząd"
+        ]
+    },
+    {
+        "morfem": "t'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "tiop",
+        "typ": "*",
+        "znaczenia_pl": [
+            "ubiór"
+        ]
+    },
+    {
+        "morfem": "t'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "nyenotu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "mózg",
+            "być mózg",
+            "związany z: mózg"
+        ]
+    },
+    {
+        "morfem": "t'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "cunu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "serce",
+            "być serce",
+            "związany z: serce"
+        ]
+    },
+    {
+        "morfem": "t'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "siatu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "płuco",
+            "być płuco",
+            "związany z: płuco"
+        ]
+    },
+    {
+        "morfem": "t'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "nyetu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "trzewia",
+            "być trzewia",
+            "związany z: trzewia"
+        ]
+    },
+    {
+        "morfem": "t'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "tiasuetu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "żołądek",
+            "być żołądek",
+            "związany z: żołądek"
+        ]
+    },
+    {
+        "morfem": "t'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "tietu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "wątroba",
+            "być wątroba",
+            "związany z: wątroba"
+        ]
+    },
+    {
+        "morfem": "t'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "xionyetu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "jelito",
+            "być jelito",
+            "związany z: jelito"
+        ]
+    },
+    {
+        "morfem": "t'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "giotio",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "czapka",
+            "być czapka",
+            "związany z: czapka"
+        ]
+    },
+    {
+        "morfem": "t'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "nuatio",
+        "typ": "++",
+        "znaczenia_pl": [
+            "płaszcz",
+            "być płaszcz",
+            "związany z: płaszcz"
+        ]
+    },
+    {
+        "morfem": "t'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "xietio",
+        "typ": "+",
+        "znaczenia_pl": [
+            "koszula",
+            "być koszula",
+            "związany z: koszula"
+        ]
+    },
+    {
+        "morfem": "t'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "hytio",
+        "typ": ".",
+        "znaczenia_pl": [
+            "odzież",
+            "być odzież",
+            "związany z: odzież"
+        ]
+    },
+    {
+        "morfem": "t'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "xuatio",
+        "typ": "-",
+        "znaczenia_pl": [
+            "spodnie",
+            "być spodnie",
+            "związany z: spodnie"
+        ]
+    },
+    {
+        "morfem": "t'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "xatio",
+        "typ": "--",
+        "znaczenia_pl": [
+            "but",
+            "być but",
+            "związany z: but"
+        ]
+    },
+    {
+        "morfem": "t'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "narządy_i_ubiór",
+        "namespace": "tuqi",
+        "alias": "nyetio",
+        "typ": "---",
+        "znaczenia_pl": [
+            "pas",
+            "być pas",
+            "związany z: pas"
+        ]
+    },
+    {
+        "morfem": "c'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyepiogup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "stopień"
+        ]
+    },
+    {
+        "morfem": "c'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyexup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "manewr"
+        ]
+    },
+    {
+        "morfem": "c'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyekumo",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "armia",
+            "być armia",
+            "związany z: armia"
+        ]
+    },
+    {
+        "morfem": "c'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "macyekumo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "oddział",
+            "być oddział",
+            "związany z: oddział"
+        ]
+    },
+    {
+        "morfem": "c'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyepe",
+        "typ": "+",
+        "znaczenia_pl": [
+            "szyk",
+            "być szyk",
+            "związany z: szyk"
+        ]
+    },
+    {
+        "morfem": "c'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyery",
+        "typ": ".",
+        "znaczenia_pl": [
+            "bitwa",
+            "być bitwa",
+            "związany z: bitwa"
+        ]
+    },
+    {
+        "morfem": "c'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyara",
+        "typ": "-",
+        "znaczenia_pl": [
+            "broń",
+            "być broń",
+            "związany z: broń"
+        ]
+    },
+    {
+        "morfem": "c'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "piogy",
+        "typ": "--",
+        "znaczenia_pl": [
+            "rozkaz",
+            "być rozkaz",
+            "związany z: rozkaz"
+        ]
+    },
+    {
+        "morfem": "c'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyegio",
+        "typ": "---",
+        "znaczenia_pl": [
+            "strategia",
+            "być strategia",
+            "związany z: strategia"
+        ]
+    },
+    {
+        "morfem": "c'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "niocyexu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "ofensywa",
+            "być ofensywa",
+            "związany z: ofensywa"
+        ]
+    },
+    {
+        "morfem": "c'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyepu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "zaopatrzenie",
+            "być zaopatrzenie",
+            "związany z: zaopatrzenie"
+        ]
+    },
+    {
+        "morfem": "c'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyetexu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "zwiad",
+            "być zwiad",
+            "związany z: zwiad"
+        ]
+    },
+    {
+        "morfem": "c'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "xyapio",
+        "typ": ".",
+        "znaczenia_pl": [
+            "bunt",
+            "być bunt",
+            "związany z: bunt"
+        ]
+    },
+    {
+        "morfem": "c'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "ryocyelua",
+        "typ": "-",
+        "znaczenia_pl": [
+            "sabotaż",
+            "być sabotaż",
+            "związany z: sabotaż"
+        ]
+    },
+    {
+        "morfem": "c'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyepuo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "straty",
+            "być straty",
+            "związany z: straty"
+        ]
+    },
+    {
+        "morfem": "c'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "wojskowość",
+        "namespace": "cyeqi",
+        "alias": "cyeduo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "kapitulacja",
+            "być kapitulacja",
+            "związany z: kapitulacja"
+        ]
+    },
+    {
+        "morfem": "b'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biekup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "kapłan"
+        ]
+    },
+    {
+        "morfem": "b'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biegysuep",
+        "typ": "*",
+        "znaczenia_pl": [
+            "pismo"
+        ]
+    },
+    {
+        "morfem": "b'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "bieky",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "bóg",
+            "być bóg",
+            "związany z: bóg"
+        ]
+    },
+    {
+        "morfem": "b'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "sieloky",
+        "typ": "++",
+        "znaczenia_pl": [
+            "duch",
+            "być duch",
+            "związany z: duch"
+        ]
+    },
+    {
+        "morfem": "b'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biecu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "dusza",
+            "być dusza",
+            "związany z: dusza"
+        ]
+    },
+    {
+        "morfem": "b'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "bepe",
+        "typ": ".",
+        "znaczenia_pl": [
+            "religia",
+            "być religia",
+            "związany z: religia"
+        ]
+    },
+    {
+        "morfem": "b'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "bienu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "świątynia",
+            "być świątynia",
+            "związany z: świątynia"
+        ]
+    },
+    {
+        "morfem": "b'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "beru",
+        "typ": "--",
+        "znaczenia_pl": [
+            "rytuał",
+            "być rytuał",
+            "związany z: rytuał"
+        ]
+    },
+    {
+        "morfem": "b'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biepa",
+        "typ": "---",
+        "znaczenia_pl": [
+            "ofiara",
+            "być ofiara",
+            "związany z: ofiara"
+        ]
+    },
+    {
+        "morfem": "b'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biegy",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "modlitwa",
+            "być modlitwa",
+            "związany z: modlitwa"
+        ]
+    },
+    {
+        "morfem": "b'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "dategy",
+        "typ": "++",
+        "znaczenia_pl": [
+            "proroctwo",
+            "być proroctwo",
+            "związany z: proroctwo"
+        ]
+    },
+    {
+        "morfem": "b'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biefe",
+        "typ": "+",
+        "znaczenia_pl": [
+            "przykazanie",
+            "być przykazanie",
+            "związany z: przykazanie"
+        ]
+    },
+    {
+        "morfem": "b'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "biepa",
+        "typ": ".",
+        "znaczenia_pl": [
+            "łaska",
+            "być łaska",
+            "związany z: łaska"
+        ]
+    },
+    {
+        "morfem": "b'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "byabie",
+        "typ": "-",
+        "znaczenia_pl": [
+            "świętokradztwo",
+            "być świętokradztwo",
+            "związany z: świętokradztwo"
+        ]
+    },
+    {
+        "morfem": "b'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "kyeberu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "herezja",
+            "być herezja",
+            "związany z: herezja"
+        ]
+    },
+    {
+        "morfem": "b'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "religia_i_kult",
+        "namespace": "beqi",
+        "alias": "ryosielopu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "opętanie",
+            "być opętanie",
+            "związany z: opętanie"
+        ]
+    },
+    {
+        "morfem": "d'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "dumup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "jednostka"
+        ]
+    },
+    {
+        "morfem": "d'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "duhyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "pora"
+        ]
+    },
+    {
+        "morfem": "d'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "miedu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "wiek",
+            "być wiek",
+            "związany z: wiek"
+        ]
+    },
+    {
+        "morfem": "d'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fiofioxa",
+        "typ": "++",
+        "znaczenia_pl": [
+            "rok",
+            "być rok",
+            "związany z: rok"
+        ]
+    },
+    {
+        "morfem": "d'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fyofyoxa",
+        "typ": "+",
+        "znaczenia_pl": [
+            "miesiąc",
+            "być miesiąc",
+            "związany z: miesiąc"
+        ]
+    },
+    {
+        "morfem": "d'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "bumdu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "tydzień",
+            "być tydzień",
+            "związany z: tydzień"
+        ]
+    },
+    {
+        "morfem": "d'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "madu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "godzina",
+            "być godzina",
+            "związany z: godzina"
+        ]
+    },
+    {
+        "morfem": "d'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "cumuodu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "minuta",
+            "być minuta",
+            "związany z: minuta"
+        ]
+    },
+    {
+        "morfem": "d'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "muodu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "sekunda",
+            "być sekunda",
+            "związany z: sekunda"
+        ]
+    },
+    {
+        "morfem": "d'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "dodu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "wiosna",
+            "być wiosna",
+            "związany z: wiosna"
+        ]
+    },
+    {
+        "morfem": "d'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fiadu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "lato",
+            "być lato",
+            "związany z: lato"
+        ]
+    },
+    {
+        "morfem": "d'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fiododo",
+        "typ": "+",
+        "znaczenia_pl": [
+            "świt",
+            "być świt",
+            "związany z: świt"
+        ]
+    },
+    {
+        "morfem": "d'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fionodu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "południe",
+            "być południe",
+            "związany z: południe"
+        ]
+    },
+    {
+        "morfem": "d'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fioduduo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "zmierzch",
+            "być zmierzch",
+            "związany z: zmierzch"
+        ]
+    },
+    {
+        "morfem": "d'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "duodu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "jesień",
+            "być jesień",
+            "związany z: jesień"
+        ]
+    },
+    {
+        "morfem": "d'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "kalendarz_i_czas",
+        "namespace": "duqi",
+        "alias": "fyadu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "zima",
+            "być zima",
+            "związany z: zima"
+        ]
+    },
+    {
+        "morfem": "q'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "syp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "surowiec"
+        ]
+    },
+    {
+        "morfem": "q'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "rorup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "rzemiosło"
+        ]
+    },
+    {
+        "morfem": "q'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "posu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "złoto",
+            "być złoto",
+            "związany z: złoto"
+        ]
+    },
+    {
+        "morfem": "q'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fiosu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "srebro",
+            "być srebro",
+            "związany z: srebro"
+        ]
+    },
+    {
+        "morfem": "q'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fiesy",
+        "typ": "+",
+        "znaczenia_pl": [
+            "miedź",
+            "być miedź",
+            "związany z: miedź"
+        ]
+    },
+    {
+        "morfem": "q'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "hahasu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "żelazo",
+            "być żelazo",
+            "związany z: żelazo"
+        ]
+    },
+    {
+        "morfem": "q'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "dohasu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "ołów",
+            "być ołów",
+            "związany z: ołów"
+        ]
+    },
+    {
+        "morfem": "q'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "siosu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "węgiel",
+            "być węgiel",
+            "związany z: węgiel"
+        ]
+    },
+    {
+        "morfem": "q'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fiosy",
+        "typ": "---",
+        "znaczenia_pl": [
+            "szkło",
+            "być szkło",
+            "związany z: szkło"
+        ]
+    },
+    {
+        "morfem": "q'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "haro",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "kuć",
+            "być kuć",
+            "związany z: kuć"
+        ]
+    },
+    {
+        "morfem": "q'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fula",
+        "typ": "++",
+        "znaczenia_pl": [
+            "rzeźbić",
+            "być rzeźbić",
+            "związany z: rzeźbić"
+        ]
+    },
+    {
+        "morfem": "q'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fualaro",
+        "typ": "+",
+        "znaczenia_pl": [
+            "tkać",
+            "być tkać",
+            "związany z: tkać"
+        ]
+    },
+    {
+        "morfem": "q'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fuala",
+        "typ": ".",
+        "znaczenia_pl": [
+            "szyć",
+            "być szyć",
+            "związany z: szyć"
+        ]
+    },
+    {
+        "morfem": "q'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "sioro",
+        "typ": "-",
+        "znaczenia_pl": [
+            "spawać",
+            "być spawać",
+            "związany z: spawać"
+        ]
+    },
+    {
+        "morfem": "q'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "joro",
+        "typ": "--",
+        "znaczenia_pl": [
+            "szlifować",
+            "być szlifować",
+            "związany z: szlifować"
+        ]
+    },
+    {
+        "morfem": "q'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "surowce_i_rzemiosło",
+        "namespace": "suqi",
+        "alias": "fiasyo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "topić",
+            "być topić",
+            "związany z: topić"
+        ]
+    },
+    {
+        "morfem": "g'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "gypep",
+        "typ": "*",
+        "znaczenia_pl": [
+            "gramatyka"
+        ]
+    },
+    {
+        "morfem": "g'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "piagyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "akt"
+        ]
+    },
+    {
+        "morfem": "g'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "gysue",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "księga",
+            "być księga",
+            "związany z: księga"
+        ]
+    },
+    {
+        "morfem": "g'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "gymo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "tekst",
+            "być tekst",
+            "związany z: tekst"
+        ]
+    },
+    {
+        "morfem": "g'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "gycia",
+        "typ": "+",
+        "znaczenia_pl": [
+            "zdanie",
+            "być zdanie",
+            "związany z: zdanie"
+        ]
+    },
+    {
+        "morfem": "g'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "gy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "wyraz",
+            "być wyraz",
+            "związany z: wyraz"
+        ]
+    },
+    {
+        "morfem": "g'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "magy",
+        "typ": "-",
+        "znaczenia_pl": [
+            "morfem",
+            "być morfem",
+            "związany z: morfem"
+        ]
+    },
+    {
+        "morfem": "g'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "gyfu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "litera",
+            "być litera",
+            "związany z: litera"
+        ]
+    },
+    {
+        "morfem": "g'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "duogy",
+        "typ": "---",
+        "znaczenia_pl": [
+            "kropka",
+            "być kropka",
+            "związany z: kropka"
+        ]
+    },
+    {
+        "morfem": "g'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "diogy",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "przysięga",
+            "być przysięga",
+            "związany z: przysięga"
+        ]
+    },
+    {
+        "morfem": "g'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "piafe",
+        "typ": "++",
+        "znaczenia_pl": [
+            "ustawa",
+            "być ustawa",
+            "związany z: ustawa"
+        ]
+    },
+    {
+        "morfem": "g'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "ciapia",
+        "typ": "+",
+        "znaczenia_pl": [
+            "umowa",
+            "być umowa",
+            "związany z: umowa"
+        ]
+    },
+    {
+        "morfem": "g'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "biagy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "poezja",
+            "być poezja",
+            "związany z: poezja"
+        ]
+    },
+    {
+        "morfem": "g'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "duagy",
+        "typ": "-",
+        "znaczenia_pl": [
+            "opowieść",
+            "być opowieść",
+            "związany z: opowieść"
+        ]
+    },
+    {
+        "morfem": "g'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "ryopiagy",
+        "typ": "--",
+        "znaczenia_pl": [
+            "pozew",
+            "być pozew",
+            "związany z: pozew"
+        ]
+    },
+    {
+        "morfem": "g'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "język_i_prawo",
+        "namespace": "gyqi",
+        "alias": "byogy",
+        "typ": "---",
+        "znaczenia_pl": [
+            "zniewaga",
+            "być zniewaga",
+            "związany z: zniewaga"
+        ]
+    },
+    {
+        "morfem": "f'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "nyfup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "przestrzeń"
+        ]
+    },
+    {
+        "morfem": "f'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "duofua",
+        "typ": "*",
+        "znaczenia_pl": [
+            "kąt"
+        ]
+    },
+    {
+        "morfem": "f'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "nany",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "płaszczyzna",
+            "być płaszczyzna",
+            "związany z: płaszczyzna"
+        ]
+    },
+    {
+        "morfem": "f'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "dumfofo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "sześcian",
+            "być sześcian",
+            "związany z: sześcian"
+        ]
+    },
+    {
+        "morfem": "f'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "xiofa",
+        "typ": "+",
+        "znaczenia_pl": [
+            "elipsa",
+            "być elipsa",
+            "związany z: elipsa"
+        ]
+    },
+    {
+        "morfem": "f'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "muofu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "punkt",
+            "być punkt",
+            "związany z: punkt"
+        ]
+    },
+    {
+        "morfem": "f'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "mafua",
+        "typ": "-",
+        "znaczenia_pl": [
+            "odcinek",
+            "być odcinek",
+            "związany z: odcinek"
+        ]
+    },
+    {
+        "morfem": "f'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "pumfuo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "trójkąt",
+            "być trójkąt",
+            "związany z: trójkąt"
+        ]
+    },
+    {
+        "morfem": "f'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "gumfuo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "kwadrat",
+            "być kwadrat",
+            "związany z: kwadrat"
+        ]
+    },
+    {
+        "morfem": "f'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "fafo",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "kula",
+            "być kula",
+            "związany z: kula"
+        ]
+    },
+    {
+        "morfem": "f'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "xiofafo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "walec",
+            "być walec",
+            "związany z: walec"
+        ]
+    },
+    {
+        "morfem": "f'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "muofufafo",
+        "typ": "+",
+        "znaczenia_pl": [
+            "stożek",
+            "być stożek",
+            "związany z: stożek"
+        ]
+    },
+    {
+        "morfem": "f'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "fuafua",
+        "typ": ".",
+        "znaczenia_pl": [
+            "krzywa",
+            "być krzywa",
+            "związany z: krzywa"
+        ]
+    },
+    {
+        "morfem": "f'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "faxufua",
+        "typ": "-",
+        "znaczenia_pl": [
+            "spirala",
+            "być spirala",
+            "związany z: spirala"
+        ]
+    },
+    {
+        "morfem": "f'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "qufafo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "torus",
+            "być torus",
+            "związany z: torus"
+        ]
+    },
+    {
+        "morfem": "f'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "geometria",
+        "namespace": "fuqi",
+        "alias": "pumfuofo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "ostrosłup",
+            "być ostrosłup",
+            "związany z: ostrosłup"
+        ]
+    },
+    {
+        "morfem": "s'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "hiesyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "pierwiastek"
+        ]
+    },
+    {
+        "morfem": "s'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "sydyap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "reakcja"
+        ]
+    },
+    {
+        "morfem": "s'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "fosy",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "ciałostałe",
+            "być ciałostałe",
+            "związany z: ciałostałe"
+        ]
+    },
+    {
+        "morfem": "s'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "syo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "ciecz",
+            "być ciecz",
+            "związany z: ciecz"
+        ]
+    },
+    {
+        "morfem": "s'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "siasy",
+        "typ": "+",
+        "znaczenia_pl": [
+            "gaz",
+            "być gaz",
+            "związany z: gaz"
+        ]
+    },
+    {
+        "morfem": "s'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "muosye",
+        "typ": ".",
+        "znaczenia_pl": [
+            "czątka",
+            "być czątka",
+            "związany z: czątka"
+        ]
+    },
+    {
+        "morfem": "s'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "ciasvo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "roztwór",
+            "być roztwór",
+            "związany z: roztwór"
+        ]
+    },
+    {
+        "morfem": "s'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "ciasy",
+        "typ": "--",
+        "znaczenia_pl": [
+            "związek",
+            "być związek",
+            "związany z: związek"
+        ]
+    },
+    {
+        "morfem": "s'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "masy",
+        "typ": "---",
+        "znaczenia_pl": [
+            "molekuła",
+            "być molekuła",
+            "związany z: molekuła"
+        ]
+    },
+    {
+        "morfem": "s'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "siosiasy",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "plazma",
+            "być plazma",
+            "związany z: plazma"
+        ]
+    },
+    {
+        "morfem": "s'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "lalasy",
+        "typ": "++",
+        "znaczenia_pl": [
+            "tworzywo",
+            "być tworzywo",
+            "związany z: tworzywo"
+        ]
+    },
+    {
+        "morfem": "s'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "suotuosy",
+        "typ": "+",
+        "znaczenia_pl": [
+            "kwas",
+            "być kwas",
+            "związany z: kwas"
+        ]
+    },
+    {
+        "morfem": "s'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "rusy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "reagent",
+            "być reagent",
+            "związany z: reagent"
+        ]
+    },
+    {
+        "morfem": "s'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "ryotuosy",
+        "typ": "-",
+        "znaczenia_pl": [
+            "zasada",
+            "być zasada",
+            "związany z: zasada"
+        ]
+    },
+    {
+        "morfem": "s'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "fiatu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "tłuszcz",
+            "być tłuszcz",
+            "związany z: tłuszcz"
+        ]
+    },
+    {
+        "morfem": "s'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "chemia",
+        "namespace": "syqi",
+        "alias": "symue",
+        "typ": "---",
+        "znaczenia_pl": [
+            "próżnia",
+            "być próżnia",
+            "związany z: próżnia"
+        ]
+    },
+    {
+        "morfem": "x'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xarap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "pojazd"
+        ]
+    },
+    {
+        "morfem": "x'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xufyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "kinematyka"
+        ]
+    },
+    {
+        "morfem": "x'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "nonuxara",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "rakieta",
+            "być rakieta",
+            "związany z: rakieta"
+        ]
+    },
+    {
+        "morfem": "x'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "siaxara",
+        "typ": "++",
+        "znaczenia_pl": [
+            "samolot",
+            "być samolot",
+            "związany z: samolot"
+        ]
+    },
+    {
+        "morfem": "x'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xioxara",
+        "typ": "+",
+        "znaczenia_pl": [
+            "pociąg",
+            "być pociąg",
+            "związany z: pociąg"
+        ]
+    },
+    {
+        "morfem": "x'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xara",
+        "typ": ".",
+        "znaczenia_pl": [
+            "samochód",
+            "być samochód",
+            "związany z: samochód"
+        ]
+    },
+    {
+        "morfem": "x'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "tumfaxara",
+        "typ": "-",
+        "znaczenia_pl": [
+            "rower",
+            "być rower",
+            "związany z: rower"
+        ]
+    },
+    {
+        "morfem": "x'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "syoxara",
+        "typ": "--",
+        "znaczenia_pl": [
+            "statek",
+            "być statek",
+            "związany z: statek"
+        ]
+    },
+    {
+        "morfem": "x'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "nuesyoxara",
+        "typ": "---",
+        "znaczenia_pl": [
+            "batyskaf",
+            "być batyskaf",
+            "związany z: batyskaf"
+        ]
+    },
+    {
+        "morfem": "x'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "syexu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "pęd",
+            "być pęd",
+            "związany z: pęd"
+        ]
+    },
+    {
+        "morfem": "x'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xoxu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "przyspieszenie",
+            "być przyspieszenie",
+            "związany z: przyspieszenie"
+        ]
+    },
+    {
+        "morfem": "x'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xodu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "prędkość",
+            "być prędkość",
+            "związany z: prędkość"
+        ]
+    },
+    {
+        "morfem": "x'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xafua",
+        "typ": ".",
+        "znaczenia_pl": [
+            "wektor",
+            "być wektor",
+            "związany z: wektor"
+        ]
+    },
+    {
+        "morfem": "x'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "syeqia",
+        "typ": "-",
+        "znaczenia_pl": [
+            "grawitacja",
+            "być grawitacja",
+            "związany z: grawitacja"
+        ]
+    },
+    {
+        "morfem": "x'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "haqya",
+        "typ": "--",
+        "znaczenia_pl": [
+            "ciśnienie",
+            "być ciśnienie",
+            "związany z: ciśnienie"
+        ]
+    },
+    {
+        "morfem": "x'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "transport_i_fizyka",
+        "namespace": "xuqi",
+        "alias": "xyaxu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "tarcie",
+            "być tarcie",
+            "związany z: tarcie"
+        ]
+    },
+    {
+        "morfem": "h'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "huop",
+        "typ": "*",
+        "znaczenia_pl": [
+            "choroba"
+        ]
+    },
+    {
+        "morfem": "h'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "huofyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "objaw"
+        ]
+    },
+    {
+        "morfem": "h'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "tupe",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "układ",
+            "być układ",
+            "związany z: układ"
+        ]
+    },
+    {
+        "morfem": "h'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "nyetu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "narząd",
+            "być narząd",
+            "związany z: narząd"
+        ]
+    },
+    {
+        "morfem": "h'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "tuma",
+        "typ": "+",
+        "znaczenia_pl": [
+            "tkanka",
+            "być tkanka",
+            "związany z: tkanka"
+        ]
+    },
+    {
+        "morfem": "h'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "myelotu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "komórka",
+            "być komórka",
+            "związany z: komórka"
+        ]
+    },
+    {
+        "morfem": "h'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "myenyetu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "organellum",
+            "być organellum",
+            "związany z: organellum"
+        ]
+    },
+    {
+        "morfem": "h'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "losy",
+        "typ": "--",
+        "znaczenia_pl": [
+            "białko",
+            "być białko",
+            "związany z: białko"
+        ]
+    },
+    {
+        "morfem": "h'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "lofy",
+        "typ": "---",
+        "znaczenia_pl": [
+            "gen",
+            "być gen",
+            "związany z: gen"
+        ]
+    },
+    {
+        "morfem": "h'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "matiaro",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "operacja",
+            "być operacja",
+            "związany z: operacja"
+        ]
+    },
+    {
+        "morfem": "h'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "horapa",
+        "typ": "++",
+        "znaczenia_pl": [
+            "farmakoterapia",
+            "być farmakoterapia",
+            "związany z: farmakoterapia"
+        ]
+    },
+    {
+        "morfem": "h'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "huody",
+        "typ": "+",
+        "znaczenia_pl": [
+            "diagnostyka",
+            "być diagnostyka",
+            "związany z: diagnostyka"
+        ]
+    },
+    {
+        "morfem": "h'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "huole",
+        "typ": ".",
+        "znaczenia_pl": [
+            "etiologia",
+            "być etiologia",
+            "związany z: etiologia"
+        ]
+    },
+    {
+        "morfem": "h'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "tuhua",
+        "typ": "-",
+        "znaczenia_pl": [
+            "uraz",
+            "być uraz",
+            "związany z: uraz"
+        ]
+    },
+    {
+        "morfem": "h'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "siohuo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "zapalenie",
+            "być zapalenie",
+            "związany z: zapalenie"
+        ]
+    },
+    {
+        "morfem": "h'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "medycyna",
+        "namespace": "hokuqi",
+        "alias": "ryohehuo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "nowotwór",
+            "być nowotwór",
+            "związany z: nowotwór"
+        ]
+    },
+    {
+        "morfem": "v'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "futp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "odcień"
+        ]
+    },
+    {
+        "morfem": "v'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "siafyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "pogoda"
+        ]
+    },
+    {
+        "morfem": "v'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "pet",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "purpura",
+            "być purpura",
+            "związany z: purpura"
+        ]
+    },
+    {
+        "morfem": "v'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "fiat",
+        "typ": "++",
+        "znaczenia_pl": [
+            "pomarańcz",
+            "być pomarańcz",
+            "związany z: pomarańcz"
+        ]
+    },
+    {
+        "morfem": "v'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "ciot",
+        "typ": "+",
+        "znaczenia_pl": [
+            "róż",
+            "być róż",
+            "związany z: róż"
+        ]
+    },
+    {
+        "morfem": "v'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "sot",
+        "typ": ".",
+        "znaczenia_pl": [
+            "szary",
+            "być szary",
+            "związany z: szary"
+        ]
+    },
+    {
+        "morfem": "v'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "syat",
+        "typ": "-",
+        "znaczenia_pl": [
+            "brąz",
+            "być brąz",
+            "związany z: brąz"
+        ]
+    },
+    {
+        "morfem": "v'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "fyat",
+        "typ": "--",
+        "znaczenia_pl": [
+            "turkus",
+            "być turkus",
+            "związany z: turkus"
+        ]
+    },
+    {
+        "morfem": "v'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "fyosyot",
+        "typ": "---",
+        "znaczenia_pl": [
+            "granat",
+            "być granat",
+            "związany z: granat"
+        ]
+    },
+    {
+        "morfem": "v'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "mivot",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "tęcza",
+            "być tęcza",
+            "związany z: tęcza"
+        ]
+    },
+    {
+        "morfem": "v'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "fiesio",
+        "typ": "++",
+        "znaczenia_pl": [
+            "błyskawica",
+            "być błyskawica",
+            "związany z: błyskawica"
+        ]
+    },
+    {
+        "morfem": "v'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "haxasia",
+        "typ": "+",
+        "znaczenia_pl": [
+            "wicher",
+            "być wicher",
+            "związany z: wicher"
+        ]
+    },
+    {
+        "morfem": "v'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "dufiafy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "klimat",
+            "być klimat",
+            "związany z: klimat"
+        ]
+    },
+    {
+        "morfem": "v'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "fiosyo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "mgła",
+            "być mgła",
+            "związany z: mgła"
+        ]
+    },
+    {
+        "morfem": "v'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "myefyasyo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "śnieg",
+            "być śnieg",
+            "związany z: śnieg"
+        ]
+    },
+    {
+        "morfem": "v'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "odcienie_i_pogoda",
+        "namespace": "fiaqi",
+        "alias": "fiegiasiasyo",
+        "typ": "---",
+        "znaczenia_pl": [
+            "burza",
+            "być burza",
+            "związany z: burza"
+        ]
+    },
+    {
+        "morfem": "z'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "tiasop",
+        "typ": "*",
+        "znaczenia_pl": [
+            "hodowlane"
+        ]
+    },
+    {
+        "morfem": "z'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "suosop",
+        "typ": "*",
+        "znaczenia_pl": [
+            "dzikie"
+        ]
+    },
+    {
+        "morfem": "z'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "xoso",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "koń",
+            "być koń",
+            "związany z: koń"
+        ]
+    },
+    {
+        "morfem": "z'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "tiaso",
+        "typ": "++",
+        "znaczenia_pl": [
+            "krowa",
+            "być krowa",
+            "związany z: krowa"
+        ]
+    },
+    {
+        "morfem": "z'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "dieso",
+        "typ": "+",
+        "znaczenia_pl": [
+            "pies",
+            "być pies",
+            "związany z: pies"
+        ]
+    },
+    {
+        "morfem": "z'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "tieso",
+        "typ": ".",
+        "znaczenia_pl": [
+            "kot",
+            "być kot",
+            "związany z: kot"
+        ]
+    },
+    {
+        "morfem": "z'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "fualaso",
+        "typ": "-",
+        "znaczenia_pl": [
+            "owca",
+            "być owca",
+            "związany z: owca"
+        ]
+    },
+    {
+        "morfem": "z'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "tyeso",
+        "typ": "--",
+        "znaczenia_pl": [
+            "świnia",
+            "być świnia",
+            "związany z: świnia"
+        ]
+    },
+    {
+        "morfem": "z'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "tiasiaso",
+        "typ": "---",
+        "znaczenia_pl": [
+            "kura",
+            "być kura",
+            "związany z: kura"
+        ]
+    },
+    {
+        "morfem": "z'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "suodioso",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "wilk",
+            "być wilk",
+            "związany z: wilk"
+        ]
+    },
+    {
+        "morfem": "z'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "piosiaso",
+        "typ": "++",
+        "znaczenia_pl": [
+            "orzeł",
+            "być orzeł",
+            "związany z: orzeł"
+        ]
+    },
+    {
+        "morfem": "z'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "ryodioso",
+        "typ": "+",
+        "znaczenia_pl": [
+            "lis",
+            "być lis",
+            "związany z: lis"
+        ]
+    },
+    {
+        "morfem": "z'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "suomoso",
+        "typ": ".",
+        "znaczenia_pl": [
+            "jeleń",
+            "być jeleń",
+            "związany z: jeleń"
+        ]
+    },
+    {
+        "morfem": "z'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "miesuoso",
+        "typ": "-",
+        "znaczenia_pl": [
+            "niedźwiedź",
+            "być niedźwiedź",
+            "związany z: niedźwiedź"
+        ]
+    },
+    {
+        "morfem": "z'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "mieso",
+        "typ": "--",
+        "znaczenia_pl": [
+            "słoń",
+            "być słoń",
+            "związany z: słoń"
+        ]
+    },
+    {
+        "morfem": "z'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "gatunki_zwierząt",
+        "namespace": "sosoqi",
+        "alias": "suoxogyaso",
+        "typ": "---",
+        "znaczenia_pl": [
+            "zając",
+            "być zając",
+            "związany z: zając"
+        ]
+    },
+    {
+        "morfem": "j'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "porap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "waluta"
+        ]
+    },
+    {
+        "morfem": "j'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "popap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "transakcja"
+        ]
+    },
+    {
+        "morfem": "j'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "pomo",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "majątek",
+            "być majątek",
+            "związany z: majątek"
+        ]
+    },
+    {
+        "morfem": "j'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "pohe",
+        "typ": "++",
+        "znaczenia_pl": [
+            "zysk",
+            "być zysk",
+            "związany z: zysk"
+        ]
+    },
+    {
+        "morfem": "j'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "ropa",
+        "typ": "+",
+        "znaczenia_pl": [
+            "płaca",
+            "być płaca",
+            "związany z: płaca"
+        ]
+    },
+    {
+        "morfem": "j'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "bymu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "cena",
+            "być cena",
+            "związany z: cena"
+        ]
+    },
+    {
+        "morfem": "j'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "popuo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "koszt",
+            "być koszt",
+            "związany z: koszt"
+        ]
+    },
+    {
+        "morfem": "j'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "pionupa",
+        "typ": "--",
+        "znaczenia_pl": [
+            "podatek",
+            "być podatek",
+            "związany z: podatek"
+        ]
+    },
+    {
+        "morfem": "j'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "pomue",
+        "typ": "---",
+        "znaczenia_pl": [
+            "bankructwo",
+            "być bankructwo",
+            "związany z: bankructwo"
+        ]
+    },
+    {
+        "morfem": "j'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "dapopa",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "inwestycja",
+            "być inwestycja",
+            "związany z: inwestycja"
+        ]
+    },
+    {
+        "morfem": "j'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "popua",
+        "typ": "++",
+        "znaczenia_pl": [
+            "sprzedaż",
+            "być sprzedaż",
+            "związany z: sprzedaż"
+        ]
+    },
+    {
+        "morfem": "j'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "popa",
+        "typ": "+",
+        "znaczenia_pl": [
+            "kupno",
+            "być kupno",
+            "związany z: kupno"
+        ]
+    },
+    {
+        "morfem": "j'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "popanu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "giełda",
+            "być giełda",
+            "związany z: giełda"
+        ]
+    },
+    {
+        "morfem": "j'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "dupopa",
+        "typ": "-",
+        "znaczenia_pl": [
+            "pożyczka",
+            "być pożyczka",
+            "związany z: pożyczka"
+        ]
+    },
+    {
+        "morfem": "j'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "pyopora",
+        "typ": "--",
+        "znaczenia_pl": [
+            "dług",
+            "być dług",
+            "związany z: dług"
+        ]
+    },
+    {
+        "morfem": "j'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekonomia_i_handel",
+        "namespace": "poraqi",
+        "alias": "ryopa",
+        "typ": "---",
+        "znaczenia_pl": [
+            "łapówka",
+            "być łapówka",
+            "związany z: łapówka"
+        ]
+    },
+    {
+        "morfem": "w'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "gyegyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "bluzg"
+        ]
+    },
+    {
+        "morfem": "w'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "byogyp",
+        "typ": "*",
+        "znaczenia_pl": [
+            "obelga"
+        ]
+    },
+    {
+        "morfem": "w'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "kuatu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "chuj",
+            "być chuj",
+            "związany z: chuj"
+        ]
+    },
+    {
+        "morfem": "w'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "nuotu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "dupa",
+            "być dupa",
+            "związany z: dupa"
+        ]
+    },
+    {
+        "morfem": "w'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "gyega",
+        "typ": "+",
+        "znaczenia_pl": [
+            "kurwa",
+            "być kurwa",
+            "związany z: kurwa"
+        ]
+    },
+    {
+        "morfem": "w'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "ryogy",
+        "typ": ".",
+        "znaczenia_pl": [
+            "przekleństwo",
+            "być przekleństwo",
+            "związany z: przekleństwo"
+        ]
+    },
+    {
+        "morfem": "w'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "katu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "pizda",
+            "być pizda",
+            "związany z: pizda"
+        ]
+    },
+    {
+        "morfem": "w'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "kuaturu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "jebać",
+            "być jebać",
+            "związany z: jebać"
+        ]
+    },
+    {
+        "morfem": "w'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "ryolua",
+        "typ": "---",
+        "znaczenia_pl": [
+            "zjebany",
+            "być zjebany",
+            "związany z: zjebany"
+        ]
+    },
+    {
+        "morfem": "w'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "poracioka",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "dziwka",
+            "być dziwka",
+            "związany z: dziwka"
+        ]
+    },
+    {
+        "morfem": "w'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "ryoku",
+        "typ": "++",
+        "znaczenia_pl": [
+            "drań",
+            "być drań",
+            "związany z: drań"
+        ]
+    },
+    {
+        "morfem": "w'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "gyoku",
+        "typ": "+",
+        "znaczenia_pl": [
+            "kretyn",
+            "być kretyn",
+            "związany z: kretyn"
+        ]
+    },
+    {
+        "morfem": "w'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "tyesye",
+        "typ": ".",
+        "znaczenia_pl": [
+            "odchody",
+            "być odchody",
+            "związany z: odchody"
+        ]
+    },
+    {
+        "morfem": "w'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "tyesyo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "szczoch",
+            "być szczoch",
+            "związany z: szczoch"
+        ]
+    },
+    {
+        "morfem": "w'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "nuotusye",
+        "typ": "--",
+        "znaczenia_pl": [
+            "gówno",
+            "być gówno",
+            "związany z: gówno"
+        ]
+    },
+    {
+        "morfem": "w'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "ekspresywne_i_tabu",
+        "namespace": "gyeqi",
+        "alias": "nyotiasye",
+        "typ": "---",
+        "znaczenia_pl": [
+            "rzygowiny",
+            "być rzygowiny",
+            "związany z: rzygowiny"
+        ]
+    },
+    {
+        "morfem": "m'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "murup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "operator"
+        ]
+    },
+    {
+        "morfem": "m'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "mumup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "jednostka"
+        ]
+    },
+    {
+        "morfem": "m'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "momomie",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "potęga",
+            "być potęga",
+            "związany z: potęga"
+        ]
+    },
+    {
+        "morfem": "m'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "momie",
+        "typ": "++",
+        "znaczenia_pl": [
+            "iloczyn",
+            "być iloczyn",
+            "związany z: iloczyn"
+        ]
+    },
+    {
+        "morfem": "m'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "mocia",
+        "typ": "+",
+        "znaczenia_pl": [
+            "suma",
+            "być suma",
+            "związany z: suma"
+        ]
+    },
+    {
+        "morfem": "m'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "muh",
+        "typ": ".",
+        "znaczenia_pl": [
+            "funkcja",
+            "być funkcja",
+            "związany z: funkcja"
+        ]
+    },
+    {
+        "morfem": "m'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "muocia",
+        "typ": "-",
+        "znaczenia_pl": [
+            "różnica",
+            "być różnica",
+            "związany z: różnica"
+        ]
+    },
+    {
+        "morfem": "m'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "mama",
+        "typ": "--",
+        "znaczenia_pl": [
+            "iloraz",
+            "być iloraz",
+            "związany z: iloraz"
+        ]
+    },
+    {
+        "morfem": "m'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "nyomomie",
+        "typ": "---",
+        "znaczenia_pl": [
+            "pierwiastek",
+            "być pierwiastek",
+            "związany z: pierwiastek"
+        ]
+    },
+    {
+        "morfem": "m'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "miexamu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "kilometr",
+            "być kilometr",
+            "związany z: kilometr"
+        ]
+    },
+    {
+        "morfem": "m'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "xamu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "metr",
+            "być metr",
+            "związany z: metr"
+        ]
+    },
+    {
+        "morfem": "m'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "syemu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "kilogram",
+            "być kilogram",
+            "związany z: kilogram"
+        ]
+    },
+    {
+        "morfem": "m'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "fonymu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "litr",
+            "być litr",
+            "związany z: litr"
+        ]
+    },
+    {
+        "morfem": "m'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "fiamu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "kelwin",
+            "być kelwin",
+            "związany z: kelwin"
+        ]
+    },
+    {
+        "morfem": "m'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "siemu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "dżul",
+            "być dżul",
+            "związany z: dżul"
+        ]
+    },
+    {
+        "morfem": "m'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "matematyka_i_miary",
+        "namespace": "muqi",
+        "alias": "remu",
+        "typ": "---",
+        "znaczenia_pl": [
+            "wat",
+            "być wat",
+            "związany z: wat"
+        ]
+    },
+    {
+        "morfem": "n'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "nulap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "budynek"
+        ]
+    },
+    {
+        "morfem": "n'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "syanup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "teren"
+        ]
+    },
+    {
+        "morfem": "n'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "pionula",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "pałac",
+            "być pałac",
+            "związany z: pałac"
+        ]
+    },
+    {
+        "morfem": "n'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "locianu",
+        "typ": "++",
+        "znaczenia_pl": [
+            "miasto",
+            "być miasto",
+            "związany z: miasto"
+        ]
+    },
+    {
+        "morfem": "n'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "lonu",
+        "typ": "+",
+        "znaczenia_pl": [
+            "dom",
+            "być dom",
+            "związany z: dom"
+        ]
+    },
+    {
+        "morfem": "n'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "manula",
+        "typ": ".",
+        "znaczenia_pl": [
+            "komnata",
+            "być komnata",
+            "związany z: komnata"
+        ]
+    },
+    {
+        "morfem": "n'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "siotianu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "kuchnia",
+            "być kuchnia",
+            "związany z: kuchnia"
+        ]
+    },
+    {
+        "morfem": "n'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "tienu",
+        "typ": "--",
+        "znaczenia_pl": [
+            "toaleta",
+            "być toaleta",
+            "związany z: toaleta"
+        ]
+    },
+    {
+        "morfem": "n'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "nuenula",
+        "typ": "---",
+        "znaczenia_pl": [
+            "loch",
+            "być loch",
+            "związany z: loch"
+        ]
+    },
+    {
+        "morfem": "n'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "miesya",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "kontynent",
+            "być kontynent",
+            "związany z: kontynent"
+        ]
+    },
+    {
+        "morfem": "n'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "nosya",
+        "typ": "++",
+        "znaczenia_pl": [
+            "góra",
+            "być góra",
+            "związany z: góra"
+        ]
+    },
+    {
+        "morfem": "n'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "syonie",
+        "typ": "+",
+        "znaczenia_pl": [
+            "wyspa",
+            "być wyspa",
+            "związany z: wyspa"
+        ]
+    },
+    {
+        "morfem": "n'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "xasyo",
+        "typ": ".",
+        "znaczenia_pl": [
+            "rzeka",
+            "być rzeka",
+            "związany z: rzeka"
+        ]
+    },
+    {
+        "morfem": "n'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "xuasyo",
+        "typ": "-",
+        "znaczenia_pl": [
+            "jezioro",
+            "być jezioro",
+            "związany z: jezioro"
+        ]
+    },
+    {
+        "morfem": "n'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "mosyo",
+        "typ": "--",
+        "znaczenia_pl": [
+            "morze",
+            "być morze",
+            "związany z: morze"
+        ]
+    },
+    {
+        "morfem": "n'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "architektura_i_geografia",
+        "namespace": "nuqi",
+        "alias": "syomuosya",
+        "typ": "---",
+        "znaczenia_pl": [
+            "pustynia",
+            "być pustynia",
+            "związany z: pustynia"
+        ]
+    },
+    {
+        "morfem": "r'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "rap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "narzędzie"
+        ]
+    },
+    {
+        "morfem": "r'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "sierap",
+        "typ": "*",
+        "znaczenia_pl": [
+            "mechanizm"
+        ]
+    },
+    {
+        "morfem": "r'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "quru",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "dziurawić",
+            "być dziurawić",
+            "związany z: dziurawić"
+        ]
+    },
+    {
+        "morfem": "r'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "muofuru",
+        "typ": "++",
+        "znaczenia_pl": [
+            "kłuć",
+            "być kłuć",
+            "związany z: kłuć"
+        ]
+    },
+    {
+        "morfem": "r'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "hamaru",
+        "typ": "+",
+        "znaczenia_pl": [
+            "łamać",
+            "być łamać",
+            "związany z: łamać"
+        ]
+    },
+    {
+        "morfem": "r'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "matia",
+        "typ": ".",
+        "znaczenia_pl": [
+            "ciąć",
+            "być ciąć",
+            "związany z: ciąć"
+        ]
+    },
+    {
+        "morfem": "r'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "miematia",
+        "typ": "-",
+        "znaczenia_pl": [
+            "rąbać",
+            "być rąbać",
+            "związany z: rąbać"
+        ]
+    },
+    {
+        "morfem": "r'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "halua",
+        "typ": "--",
+        "znaczenia_pl": [
+            "miażdżyć",
+            "być miażdżyć",
+            "związany z: miażdżyć"
+        ]
+    },
+    {
+        "morfem": "r'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "fudya",
+        "typ": "---",
+        "znaczenia_pl": [
+            "zginać",
+            "być zginać",
+            "związany z: zginać"
+        ]
+    },
+    {
+        "morfem": "r'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "qura",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "wiertło",
+            "być wiertło",
+            "związany z: wiertło"
+        ]
+    },
+    {
+        "morfem": "r'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "matiara",
+        "typ": "++",
+        "znaczenia_pl": [
+            "ostrze",
+            "być ostrze",
+            "związany z: ostrze"
+        ]
+    },
+    {
+        "morfem": "r'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "tiarara",
+        "typ": "+",
+        "znaczenia_pl": [
+            "piła",
+            "być piła",
+            "związany z: piła"
+        ]
+    },
+    {
+        "morfem": "r'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "rura",
+        "typ": ".",
+        "znaczenia_pl": [
+            "przyrząd",
+            "być przyrząd",
+            "związany z: przyrząd"
+        ]
+    },
+    {
+        "morfem": "r'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "miematiara",
+        "typ": "-",
+        "znaczenia_pl": [
+            "topór",
+            "być topór",
+            "związany z: topór"
+        ]
+    },
+    {
+        "morfem": "r'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "hara",
+        "typ": "--",
+        "znaczenia_pl": [
+            "młot",
+            "być młot",
+            "związany z: młot"
+        ]
+    },
+    {
+        "morfem": "r'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "obróbka_i_narzędzia",
+        "namespace": "raqi",
+        "alias": "qiora",
+        "typ": "---",
+        "znaczenia_pl": [
+            "kleszcze",
+            "być kleszcze",
+            "związany z: kleszcze"
+        ]
+    },
+    {
+        "morfem": "l'",
+        "klasa": "functio",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "lup",
+        "typ": "*",
+        "znaczenia_pl": [
+            "byt"
+        ]
+    },
+    {
+        "morfem": "l'i",
+        "klasa": "functio",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "giorop",
+        "typ": "*",
+        "znaczenia_pl": [
+            "logika"
+        ]
+    },
+    {
+        "morfem": "l'e",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "mielu",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "absolut",
+            "być absolut",
+            "związany z: absolut"
+        ]
+    },
+    {
+        "morfem": "l'o",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "giolo",
+        "typ": "++",
+        "znaczenia_pl": [
+            "świadomość",
+            "być świadomość",
+            "związany z: świadomość"
+        ]
+    },
+    {
+        "morfem": "l'a",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "giola",
+        "typ": "+",
+        "znaczenia_pl": [
+            "idea",
+            "być idea",
+            "związany z: idea"
+        ]
+    },
+    {
+        "morfem": "l'u",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "lu",
+        "typ": ".",
+        "znaczenia_pl": [
+            "istnienie",
+            "być istnienie",
+            "związany z: istnienie"
+        ]
+    },
+    {
+        "morfem": "l'ua",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "telu",
+        "typ": "-",
+        "znaczenia_pl": [
+            "zjawisko",
+            "być zjawisko",
+            "związany z: zjawisko"
+        ]
+    },
+    {
+        "morfem": "l'uo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "guote",
+        "typ": "--",
+        "znaczenia_pl": [
+            "iluzja",
+            "być iluzja",
+            "związany z: iluzja"
+        ]
+    },
+    {
+        "morfem": "l'ue",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "lumue",
+        "typ": "---",
+        "znaczenia_pl": [
+            "nicość",
+            "być nicość",
+            "związany z: nicość"
+        ]
+    },
+    {
+        "morfem": "l'ie",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "dogio",
+        "typ": "+++",
+        "znaczenia_pl": [
+            "aksjomat",
+            "być aksjomat",
+            "związany z: aksjomat"
+        ]
+    },
+    {
+        "morfem": "l'io",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "gole",
+        "typ": "++",
+        "znaczenia_pl": [
+            "dowód",
+            "być dowód",
+            "związany z: dowód"
+        ]
+    },
+    {
+        "morfem": "l'ia",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "gugy",
+        "typ": "+",
+        "znaczenia_pl": [
+            "definicja",
+            "być definicja",
+            "związany z: definicja"
+        ]
+    },
+    {
+        "morfem": "l'y",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "gioro",
+        "typ": ".",
+        "znaczenia_pl": [
+            "rozum",
+            "być rozum",
+            "związany z: rozum"
+        ]
+    },
+    {
+        "morfem": "l'ya",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "dyegio",
+        "typ": "-",
+        "znaczenia_pl": [
+            "hipoteza",
+            "być hipoteza",
+            "związany z: hipoteza"
+        ]
+    },
+    {
+        "morfem": "l'yo",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "xyago",
+        "typ": "--",
+        "znaczenia_pl": [
+            "paradoks",
+            "być paradoks",
+            "związany z: paradoks"
+        ]
+    },
+    {
+        "morfem": "l'ye",
+        "klasa": "nomen",
+        "pole_znaczeniowe": "filozofia_i_logika",
+        "namespace": "luqi",
+        "alias": "ryegio",
+        "typ": "---",
+        "znaczenia_pl": [
+            "sofizmat",
+            "być sofizmat",
+            "związany z: sofizmat"
+        ]
+    }
+]

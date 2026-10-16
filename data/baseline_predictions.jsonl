@@ -6,3 +6,36 @@
 {"category": "podrecznik_gramatyka", "pl": "Zabójczyni jest.", "ref_gygy": "luokak.", "pred_gygy": "luokua lu."}
 {"category": "podrecznik_gramatyka", "pl": "Zabójca jest.", "ref_gygy": "luokuak.", "pred_gygy": "luokuak lur."}
 {"category": "podrecznik_gramatyka", "pl": "Zabójca tworzy kobietę.", "ref_gygy": "kas luokuak lar.", "pred_gygy": "kas luokuak lar."}
+{"category": "podrecznik_gramatyka", "pl": "Mężczyzna jest niszczony.", "ref_gygy": "kuas luar.", "pred_gygy": "kuas luar."}
+{"category": "podrecznik_gramatyka", "pl": "Twórca życia jest czyniony kobietą.", "ref_gygy": "lolakuas kar.", "pred_gygy": "lokas laokuk kalar."}
+{"category": "podrecznik_gramatyka", "pl": "Matka jest kobietą.", "ref_gygy": "lolakak kar.", "pred_gygy": "kas kuar."}
+{"category": "podrecznik_gramatyka", "pl": "Śmierć jest antropomorfizowana.", "ref_gygy": "luos kur.", "pred_gygy": "luoantropomorfizuar."}
+{"category": "podrecznik_gramatyka", "pl": "Matka rodzi córkę.", "ref_gygy": "kokas kuokak lolar.", "pred_gygy": "kias kuoak kioak lar."}
+{"category": "podrecznik_gramatyka", "pl": "Pradziadek umiera.", "ref_gygy": "kuokuokuokuak luor.", "pred_gygy": "kuos luoar."}
+{"category": "podrecznik_gramatyka", "pl": "Matka zabiła córkę.", "ref_gygy": "kokas kuokak luoduar.", "pred_gygy": "kas luokua"}
+{"category": "podrecznik_gramatyka", "pl": "Niszczyciel będzie.", "ref_gygy": "luakuak dar.", "pred_gygy": "luokua luodar."}
+{"category": "podrecznik_gramatyka", "pl": "Syn będzie kończył życie matkobójczyni.", "ref_gygy": "kuokaluokas kokuak loduodar.", "pred_gygy": "luokua-s ko-k luoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Kobieta zacznie rodzić.", "ref_gygy": "kak loladodar.", "pred_gygy": "kuk kuo"}
+{"category": "podrecznik_gramatyka", "pl": "Dziadek skończył umierać.", "ref_gygy": "kuokuokuak luoduoduar.", "pred_gygy": "luoduar kuo."}
+{"category": "podrecznik_gramatyka", "pl": "Trup jest niszczony.", "ref_gygy": "luoduakus luar.", "pred_gygy": "luos luaduar."}
+{"category": "podrecznik_gramatyka", "pl": "Córka tworzy starca.", "ref_gygy": "duekuas kokak lar.", "pred_gygy": "duep luos kopak lar."}
+{"category": "podrecznik_gramatyka", "pl": "Żyjący człowiek jest biedny.", "ref_gygy": "lop kuk puor.", "pred_gygy": "lopu kuas puoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Ojciec bogato obdarował syna.", "ref_gygy": "kokuas lolakuak pop paduar.", "pred_gygy": "jypop kuoas koak paduar."}
+{"category": "podrecznik_gramatyka", "pl": "Bogaty i śmiertelny dawca będzie miał bogatą córkę i bogatego syna.", "ref_gygy": "pop kokaci pop kokuas poci luop pakuak pudar.", "pred_gygy": "pocik ci luocik ci pacik ci pocik ci kocik ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci pocik ci kuak ci"}
+{"category": "podrecznik_gramatyka", "pl": "Zabójca jego matki zginął poprzez spalenie.", "ref_gygy": "kiop lolakap luokuas sioluoduar.", "pred_gygy": "luokua ci kio ka ci luokua ci luokua ci luokua ci luokua ci luokua ci luokua"}
+{"category": "podrecznik_gramatyka", "pl": "Pewien człowiek się pali.", "ref_gygy": "kuck sior.", "pred_gygy": "cep kuk sior."}
+{"category": "podrecznik_gramatyka", "pl": "Utopicie nas trzech.", "ref_gygy": "pumkias kyamok syoluodar.", "pred_gygy": ""}
+{"category": "podrecznik_gramatyka", "pl": "Topię się.", "ref_gygy": "kiak syoluor.", "pred_gygy": "kiak syotiar."}
+{"category": "podrecznik_gramatyka", "pl": "Pada deszcz.", "ref_gygy": "syosiar.", "pred_gygy": "sion"}
+{"category": "podrecznik_gramatyka", "pl": "Wy zrobiliście błoto.", "ref_gygy": "syosyas kyamok laduar.", "pred_gygy": ""}
+{"category": "podrecznik_gramatyka", "pl": "Uczę.", "ref_gygy": "kiak giogypar.", "pred_gygy": "kak liro."}
+{"category": "podrecznik_gramatyka", "pl": "My dwoje bez ciebie mówimy o twoim zakopaniu żywcem.", "ref_gygy": "kyap syaluos kiakiok gyr.", "pred_gygy": "kyas kias ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci kya ci k"}
+{"category": "podrecznik_gramatyka", "pl": "Mędrzec mówił o bogactwie dziadka i biedzie babci.", "ref_gygy": "kuokuokuap poci kuokuokap puos giokuk gyduar.", "pred_gygy": "gioak gysioduar ci poak ci puoak"}
+{"category": "podrecznik_gramatyka", "pl": "Mówca będzie mówił o życiu głupca i życiu mędrca.", "ref_gygy": "gyokup loci giokup los gykuak gydar.", "pred_gygy": "gyo lo gyo ci gio lo"}
+{"category": "podrecznik_gramatyka", "pl": "Stary głupiec zaczął głupio gadać o przyszłym bogactwie.", "ref_gygy": "dap pos duep gyokuk gyop giadoduar.", "pred_gygy": "duagyoak gyoak duafiodu poak gya"}
+{"category": "podrecznik_gramatyka", "pl": "Roztropna i mądra zabójczyni ogłupia syna starego mędrca.", "ref_gygy": "duep giokuap kokuas gieci giop luokak gyor.", "pred_gygy": "giep ci giop luokuaak giopkuk gyoar."}
+{"category": "podrecznik_gramatyka", "pl": "Matka gniewa się na młodego syna.", "ref_gygy": "dep kokuas lolakak gyer.", "pred_gygy": "dekoas kiokeas kiokeak gyeir."}
+{"category": "podrecznik_gramatyka", "pl": "Ktoś gniewa się na cichego mówcę.", "ref_gygy": "gyap gykus gyer.", "pred_gygy": "gyas giasok gye."}
+{"category": "podrecznik_gramatyka", "pl": "Pewien roztropny człowiek jest na ziemi.", "ref_gygy": "giep kuck syaner.", "pred_gygy": "gep cikuak syanun lur."}{"category": "podrecznik_gramatyka", "pl": "Na początku było Słowo.", "ref_gygy": "don gyk duar.", "pred_gygy": "doanun gyas luoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Jestem u góry.", "ref_gygy": "non kiak.", "pred_gygy": "noak luar."}
+{"category": "podrecznik_gramatyka", "pl": "Siedzę pod błotem podczas deszczu.", "ref_gygy": "syosian kiak syosyanuer.", "pred_gygy": "siofionun syofionun kiak xuar."}
