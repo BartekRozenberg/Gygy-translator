@@ -4899,3 +4899,504 @@ istota rzeczy / esencja / sedno;xyfy;xy (środek, rdzeń) + fy (właściwość);
  zjawisko / fenomen (to, co się ukazuje);telu;te (widoczne) + lu (istnienie);Gygy::10_Panstwo_Prawo_Wojsko_Kultura::Religia_i_Filozofia
 etyka / moralność (nauka o dobru i złu);rioryogiogy;rio (dobro) + ryo (zło) + giogy (nauka);Gygy::10_Panstwo_Prawo_Wojsko_Kultura::Religia_i_Filozofia
 paradoks / sprzeczność logiczna;goguo;go (prawda) + guo (fałsz);Gygy::10_Panstwo_Prawo_Wojsko_Kultura::Religia_i_Filozofia
+zabijający / niszczący (imiesłów przymiotnikowy czynny);luarup;lua (niszczyć/zabijać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zabijany / niszczony (imiesłów przymiotnikowy bierny);luapyp;lua (niszczyć/zabijać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+żyjący (imiesłów czynny teraźniejszy);lorup;lo (żyć) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+ożywiony (imiesłów bierny);lopyp;lo (życie) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+umierający (imiesłów czynny);luorup;luo (umierać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zmarły / ten, który umarł (imiesłów przeszły czynny);luoruduap;luo (umrzeć) + ru (czynność) + dua (przeszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zabity / zamordowany (imiesłów przeszły bierny);luopyduap;luo (zabić) + py (stan bierny) + dua (przeszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mający umrzeć / śmiertelnik (imiesłów przyszły czynny);luorudap;luo (umrzeć) + ru (czynność) + da (przyszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+skazany na śmierć / mający zostać zabitym (imiesłów przyszły bierny);luopydap;luo (zabić) + py (stan bierny) + da (przyszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+przeznaczony do zmartwychwstania (łac. resurrecturus);luanyoxuarydap;luo (śmierć) + nyo (od) + xua (wstać) + ry (akcja) + da (przyszłość) + p;Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+tworzący / kreujący (imiesłów czynny);larup;la (tworzyć) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+stworzony / wykreowany (imiesłów bierny przeszły);lapyduap;la (tworzyć) + py (stan bierny) + dua (przeszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+kochający (imiesłów czynny);ciorup;cio (kochać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+kochany / umiłowany (imiesłów bierny);ciopyp;cio (kochać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+dający / ofiarujący (imiesłów czynny);parup;pa (dawać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+dany / podarowany (imiesłów bierny);papyp;pa (dawać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+biorący / przyjmujący (imiesłów czynny);puarup;pua (brać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+wzięty / przyjęty (imiesłów bierny);puapyp;pua (brać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mówiący (imiesłów czynny);gyrup;gy (mówić) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+wypowiedziany / rzekomy (imiesłów bierny);gypyp;gy (mówić) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+piszący (imiesłów czynny);ragyrup;ragy (pisać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+napisany / zapisany (imiesłów bierny);ragypyp;ragy (pisać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+czytający (imiesłów czynny);tegyrup;tegy (czytać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+przeczytany (imiesłów bierny przeszły);tegypyduap;tegy (czytać) + py (stan) + dua (przeszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+rządzący / panujący (imiesłów czynny);piorup;pio (rządzić) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+rządzony / podwładny (imiesłów bierny);piopyp;pio (rządzić) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+wybierający / głosujący (imiesłów czynny);dyrup;dy (wybierać) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+wybrany / elekcyjny (imiesłów bierny);dypyp;dy (wybierać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+uczący / nauczający (imiesłów czynny);giogypaprup;giogypa (uczyć) + ru (czynność) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+nauczany / szkolony (imiesłów bierny);giogypapyp;giogypa (uczyć) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zbudowany / wzniesiony (imiesłów bierny przeszły);nulapyduap;nula (budować) + py (stan) + dua (przeszłość) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+ukryty / schowany (imiesłów bierny);bapyp;ba (zakrywać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+otwarty / odsłonięty (imiesłów bierny);buapyp;bua (otwierać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+oczekiwany / spodziewany (imiesłów bierny);ruopyp;ruo (czekać) + py (stan bierny) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zobaczony / ujrzawszy (imiesłów przysłówkowy uprzedni);teduaf;te (widzieć) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+usłyszawszy (imiesłów przysłówkowy uprzedni);toduaf;to (słyszeć) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+powiedziawszy / rzekłszy;gyduaf;gy (mówić) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zrobiwszy / uczyniwszy;ruduaf;ru (robić) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zjadłszy (po zjedzeniu);tiaduaf;tia (jeść) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+przyszedłszy (po przyjściu);nioxaduaf;nioxa (przyjść) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+odszedłszy (po odejściu);nyoxaduaf;nyoxa (odejść) + dua (przeszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zanim powiem / przed powiedzeniem (imiesłów przyszły);gydaf;gy (mówić) + da (przyszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zanim odejdę / przed odejściem;nyoxadaf;nyoxa (odejść) + da (przyszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+zanim umrę / przed śmiercią;luodaf;luo (umrzeć) + da (przyszłość) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+nie chwaląc się (konstrukcja z podręcznika 3.21);biogyliguaf;bio (chwała) + gy (mówić) + li (chęć) + gua (nie) + f (imiesłów);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mój niezbywalny / bliski memu sercu (np. rodzina, ciało);kianiap;kia (ja) + nia (blisko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mój zbywalny / formalnie mój (np. przedmiot na sprzedaż);kianyap;kia (ja) + nya (daleko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+twój niezbywalny;kyaniap;kya (ty) + nia (blisko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+twój zbywalny;kyanyap;kya (ty) + nya (daleko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+jego / jej niezbywalny;kioniap;kio (on/ona) + nia (blisko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+jego / jej zbywalny;kionyap;kio (on/ona) + nya (daleko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+swój własny (zwrotny zaimek dzierżawczy);tip;ti (sam, się) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+swój niezbywalny;tiniap;ti (sam) + nia (blisko) + p (przynależność);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+na moje polecenie / z mojego rozkazu (podmiot kauzatywny);kiapiok;kia (ja) + pio (władza, polecenie) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+na twoje polecenie (podmiot kauzatywny);kyapiok;kya (ty) + pio (polecenie) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+na jego / jej polecenie (podmiot kauzatywny);kiopiok;kio (on/ona) + pio (polecenie) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+ja sam / własnoręcznie (podmiot emfatyczny);kiatik;kia (ja) + ti (sam) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+już ja ten sam / jam sam (z podręcznika 3.21);kialik;kia (ja) + l (ten) + i + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+ty sam / osobiście (podmiot emfatyczny);kyatik;kya (ty) + ti (sam) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+on sam / ona sama osobiście;kiotik;kio (on/ona) + ti (sam) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mimowolnie przeze mnie / przez mój przypadek / randomowo;kiadyek;kia (ja) + dye (przypadek) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mimowolnie przez ciebie / przez twój przypadek;kyadyek;kya (ty) + dye (przypadek) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+mimowolnie przez niego / przez jego przypadek;kiodyek;kio (on/ona) + dye (przypadek) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+z mojej winy / przeze mnie (jako sprawca błędu);kiaguok;kia (ja) + guo (błąd) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+dzięki mojej pomocy / za moim wsparciem;kiaciarok;kia (ja) + ciaro (pomoc) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+my troje bez ciebie (ja i oni dwaj);kiakiokio;kia (ja) + kio (on) + kio (on);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+nas pięcioro bez ciebie (z podręcznika 3.12);kiagumkio;kia (ja) + gum (czterech) + kio (oni);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+oni troje (z podręcznika 3.11);kiokiokio;kio (on) + kio (on) + kio (on) [lub pumkio];Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+nawzajem / wzajemnie / jeden drugiego;kiekye;kie (ten sam) + kye (inny);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+którykolwiek z dwóch / jeden lub drugi;tumb;tum (dwa) + b (-kolwiek);Gygy::11_Zaawansowane_C1_Dodatki::Gramatyka_Zaawansowana
+w przeciwnym razie / inaczej (w instrukcji warunkowej);kyeci;kye (inny) + ci (spójnik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+mimo że / chociaż / aczkolwiek / pomimo iż;xuepi;xue (warunek) + pi (ale);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+mimo to / jednakże / niemniej jednak;lpi;l (to) + pi (ale);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+dlatego też / z tego powodu;leln;le (przyczyna) + l (ten) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w tym celu / po to, aby;xeln;xe (cel) + l (ten) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w ten sposób / tak właśnie;riln;ri (sposób) + l (ten) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w taki sam sposób / analogicznie / podobnie;kierin;kie (ten sam) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w inny sposób / inaczej;kyerin;kye (inny) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w dowolny sposób / jakkolwiek;ribn;ri (sposób) + b (-kolwiek) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w żaden sposób / nijak / absolutnie nie;rimuen;ri (sposób) + mue (brak) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+pod każdym względem / we wszystkim;mirin;mi (każdy) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+na przykład (np.) / tytułem próby;jurip;ju (próba, przykład) + ri (sposób) + p (przysłówek);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+przykład / próbka (ze słownika w podręczniku);muogy;muo (mała część) + gy (słowo, wypowiedź);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+szczególnie / zwłaszcza / przede wszystkim;miorip;mio (najbardziej) + ri (sposób) + p (przysłówek);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+ogólnie rzecz biorąc / zasadniczo / w całości;merip;me (całość) + ri (sposób) + p (przysłówek);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+częściowo / po części / w pewnym stopniu;marip;ma (część) + ri (sposób) + p (przysłówek);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+krótko mówiąc / w skrócie / reasumując;xyogyrip;xyo (krótko) + gy (mówić) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+innymi słowy / to znaczy;kyegyn;kye (inne) + gy (słowa) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+dosłownie / słowo w słowo;gogyn;go (prawdziwe, ścisłe) + gy (słowo) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w przenośni / metaforycznie;kyegybyp;kyegyby (metafora) + p (przysłówek);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+nawiasem mówiąc / swoją drogą / na marginesie;fegyn;fe (bok, na boku) + gy (mowa) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wracając do tematu;dniogyn;d (znowu) + nio (do) + gy (tematu) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+po pierwsze (w wyliczeniu);cumprin;cump (pierwszy) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+po drugie;tumprin;tump (drugi) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+po trzecie;pumprin;pump (trzeci) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+na koniec / wreszcie / ostatecznie;duorin;duo (koniec) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+na początku / in principio / przede wszystkim;dorin;do (początek) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+z jednej strony;cumvyn;cum (jedna) + vy (strona) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+z drugiej strony (natomiast);tumvyn;tum (druga) + vy (strona) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+i tak dalej (itd.) / et caetera (etc.);cixan;ci (oraz) + xa (iść dalej) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+między innymi (m.in.);xykyen;xy (wśród) + kye (innych) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w rzeczywistości / tak naprawdę / de facto;golurip;golu (rzeczywistość) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+teoretycznie / w teorii / w myśli;gioron;gioro (myśl, teoria) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+praktycznie / w praktyce / w działaniu;run;ru (działanie, czynność) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+bez wątpienia / niewątpliwie / z pewnością;muelyerip;mue (brak) + lye (wątpliwość) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+oczywiście / naturalnie / jasna sprawa;fiogorip;fio (jasno) + go (prawda) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+być może / prawdopodobnie / chyba / zapewne;dyerip;dye (przypuszczenie) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+na szczęście / całe szczęście;corip;co (szczęście) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+niestety / na nieszczęście;cuarip;cua (smutek) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+szczerze mówiąc / prawdę mówiąc;gogyrip;go (prawda) + gy (mówić) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+moim zdaniem / według mnie;kiapbegioron;kiap (moja) + begioro (opinia) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+twoim zdaniem / według ciebie;kyapbegioron;kyap (twoja) + begioro (opinia) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+według prawa / prawnie;pian;pia (prawo) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wbrew prawu / bezprawnie;pyan;pya (bezprawie) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wbrew woli / pod przymusem;xyalion;xya (przeciw) + lio (wola) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+dobrowolnie / z własnej woli;tilion;ti (własna) + lio (wola) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+na próżno / daremnie / bez skutku;mueluen;mue (brak) + lue (skutek) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+skutecznie / efektywnie / z powodzeniem;peluen;pe (pomyślny) + lue (skutek) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+bez powodu / bezprzyczynowo;muelen;mue (brak) + le (przyczyna) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+bezcelowo / bez sensu;muexen;mue (brak) + xe (cel) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+pod warunkiem, że;xueln;xue (warunek) + l (ten) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+bezwarunkowo / absolutnie;muexuen;mue (brak) + xue (warunek) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w porównaniu z;myrin;my (porównanie) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+w przeciwieństwie do / na odwrót;xyarin;xya (przeciwnie) + ri (sposób) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+zamiast tego;wln;w (zamiast) + l (to) + n (okolicznik);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+oprócz tego / ponadto / co więcej;jln;j (oprócz) + l (to) + n (okolicznik) [lub mialn];Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wystarczy! / dość tego!;mymolir;mymo (wystarczająco) + li (niech) + r (orzeczenie);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+nie ma za co! (odpowiedź na dziękuję);muege;mue (brak potrzeby) + ge (podziękowania);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+nic nie szkodzi! (odpowiedź na przepraszam);mueryo;mue (brak) + ryo (zła/szkody);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+zgadza się! / dokładnie tak! / jeszcze jak!;goga;go (prawda) + ga (emfaza, tak);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wcale nie! / bynajmniej! / absolutnie nie!;guagua;gua (nie) + gua (emfaza przeczenia);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+co słychać? / jak się masz?;diri kyak lur;diri (jak) + kya (ty) + k + lu (być) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wszystko w porządku / mam się dobrze;riop kiak lur;riop (dobrze) + kia (ja) + k + lu (być) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+pomocy! / ratunku!;ciaroligi;ciaro (pomagać) + ligi (rozkaz bezwzględny);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+uwaga! / ostrożnie!;buoteLigi;buo (zagrożenie) + te (patrzeć) + ligi (nakaz);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+stój! / zatrzymaj się!;xualigi;xua (stać) + ligi (rozkaz);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+cisza! / bądź cicho!;gyaligi;gya (milczeć) + ligi (rozkaz);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+pospiesz się! / szybko!;xoligi;xo (szybko) + ligi (rozkaz);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+poczekaj chwilę!;myeduruolidi;myedu (chwila) + ruo (czekać) + lidi (prośba);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+nie wiem;kiak giogyguar;kia (ja) + k + giogy (wiedzieć) + gua (nie) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+nie rozumiem;kiak giopuaguar;kia (ja) + k + giopua (rozumieć) + gua (nie) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wszystko jedno / obojętnie;kielur;kie (to samo) + lu (być) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+to zależy (od warunku);xuelur;xue (warunek) + lu (być) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+co to znaczy?;dagybys lk pur;di (jakie) + gyby (znaczenie) + s + l (to) + k + pu (mieć) + r;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+jak to powiedzieć w języku gygy?;gygymon diri ls gyr;gygymo (w gygy) + n + diri (jak) + ls (to) + gyr (mówi się);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+wypisać napis „Hello World!” (z podręcznika 3.23.1);segin riogylirs gyr;se (świat) + gi (wołacz) + n + riogylir (niech mówi dobrze) + s + gyr;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+dawno, dawno temu (początek baśni);nyaduadun;nya (daleka) + dua (przeszłość) + du (czas) + n;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+na wieki wieków (z modlitwy 6.2);dumidup dumidun;dumi (zawsze) + du (czas) + p + dumidu + n;Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+niech żyje! / wiwat!;lolir;lo (żyć) + li (niech) + r (orzeczenie);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+precz z...! / niech zginie!;luolir;luo (zginąć) + li (niech) + r (orzeczenie);Gygy::11_Zaawansowane_C1_Dodatki::Zwroty_i_Dyskurs
+jednorodzony (Syn Boży - z tekstu 6.1 i 6.2);cumlolapyp;cum (jeden) + lola (zrodzić) + py (stan bierny) + p (przymiot) [lub cumkyap];Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+pełen łaski i prawdy (z tekstu 6.1);gop ci biepep mep;go (prawda) + p + ci + biepe (święty porządek/łaska) + p + me (pełny) + p;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+stać się ciałem / wcielenie (z tekstu 6.1);tulu;tu (ciało) + lu (stać się, być);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zamieszkać wśród nas (z tekstu 6.1);kiamon loda;kiamo (my) + n (wśród) + lo (żyć/mieszkać) + da;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+dawać świadectwo prawdzie (z tekstu 6.1);gogypa;go (prawda) + gy (mówić) + pa (dawać);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+posłany od Boga (z tekstu 6.1);biekyripioniop;bieky (Bóg) + ri + pio + nio (wysłany);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Jan (imię własne z tekstu 6.1);Liohanegu;Liohane (Jan) + gu (nazwa własna);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Henio (imię własne z podręcznika 3.13);Heniogu;Henio + gu (nazwa własna);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Świteź (nazwa jeziora z podręcznika 3.13);Xifitexigu;Xifitexi (Świteź) + gu (nazwa własna);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+siny (o wodzie Świtezi - z podręcznika 3.13);huotp;huo (chory/blady/siny) + t (kolor) + p (przymiot);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+chleb nasz powszedni (z modlitwy Ojcze Nasz 3.15);kiamop ci fiodumip suotia;kiamop (nasz) + ci + fiodumip (codzienny) + suotia (chleb);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+winowajca / dłużnik moralny (z Ojcze Nasz 3.15);ryoruku;ryo (zło, wina) + ru (czynić) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+odpuścić winy / przebaczyć grzechy (z Ojcze Nasz 3.15);nyoduo;nyo (od) + duo (zakończyć);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+wodzić na pokuszenie (z Ojcze Nasz 3.15);piadynion niopioxu;piady (pokusa) + nio + n + niopioxu (wprowadzać);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zbawić / wyzwolić od złego (z Ojcze Nasz 3.15);ryonyon pieru;ryo (zło) + nyo (od) + n + pie (uwolnić) + ru (czynić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+wysławiać / wielbić / chwalić święcie (z hymnu 6.2);biebiogy;bie (świętość) + bio (chwała) + gy (mówić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+wyznawać z wiarą i czcią (z hymnu 6.2);bebygy;be (wiara) + by (wartość/cześć) + gy (mówić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Ojciec Przedwieczny (z hymnu 6.2);dumip kuokuakya;dumi (wieczny) + p + kuokua (Ojciec) + kya (Ty);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+niebiosy / przestworza niebieskie (z hymnu 6.2);nosia;no (góra) + sia (powietrze, niebo);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+cherubini i serafini / chóry niebieskie (z hymnu 6.2);banosiakymo ci sionosiakymo;ba (osłaniający) + nosia (niebo) + kymo + sio (ogniści) + nosiakymo;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Pan Zastępów / Bóg Wszechmogący (z hymnu 6.2);momop bieky;momo (mnogości/zastępy) + p + bieky (Bóg);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+apostołowie / posłańcy (w hymnie 6.2);pioniopykuamo;pio (władza) + nio (wysłani) + py + kuamo (mężowie);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+prorocy (w hymnie 6.2);datekuamo;da (przyszłość) + te (widzący) + kuamo (mężowie);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+męczennicy w bieli (w hymnie 6.2);fiofiotp gogykuamo;fiofiotp (olśniewająco biali) + gogy (świadkowie prawdy) + kuamo;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Król Chwały (z hymnu 6.2);biop nopiokua;bio (chwała) + p + no (najwyższy) + piokua (Król);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+łono Dziewicy (z hymnu 6.2);tiekap lolasuetu;tieka (dziewica) + p + lola (rodzenie) + suetu (łono/pojemnik ciała);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+żądło śmierci (z hymnu 6.2);luop buofua;luo (śmierć) + p + buo (groźne) + fua (ostrze/żądło);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+królestwo niebieskie (z hymnu 6.2);nosiap pionu;nosia (niebiosa) + p + pionu (królestwo);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+prawica Boga (z hymnu 6.2);biekyp fe;bieky (Bóg) + p + fe (prawa strona);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+Sędzia Sprawiedliwy (z hymnu 6.2);riepiokua;rie (sprawiedliwość) + piokua (Władca/Sędzia);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+odkupić drogocenną krwią (z hymnu 6.2);pobyp tusyorin dbypa;poby (drogocenna) + p + tusyo (krew) + rin + d (na nowo) + bypa (wykupić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zmiłować się / okazać miłosierdzie (z hymnu 6.2);puocio;puo (nad biedą) + cio (miłość/miłosierdzie);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zakopać żywcem (z podręcznika 3.6 i 5.1.7);syaluo;sya (ziemia) + luo (zabić, śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+spalić żywcem / śmierć w ogniu (z podręcznika 3.5 i 5.1.7);sioluo;sio (ogień) + luo (zabić, śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+utopić / utonąć / śmierć w wodzie (z podręcznika 3.5 i 5.1.7);syoluo;syo (woda) + luo (zabić, śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+ukamienować (zabić kamieniami);qeluo;qe (kamień) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+ukrzyżować (zabić na krzyżu);ciatumfualuo;ciatumfua (krzyż) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+powiesić (stracić na szubienicy);qieluo;qie (wieszać) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+otruć (zabić trucizną);luosyluo;luosy (trucizna) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zastrzelić (zabić z broni palnej);siocyaraluo;siocyara (broń palna) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zasztyletować / zadźgać nożem;focyaraluo;focyara (ostrze) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+udusić (pozbawić powietrza);siamueluo;sia (powietrze) + mue (pozbawić) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zagłodzić na śmierć;tiamueluo;tiamue (głód) + luo (zabić);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+zamarznąć na śmierć;fyaluo;fya (mróz) + luo (umrzeć);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+kończyć życie / dobijać (z podręcznika 3.2 i 5.1.7);loduo;lo (życie) + duo (kończyć);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+niszczyciel / destruktor (z podręcznika 3.2 i 5.1.7);luaku;lua (niszczyć) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+twórca / kreator (z podręcznika 3.1 i 5.1.7);laku;la (tworzyć) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+twórczyni (z podręcznika 3.1);laka;la (tworzyć) + ka (kobieta);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+prekursor / pionier (pierwszy twórca - z podręcznika 3.11);cumlaku;cum (pierwszy) + laku (twórca);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+następca / sukcesor;nualaku;nua (po, następny) + laku (działacz/władca);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+übermensch / nadczłowiek (z podręcznika 3.8 i 5.1.7);noku;no (góra, nad) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+podczłowiek;nuoku;nuo (dół, pod) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+człowiek z przyszłości (z podręcznika 3.2);daku;da (przyszłość) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+człowiek z przeszłości / przodek historyczny;duaku;dua (przeszłość) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+współczesny człowiek;dulku;dul (teraźniejszość) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+antropomorfizować / uczłowieczać (z podręcznika 3.1);kuru;ku (czynić człowiekiem) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+dehumanizować / odczłowieczać;muekuru;mue (pozbawiać) + ku (człowieczeństwa) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+feminizować / czynić kobietą (z podręcznika 3.1);karu;ka (czynić kobietą) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+maskulinizować / czynić mężczyzną;kuaru;kua (czynić mężczyzną) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+rozemocjonowany / wzburzony (z podręcznika 3.10);cucu;cu (emocja) + cu (emocja);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+ruchawo / żwawo / energicznie (z podręcznika 3.13);xup;xu (ruch) + p (przysłówek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+dziatki / małe dzieci (z podręcznika 3.14);myekumo;myeku (dziecko) + mo (mnogość);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+wszyscy razem (z podręcznika 3.14);ciamik;cia (razem) + mi (wszyscy) + k (podmiot);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+dzień Ziemi (z podręcznika 3.12);syonup fiodu;syonu (Ziemia/miejsce wodne) + p + fiodu (dzień);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+twórca darów / darczyńca (z podręcznika 3.3);palaku;pa (dar) + la (tworzyć) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+twórczyni darów (z podręcznika 3.3);palaka;pa (dar) + la (tworzyć) + ka (kobieta);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+babciowe rzeczy / dobytek babci (z podręcznika 3.3);kuokuokap pu;kuokuoka (babcia) + p + pu (własność);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+godzina śmierci (z podręcznika 3.3);luodu;luo (śmierć) + du (czas, godzina);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+dzień narodzin;dolofiodu;dolo (narodziny) + fiodu (dzień);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+dzień Sądu Ostatecznego (z hymnu 6.2);duoriep fiodu;duorie (ostateczny sąd) + p + fiodu (dzień);Gygy::11_Zaawansowane_C1_Dodatki::Slownictwo_z_Tekstow
+kinematyka (dział fizyki o ruchu - z tabeli DLC);xugiogy;xu (ruch) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+dynamika (dział fizyki o siłach);haxugiogy;ha (siła) + xu (ruch) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+termodynamika (nauka o cieple i energii);fiasiegiogy;fia (ciepło) + sie (energia) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+optyka (nauka o świetle i wzroku);fiotegiogy;fio (światło) + te (wzrok) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+akustyka (nauka o dźwięku);giagiogy;gia (dźwięk) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+mechanika kwantowa (fizyka najmniejszych cząstek);myesyegiogy;myesye (kwant/cząstka) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+teoria względności (fizyka czasoprzestrzeni);dunygiogy;duny (czasoprzestrzeń) + giogy (teoria);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+prędkość / szybkość (w fizyce - z tabeli DLC);xomu;xo (szybko) + mu (wielkość liczbowa) [lub xory];Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+prędkość światła (c);fioximu;fio (światło) + xomu (prędkość);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+prędkość dźwięku (mach);giaxomu;gia (dźwięk) + xomu (prędkość);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+przyspieszenie (zmiana prędkości - z tabeli DLC);dyaxomu;dya (zmiana) + xomu (prędkość);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+opóźnienie / hamowanie (spadek prędkości);huexomu;hue (spadek) + xomu (prędkość);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+pęd (masa razy prędkość - z tabeli DLC);syexomu;sye (masa) + xomu (prędkość);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+bezwładność / inercja;diapyha;dia (trwanie) + py (stanu) + ha (siła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+tarcie (siła oporu ruchu - z tabeli DLC);juoxyaxuha;juo (szorstkość) + xya (przeciw) + xu (ruch) + ha (siła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+opór powietrza (aerodynamika);siaxyaxuha;sia (powietrze) + xya (przeciw) + xu (ruch) + ha (siła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+siła odśrodkowa;nyoxyfaxuha;nyoxy (od środka) + faxu (ruch kołowy) + ha (siła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+siła dośrodkowa;nioxyfaxuha;nioxy (do środka) + faxu (ruch kołowy) + ha (siła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+ciśnienie (siła na powierzchnię - z tabeli DLC);nanuha;nanu (powierzchnia) + ha (siła, nacisk);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+podciśnienie / próżnia techniczna;muenanuha;mue (brak) + nanuha (ciśnienia);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+wyporność (siła unosząca w wodzie);syonoha;syo (woda) + no (w górę) + ha (siła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+środek ciężkości;xysyenu;xy (środek) + sye (masa/ciężar) + nu (punkt);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+równowaga chwiejna;dyamytuxua;dya (zmienna) + mytuxua (równowaga);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+równowaga trwała;diamytuxua;dia (trwała) + mytuxua (równowaga);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+praca mechaniczna (siła razy droga);haxaro;ha (siła) + xa (droga) + ro (praca);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+energia kinetyczna (energia ruchu);xusie;xu (ruch) + sie (energia);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+energia potencjalna (zmagazynowana);pusie;pu (posiadana/zatrzymana) + sie (energia);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+energia cieplna (termiczna);fiasie;fia (ciepło) + sie (energia);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+fala (drganie rozchodzące się w przestrzeni);xuxa;xu (drganie) + xa (rozchodzenie się);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+długość fali;xuxaxio;xuxa (fala) + xio (długość);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+amplituda fali;xuxano;xuxa (fala) + no (wysokość wychylenia);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+fala dźwiękowa;giaxuxa;gia (dźwięk) + xuxa (fala);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+ultradźwięki (dźwięki o wysokiej częstotliwości);nohogiaxuxa;no (wysoka częstotliwość) + giaxuxa (fala dźwiękowa);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+infradźwięki (dźwięki o niskiej częstotliwości);nuogiaxuxa;nuo (niska częstotliwość) + giaxuxa (fala dźwiękowa);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+fala świetlna;fioxuxa;fio (światło) + xuxa (fala);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+odbicie światła (refleksja);dfioxa;d (zwrócona) + fioxa (droga światła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+załamanie światła (refrakcja);dyafioxa;dya (zmiana kierunku) + fioxa (droga światła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+soczewka optyczna (skupiająca lub rozpraszająca);fiotefiosyra;fiote (optyka) + fiosy (szkło) + ra (element);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+pryzmat (rozszczepiający światło na barwy);cyavufiosyfo;cya (rozdzielać) + vu (barwy) + fiosyfo (bryła szkła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+widmo optyczne (spektrum barw);vufioxa;vu (barwy) + fioxa (światło);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+podczerwień (promieniowanie cieplne poniżej czerwieni);nueVefioxa;nue (poniżej) + ve (czerwień) + fioxa (promieniowanie);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+ultrafiolet (promieniowanie powyżej fioletu);novuefioxa;no (powyżej) + vue (fiolet) + fioxa (promieniowanie);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+promieniowanie rentgenowskie (X);nyetefioxa;nyete (prześwietlające) + fioxa (promieniowanie);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+laser (skupiona wiązka światła);xyhafioxa;xy (skupiona) + ha (silna) + fioxa (wiązka światła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+obwód elektryczny;fiefaxa;fie (prąd) + faxa (zamknięta droga);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+prąd stały (DC);diafie;dia (stały kierunek) + fie (prąd);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+prąd przemienny (AC);dyafie;dya (zmienny kierunek) + fie (prąd);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+napięcie elektryczne;fieha;fie (prąd) + ha (siła/potencjał);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+natężenie prądu;fiexa;fie (prąd) + xa (przepływ);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+opór elektryczny (rezystancja);xyafiexa;xya (przeciw) + fiexa (przepływ prądu);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+zwarcie elektryczne / spięcie;ryofiexa;ryo (awaryjny) + fiexa (przepływ prądu);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+biegun magnetyczny północny;vyafye;vya (północ) + fye (magnetyzm);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+biegun magnetyczny południowy;viafye;via (południe) + fye (magnetyzm);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+przyciąganie magnetyczne;qiafye;qia (ciągnąć) + fye (magnetyzm);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+odpychanie magnetyczne;qyafye;qya (pchać/odpychać) + fye (magnetyzm);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+dżul (J - jednostka pracy i energii - z tabeli DLC);siemu;sie (energia) + mu (jednostka miary);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+kaloria (jednostka energii żywności);tiasiemu;tia (jedzenie) + siemu (jednostka energii);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+wat (W - jednostka mocy - z tabeli DLC);remu;re (moc) + mu (jednostka miary);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+kilowatogodzina (kWh);mieremumadu;mie (kilo) + remu (wat) + madu (godzina);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+niuton (N - jednostka siły);hamu;ha (siła) + mu (jednostka miary);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+paskal (Pa - jednostka ciśnienia);nanuhamu;nanuha (ciśnienie) + mu (miara);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+herc (Hz - jednostka częstotliwości);fadumu;fadu (cykl) + mu (liczba na sekundę);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+decybel (dB - jednostka głośności dźwięku);hatomu;hato (głośność) + mu (miara);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+wolt (V - jednostka napięcia elektrycznego);fiehamu;fieha (napięcie) + mu (miara);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+amper (A - jednostka natężenia prądu);fiexamu;fiexa (natężenie) + mu (miara);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+om (jednostka oporu elektrycznego);xyafiexamu;xyafiexa (opór) + mu (miara);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+kelwin (K - bezwzględna jednostka temperatury - z tabeli DLC);gomufiamu;gomu (bezwzględna) + fiamu (jednostka ciepła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+zero bezwzględne (-273,15 °C = 0 K);muefia;mue (całkowity brak) + fia (ciepła);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+tlenek węgla / czad (CO - trujący gaz ze spalania);luosioduasia;luo (śmiertelny) + sioduasia (gaz spalinowy);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+dwutlenek węgla (CO2 - gaz wydychany i cieplarniany);nyosiasy;nyosia (wydychany) + sy (gaz);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+ozon (O3 - trójtlen chroniący atmosferę);pumlosiasy;pum (trzy) + losiasy (tlen);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+metan (gaz błotny i ziemny);syosyasiasio;syosya (bagno) + siasio (gaz palny);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+amoniak (ostro cuchnący związek azotu);foByatuesiasy;fo (ostry) + byatue (smród) + siasy (gaz);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+kwas solny (HCl - kwas żołądkowy);tiasuewiosy;tiasue (żołądek) + wiosy (kwas);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+kwas siarkowy (H2SO4 - żrący kwas akumulatorowy);luawiosy;lua (żrący, niszczący) + wiosy (kwas);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+woda utleniona (nadtlenek wodoru do ran);tieluatusyo;tie (odkażająca) + luatu (rany) + syo (woda);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+destylacja (oczyszczanie cieczy przez parowanie);fiasiatiesyo;fiasia (parowanie) + tiesyo (oczyszczanie cieczy);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+filtracja (oddzielanie zanieczyszczeń przez sito);qutieru;qu (sito/filtr) + tie (czyścić) + ru (proces);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+krystalizacja (tworzenie kryształów z roztworu);quolaru;quo (kryształ) + la (tworzyć) + ru (proces);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+elektroliza (rozkład substancji prądem);fiecyasy;fie (prąd) + cya (rozdzielać) + sy (substancję);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+katalizator (przyspieszacz reakcji chemicznej);xodyasy;xo (przyspieszać) + dyasy (reakcję chemiczną);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+reagent / odczynnik chemiczny (z tabeli DLC);dyasysy;dyasy (reakcja) + sy (substancja);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+probówka laboratoryjna;jufiosyxiosue;ju (badanie) + fiosy (szkło) + xiosue (rurka/buteleczka);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+kolba laboratoryjna / zlewka;jufiosysue;ju (badanie) + fiosysue (szklane naczynie);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+palnik laboratoryjny (Bunsena);jusiotiara;ju (badanie) + siotiara (palnik);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+mikroskop (przyrząd do oglądania mikrobów);myemiotera;myemio (najmniejsze rzeczy) + tera (przyrząd optyczny);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+promieniotwórczość / radioaktywność;nyosiefy;nyosie (promieniowanie) + fy (cecha);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+rozpad promieniotwórczy / rozszczepienie jądra;cyanyemyesye;cya (rozpad) + nyemyesye (jądro atomowe);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+fuzja jądrowa (synteza termojądrowa, jak w Słońcu);cianyemyesye;cia (łączenie) + nyemyesye (jądra atomowe);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+reaktor jądrowy;nyemyesyesiera;nyemyesye (jądro atomowe) + siera (urządzenie energetyczne);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+antymateria;xyasye;xya (przeciwna) + sye (materia);Gygy::11_Zaawansowane_C1_Dodatki::Fizyka_i_Jednostki
+układ narządów (Systema - z przestrzeni medycznej 3.22.1);tumarape;tu (ciało) + mara (narząd) + pe (układ);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+narząd wewnętrzny / organ (Organon - z 3.22.1);nyetuma;nye (wewnątrz) + tu (ciało) + ma (część) [lub trzewia: nyetu];Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+tkanka biologiczna (Histos - z 3.22.1);myematumo;myematu (komórka) + mo (zbiór, splot);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+organellum komórkowe (z przestrzeni medycznej 3.22.1);nyemyematuma;nye (wewnątrz) + myematu (komórki) + ma (część);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+jądro komórkowe;xynyemyematu;xy (środek) + nye (wewnątrz) + myematu (komórka);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+błona komórkowa;bamyematu;ba (osłona) + myematu (komórka);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+cytoplazma (płyn wewnątrzkomórkowy);nyemyematusyo;nye (wewnątrz) + myematu (komórki) + syo (płyn);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+mitochondrium (elektrownia komórki);siemyematuma;sie (energia) + myematuma (organellum);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+białko / proteina (z przestrzeni medycznej 3.22.1);lotusy;lo (życie) + tu (budulec ciała) + sy (substancja);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+aminokwas (cegiełka białka);lotusyma;lotusy (białko) + ma (część składowa);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+węglowodan / cukier złożony;sietiasy;sie (energia) + tia (pokarm) + sy (substancja);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+lipid / kwas tłuszczowy;fiatuSy;fiatu (tłuszcz) + sy (substancja chemiczna);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+enzym (biologiczny katalizator trawienia);xotudyaSy;xo (przyspieszać) + tudya (metabolizm) + sy (białko);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+hormon (cząsteczka sterująca w ciele);piotusy;pio (sterować/rządzić) + tu (ciało) + sy (substancja);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+adrenalina (hormon strachu i walki);cuecyepiotusy;cue (strach) + cye (walka) + piotusy (hormon);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+insulina (hormon obniżający cukier we krwi);huewietusyopiotusy;hue (obniżać) + wie (cukier) + tusyo (krew) + piotusy (hormon);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+przeciwciało (białko odpornościowe);butusy;bu (ochrona) + tu (ciało) + sy (białko);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+chromosom (nośnik genów);logysue;logy (gen/DNA) + sue (nośnik);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+mutacja genetyczna (uszkodzenie genu - z 3.22.1);logyhue;logy (gen) + hue (zanik, błąd);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+dziedziczność (przekazywanie cech potomstwu);kuokopafy;kuoko (rodzina/pokolenia) + pa (przekazywać) + fy (cechy);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+ewolucja biologiczna (przemiana gatunków w czasie);duhydya;du (długi czas) + hy (gatunek) + dya (zmiana);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+dobór naturalny (selekcja w przyrodzie);hudy;hu (natura) + dy (wybór);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+przystosowanie / adaptacja gatunku;myhuru;my (dopasować się do) + hu (natury) + ru (proces);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+wymarcie gatunku (ekstynkcja);hyluo;hy (gatunek) + luo (śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+ekosystem / środowisko naturalne;hulocia;hu (przyroda) + lo (żywe istoty) + cia (wspólnota);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+łańcuch pokarmowy;tiafua;tia (zjadanie się) + fua (łańcuch, linia);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+symbioza (współżycie dwóch gatunków);cialohy;cia (razem) + lo (żyć) + hy (gatunki);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+pasożytnictwo (żerowanie na gospodarzu);ryopulohy;ryo (szkodliwie) + pu (czerpać z) + lo (żywej istoty);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+hibernacja / sen zimowy zwierząt;fyaduzuso;fyadu (zima) + zu (sen) + so (zwierzę);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+migracja ptaków (odloty do ciepłych krajów);fiaviaxazo;fiavia (ciepłe południe) + xa (wędrówka) + zo (ptaki);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+tarło (składanie ikry przez ryby);zuololaru;zuo (ryba) + lola (rozmnażać się) + ru (proces);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+klonowanie (tworzenie identycznego organizmu);kielolaru;kie (identyczny) + lo (organizm) + la (tworzyć) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+inżynieria genetyczna / GMO;riaglogyru;ria (modyfikować) + logy (geny) + ru (działanie);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+etiologia (nauka o przyczynach chorób - z 3.22.1);huolegiogy;huo (choroba) + le (przyczyna) + giogy (nauka);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+patogeneza (mechanizm rozwoju choroby);huoxary;huo (choroba) + xa (rozwój) + ry (proces);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+remisja (cofnięcie się objawów choroby);huohue;huo (choroba) + hue (zanik, wycofanie);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+nawrót choroby (wznowa);dhuo;d (znowu) + huo (choroba);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+powikłanie pochorobowe (komplikacja);huoluehuo;huo (choroba) + lue (skutek) + huo (nowa choroba);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+farmakoterapia (leczenie lekami - z 3.22.1);horahori;hora (lekarstwo) + hori (terapia);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+chemioterapia (leczenie nowotworów chemią);luasyhehuohori;luasy (niszcząca substancja) + hehuo (nowotwór) + hori (terapia);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+radioterapia (naświetlanie nowotworów);nyosiehehuohori;nyosie (promieniowanie) + hehuo (nowotwór) + hori (terapia);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+psychoterapia;giorohori;gioro (umysł) + hori (terapia);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+rehabilitacja ruchowa / fizjoterapia;xutuhori;xu (ruch) + tu (ciało) + hori (terapia);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+nowotwór tkanki / mięsak (z podręcznika 3.22.1);myematumohehuo;myematumo (tkanka) + hehuo (nowotwór);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+guz narządu (np. rak płuca - z 3.22.1);nyetumahehuo;nyetuma (narząd) + hehuo (nowotwór);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+przerzut nowotworowy (metastaza);xahehuo;xa (przenosić się) + hehuo (nowotwór);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+wyniszczenie nowotworowe / kacheksja (z 3.22.1);metuhehuohua;metu (całe ciało) + hehuo (nowotwór) + hua (osłabienie);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+wycięcie narządu / resekcja (np. appendektomia - z 3.22.1);muamanyetuma;mua (usunąć) + ma (wyciąć) + nyetuma (narząd);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+biopsja (pobranie wycinka tkanki do badania);puamyematumody;pua (pobrać) + myematumo (tkankę) + dy (do badania);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+endoskopia / gastroskopia / kolonoskopia;nyetutera;nyetu (wnętrze ciała) + tera (wziernik optyczny);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+dializa (oczyszczanie krwi zamiast nerek);wtietusyoru;w (zamiast nerek) + tie (czyścić) + tusyo (krew) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+respirator (maszyna oddychająca za pacjenta);wsiaxusiera;w (zamiast płuc) + siaxu (oddychać) + siera (maszyna);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+inkubator (dla wcześniaków);fiabudolokusue;fia (ciepło) + bu (ochrona) + doloku (noworodek) + sue (komora);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+sekcja zwłok / autopsja (badanie przyczyny zgonu);luoledyluoduaku;luole (przyczyna śmierci) + dy (badać) + luoduaku (zwłoki);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+śmierć kliniczna (odwracalne zatrzymanie krążenia);dlolyluo;dlo (ożywienie) + ly (możliwe) + luo (śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+zgon / śmierć biologiczna (nieodwracalna);duoluo;duo (ostateczny koniec) + luo (śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+eutanazja (śmierć zadana z litości na prośbę chorego);huokulioluopa;huoku (chory) + lio (wola) + luopa (dać śmierć);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+aborcja (przerwanie ciąży);duonyekokuru;duo (zakończyć) + nyekoku (ciąża) + ru (zabieg);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+poronienie (samoistna utrata ciąży);dyenyekokuluo;dye (przypadkowa) + nyekoku (ciąża) + luo (utrata);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+antykoncepcja (zapobieganie ciąży);bunyekokura;bu (chronić przed) + nyekoku (ciążą) + ra (środek);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+zapłodnienie in vitro (poza organizmem);nietufiosysuelola;nietu (poza ciałem) + fiosysue (w szkle) + lola (poczęcie);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+dawca narządu (po śmierci lub za życia);panyetumaku;pa (dawać) + nyetuma (narząd) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+grupa krwi;tusyohy;tusyo (krew) + hy (typ, rodzaj);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+krzepnięcie krwi;juatusyory;jua (twardnienie) + tusyo (krew) + ry (proces);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+zakrzep / zator w żyle;xuatusyofo;xua (zatrzymujący) + tusyo (krew) + fo (czop);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+złamanie otwarte (kości z przebiciem skóry);buabatusutucya;bua (przebita) + batu (skóra) + sutucya (złamanie kości);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+wstrząs (pourazowy lub krwotoczny);miotuHua;mio (skrajne) + tuhua (załamanie sił ciała);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+odleżyna (rana od długiego leżenia);diaxioxualuatu;dia (długie) + xioxua (leżenie) + luatu (rana);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+odmrożenie (martwica od mrozu);fyaluomatu;fya (mróz) + luo (martwa) + matu (część ciała);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+zaświadczenie o szczepieniu / certyfikat zdrowotny;buhorapiagy;buhora (szczepionka) + piagy (dokument);Gygy::11_Zaawansowane_C1_Dodatki::Biologia_i_Medycyna_C1
+mem internetowy (śmieszny obrazek w sieci);siexieracabiate;siexiera (internet) + ca (śmiech) + biate (obrazek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+pasta internetowa (copypasta - wspomniana na str. 66);kiemoxagyragy;kie (kopiowana) + mo (wiele razy) + xagy (historyjka) + ragy (tekst);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+wiral (treść rozchodząca się w sieci jak wirus);xomosiexieragyxa;xo (szybko) + mo (masowo) + siexieragyxa (wiadomość sieciowa);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+hejter (osoba szerząca nienawiść w sieci);siexieracyoku;siexiera (internet) + cyo (nienawiść) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+hejt (mowa nienawiści w internecie);siexieracyogy;siexiera (internet) + cyo (nienawiść) + gy (mowa);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+troll internetowy (prowokator sieciowy);siexierapagyeku;siexiera (internet) + pagye (prowokować gniew) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+trollować (prowokować dla zabawy w sieci);capagyeru;ca (dla zabawy) + pagye (wywoływać gniew) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+spam (niechciane masowe wiadomości);moryogyxa;mo (dużo) + ryo (niechciana) + gyxa (wiadomość);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+fake news / fejk (fałszywa wiadomość medialna);guodedogyxa;guo (fałszywa) + dedogyxa (nowina);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+clickbait (nagłówek-pułapka przyciągający kliknięcia);ryecieqyagugy;rye (podstępne) + cie (przyciąganie) + qya (kliknięcia) + gugy (tytuł);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+influencer / celebryta internetowy;siexieranaxaku;siexiera (internet) + naxaku (lider opinii);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+youtuber / twórca wideo w sieci;siexieraxategylaku;siexiera (internet) + xategy (wideo) + laku (twórca);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+streamer (nadający na żywo z gier lub rozmów);dulsiexierategypaku;dul (na żywo) + siexiera (internet) + tegy (transmisja) + paku (nadawca);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+streamować (prowadzić transmisję na żywo w sieci);dulsiexierategy;dul (teraz/na żywo) + siexiera (w sieci) + tegy (transmitować);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+podcast (audycja dźwiękowa w internecie);siexieratogy;siexiera (internet) + togy (audycja radiowa);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+blog / vlog;siexieratiragy;siexiera (internet) + ti (osobisty) + ragy (dziennik);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+subskrypcja / obserwować profil (follow);diasiexierate;dia (stale) + siexiera (w sieci) + te (śledzić);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+subskrybent / obserwujący (follower);diasiexierateku;diasiexierate (obserwować) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+lajk / polubienie (kciuk w górę);nociote;no (w górę) + cio (lubić) + te (znak);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+dislajk / łapka w dół;nuocyote;nuo (w dół) + cyo (nie lubić) + te (znak);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+udostępnić dalej (share / podać dalej w sieci);xapasiexieragyxa;xapa (przekazać dalej) + siexieragyxa (post);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+zablokować użytkownika / zbanować (ban);banyosiexieraku;ba (zablokować) + nyo (wyrzucić) + siexieraku (użytkownika);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+emotikona / emoji (buźka wyrażająca emocje);cuTegyfu;cu (emocja) + tegyfu (znak graficzny);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+hasztag (# - znacznik tematu);gugyfu;gu (nazwa tematu) + gyfu (znak);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+awatar (obrazek profilowy użytkownika);wkubiate;w (zamiast) + kubiate (portret osoby);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+nick / ksywka internetowa;siexierakugu;siexiera (internet) + kugu (imię);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+selfie (zdjęcie zrobione samemu sobie);tikufiiobiate;ti (sam sobie) + kufiiobiate (zdjęcie portretowe);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+zrzut ekranu (screenshot);fiorafiiobiate;fiora (ekran) + fiiobiate (zdjęcie);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+kod QR / kod kreskowy;musieratefua;musiera (komputerowy) + te (odczytywany wzrokowo) + fua (kod liniowy);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+wirtualna rzeczywistość (VR);musieragolu;musiera (komputerowa) + golu (rzeczywistość);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+rozszerzona rzeczywistość (AR);miamusieragolu;mia (powiększona) + musieragolu (rzeczywistość cyfrowa);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+bot (automat udający użytkownika w sieci);sierakuku;sieraku (robot) + ku (udający człowieka);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+deepfake (sztucznie wygenerowany obraz lub głos osoby);laguokubiate;la (wygenerowany przez AI) + guo (fałszywy) + kubiate (wizerunek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+prompt (polecenie tekstowe dla modelu AI);lagiopiogy;lagio (sztuczna inteligencja) + piogy (polecenie);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+halucynacja AI (zmyślona odpowiedź modelu);lagioguogopa;lagio (AI) + guo (fałszywa) + gopa (odpowiedź);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+token (jednostka tekstu przetwarzana przez model);lagiogyma;lagio (AI) + gyma (cząstka słowa);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+cringe / żenada (uczucie wstydu za kogoś innego);kyebyocy;kye (za kogoś innego) + byo (wstyd) + cy (uczucie);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+strigerowany / poirytowany (*triggered* - z podręcznika str. 66);xogyepyp;xo (nagły) + gye (gniew) + py (stan) + p;Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+randomowo / losowo (wspomniane w podręczniku str. 81);dyerip;dye (przypadek) + ri (sposób) + p;Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+spoiler (zdradzenie zakończenia filmu lub książki);naduoxagygy;na (przed czasem) + duo (koniec) + xagy (fabuły) + gy (powiedzieć);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+binge-watching (oglądanie serialu odcinek po odcinku bez przerwy);moduxategyte;modu (ciągle) + xategy (film/serial) + te (oglądać);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+prokrastynacja (odkładanie obowiązków na później);nuaduqyeroru;nuadu (na później) + qye (odkładać) + ro (pracę) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+wypalenie zawodowe (burnout);duorosiehua;duoro (nadmiar pracy) + sie (energia) + hua (wyczerpanie);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+pracoholik;ropyelioku;ro (praca) + pyelio (uzależnienie) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+zakupoholik;popapyelioku;popa (zakupy) + pyelio (uzależnienie) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+wegetarianin (osoba niejedząca mięsa);muesotiaku;mue (brak) + sotia (mięso) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+weganin (osoba jedząca wyłącznie rośliny);wisuotiaku;wi (tylko) + suo (roślina) + tia (jeść) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+ekolog / aktywista klimatyczny;hubuku;hu (przyroda) + bu (chronić) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+efekt cieplarniany / globalne ocieplenie;sehefia;se (światowy) + he (wzrost) + fia (ciepła);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+ślad węglowy (emisja spalin);sioduasiama;sioduasia (spaliny/CO2) + ma (ilość wyemitowana);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+odnawialne źródła energii (OZE);dlalysie;d (ponownie) + la (tworzyć) + ly (możliwa) + sie (energia);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+panel fotowoltaiczny (słoneczny);fiofiosiera;fiofio (słońce) + sie (energia) + ra (urządzenie);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+turbina wiatrowa (wiatrak prądotwórczy);xasiasiera;xasia (wiatr) + sie (energia) + ra (maszyna);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+pacyfista (przeciwnik wszelkich wojen);xyacyeku;xya (przeciw) + cye (wojna) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+feministka / feminista (zwolennik równości kobiet);kamypiaku;ka (kobieta) + my (równy) + pia (prawo) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+teoria spiskowa (wiara w tajne zmowy);bapyabegioro;ba (tajny) + pya (spisek) + begioro (pogląd);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+UFO (niezidentyfikowany obiekt latający);muegioziora;mue (brak) + gio (wiedzy/rozpoznania) + ziora (obiekt latający);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+podróż w czasie;duxaru;du (czas) + xaru (podróż);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+wehikuł czasu;duzyra;du (czas) + zyra (pojazd);Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+teleportacja (natychmiastowe przeniesienie w przestrzeni);muexanuxu;mue (bez) + xa (drogi) + nu (zmiana miejsca) + xu;Gygy::11_Zaawansowane_C1_Dodatki::Slang_i_Wspolczesnosc
+przekleństwo / wulgaryzm / bluzg (odpowiednik DLC w'u);byagyebyogy;bya (brzydkie) + gye (gniewne) + byogy (wyzwisko);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+obelga / zniewaga / wyzwisko (odpowiednik DLC w'i);byogy;byo (hańba) + gy (słowo);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+chuj (wulgarne określenie prącia lub podłego faceta - DLC w'e);byakualolatu;bya (wulgarny) + kualolatu (męski narząd);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+pizda (wulgarne określenie kobiecego narządu - DLC w'ua);byakalolatu;bya (wulgarny) + kalolatu (kobiecy narząd);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+dupa / tyłek (wulgarne lub potoczne określenie pośladków - DLC w'o);byanuanuotu;bya (wulgarny) + nuanuotu (pośladki);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kurwa / dziwka (wulgarnie o prostytutce - DLC w'a / w'ie);byajylolaka;bya (wulgarny) + jy (pieniądze) + lola (seks) + ka (kobieta);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kurwa! / cholera! / szlag! (wykrzyknik wściekłości);miogyegi;mio (skrajny) + gye (gniew) + gi (wykrzyknik);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+jebać / pieprzyć (wulgarnie o stosunku płciowym - DLC w'uo);byalolaru;bya (wulgarny) + lola (akt płciowy) + ru (czynić);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+zjebany / spieprzony / popsuty do cna (DLC w'ue);mioryapyp;mio (skrajnie) + rya (zepsuty) + py (stan) + p;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+odchody / fekalia (DLC w'y);tyesye;tye (brud) + sye (materia);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+gówno (wulgarne określenie kału lub rzeczy bezwartościowej - DLC w'yo);byatyesye;bya (obrzydliwe) + tyesye (odchody);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+szczoch / szczyny (wulgarne określenie moczu - DLC w'ya);byatyesyo;bya (obrzydliwy) + tyesyo (mocz);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+rzygowiny / wymiociny (DLC w'ye);byanohuosye;bya (obrzydliwe) + nohuo (wymioty) + sye (masa);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+rzygać / haftować (potocznie o wymiotowaniu);byanohuoru;bya (wulgarnie) + nohuo (wymiotować) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+srać (wulgarnie o wypróżnianiu się);byatyesyeru;bya (wulgarnie) + tyesye (kał) + ru (czynić);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+szczać / sikać (potocznie o oddawaniu moczu);byatyesyoru;bya (potocznie) + tyesyo (mocz) + ru (czynić);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+pierdzieć (wulgarnie o puszczaniu gazów);byatiaxiosiaru;bya (wulgarnie) + tiaxiosia (gazy jelitowe) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+drań / łajdak / kanalia / szuja / gnida (DLC w'io);mioryoku;mio (skrajnie) + ryo (zły, podły) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+sukinsyn / skurwysyn (ciężka obelga);byalolakap kokua;bya (podłej) + lolaka (matki) + p + kokua (syn);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kretyn / debil / imbecyl / matoł / tuman (DLC w'ia);miogyoku;mio (skrajnie) + gyo (głupi) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+retard / opóźniony umysłowo (ze str. 66 podręcznika);xuogioroku;xuo (powolny/opóźniony) + gioro (umysł) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+padaczkarz / furiat (ze str. 66 podręcznika);xuxutuhuoku;xuxutuhuo (padaczka/drgawki) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+świnia (przenośnie o nieuczciwym, podłym człowieku);tyesoku;tyeso (świnia) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+osioł / baran (przenośnie o upartym głupcu);diaxosoku;diaxoso (osioł) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+pasożyt / darmozjad (o człowieku żyjącym na cudzy koszt);kyepuloku;kye (cudza) + pu (własność) + lo (żyjący) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+lizus / pochlebca / wazeliniarz;guobiogyku;guobiogy (fałszywe pochlebstwa) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kapuś / donosiciel / konfident;baryogyku;ba (potajemnie) + ryogy (oskarżający) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+oferma / niezdara / ciamajda / fajtłapa;guoruku;guo (błędnie/niezgrabnie) + ru (robiący) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+mięczak / mazgaj / baba (o tchórzliwym lub płaczliwym człowieku);jacuasyoku;ja (miękki) + cuasyo (płaczliwy) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+pijak / moczymorda / menel / żul;rytyaku;rytya (alkohol) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+ćpun / narkoman;luosyku;luosy (narkotyki) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+obżartuch / żarłok / pasibrzuch;nuamotiaku;nuamotia (obżarstwo) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+śpioch / leniuch łóżkowy;mozuku;mo (dużo) + zu (spać) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+brudas / flejtuch / kocmołuch;tyeku;tye (brudny) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+czyścioszek / pedant higieniczny;miotieku;mio (przesadnie) + tie (czysty) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+nudziarz / maruda / smutas;cuagyku;cuagy (narzekać) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+mądrala / przemądrzały ważniak;tigiobioku;ti (sam siebie) + gio (za mądrego) + bio (chwalący) + ku;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kujon (uczeń obsesyjnie wkuwający na pamięć);miopugiogyku;mio (przesadnie) + pugiogy (uczący się) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+wagarowicz;nyoxagiopanuku;nyoxa (uciekać z) + giopanu (szkoły) + ku (uczeń);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+cwaniak / kombinator / spryciarz;ryegioku;ryegio (przebiegłość) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+frajer / naiwniak (dający się łatwo oszukać);jeryepuaku;je (łatwo) + rye (oszustwo) + pua (przyjmujący) + ku;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+dziwak / oryginał / ekscentryk / świr;hyaku;hya (dziwny) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+szaleniec / wariat / czubek;pyagioroku;pyagioro (chaos w umyśle) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+facet / gość / typ / koleś (potocznie o mężczyźnie - ze str. 47);kuak;kua (mężczyzna) [jako nomen potoczne: hiakua];Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+babka / laska / gościówa (potocznie o kobiecie);hiaka;hia (zwykła/potoczna) + ka (kobieta);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+dzieciak / bachor / smarkacz / gówniarz;byamyeku;bya (niegrzeczny) + myeku (dziecko);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+staruch / dziadyga / piernik (pogardliwie o starcu);byaduekua;bya (brzydko) + duekua (stary mężczyzna);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+starucha / wiedźma / jędza (z podręcznika 3.2);dueka;due (stara) + ka (kobieta) [pogardliwie: byadueka];Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+grubas / tłuścioch;miajiatuku;mia (zbyt) + jiatu (gruby) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+chudzielec / szkieletor / tyczka;miajyatuku;mia (zbyt) + jyatu (chudy) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kasa / forsa / szmal / hajs (potocznie o pieniądzach);pojy;po (bogactwo) + jy (pieniądze);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+fucha / chałtura (dodatkowa szybka praca za gotówkę);xojyro;xo (szybka) + jy (za pieniądze) + ro (robota);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+obijać się / leniuchować / zbijać bąki;ruoruru;ruo (bezczynność) + ru (robić);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+harować / zaharowywać się / tyrać (ciężko pracować);mioharoru;mio (skrajnie) + ha (ciężko) + ro (pracować) + ru;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+gadać głupoty / bredzić / pleść bzdury (ze str. 40);gyop gia;gyop (głupio) + gia (wydawać głos, gadać);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+bzdura / głupstwo / nonsens / brednia;gyogy;gyo (głupota) + gy (słowo);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+kłamczuch / łgarz / mitoman;moguoku;mo (dużo) + guo (kłamać) + ku (człowiek);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+odczep się! / daj mi spokój! / spadaj!;kianyon nyoxaligi;kia (ode mnie) + nyo + n + nyoxa (odejdź) + ligi (rozkaz);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+zamknij się! / stul pysk!;tuotubaligi;tuotu (usta) + ba (zamknij) + ligi (rozkaz);Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
+idź się zabij! (dosłowny przykład z podręcznika 3.14);luoxen kyak xalir;luo (śmierć) + xe (cel) + n + kyak (ty) + xa (iść) + li (rozkaz) + r;Gygy::11_Zaawansowane_C1_Dodatki::Wulgaryzmy_i_Kolokwializmy
