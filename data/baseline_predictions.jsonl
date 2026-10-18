@@ -36,6 +36,62 @@
 {"category": "podrecznik_gramatyka", "pl": "Roztropna i mądra zabójczyni ogłupia syna starego mędrca.", "ref_gygy": "duep giokuap kokuas gieci giop luokak gyor.", "pred_gygy": "giep ci giop luokuaak giopkuk gyoar."}
 {"category": "podrecznik_gramatyka", "pl": "Matka gniewa się na młodego syna.", "ref_gygy": "dep kokuas lolakak gyer.", "pred_gygy": "dekoas kiokeas kiokeak gyeir."}
 {"category": "podrecznik_gramatyka", "pl": "Ktoś gniewa się na cichego mówcę.", "ref_gygy": "gyap gykus gyer.", "pred_gygy": "gyas giasok gye."}
-{"category": "podrecznik_gramatyka", "pl": "Pewien roztropny człowiek jest na ziemi.", "ref_gygy": "giep kuck syaner.", "pred_gygy": "gep cikuak syanun lur."}{"category": "podrecznik_gramatyka", "pl": "Na początku było Słowo.", "ref_gygy": "don gyk duar.", "pred_gygy": "doanun gyas luoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Pewien roztropny człowiek jest na ziemi.", "ref_gygy": "giep kuck syaner.", "pred_gygy": "gep cikuak syanun lur."}
+{"category": "podrecznik_gramatyka", "pl": "Na początku było Słowo.", "ref_gygy": "don gyk duar.", "pred_gygy": "doanun gyas luoduar."}
 {"category": "podrecznik_gramatyka", "pl": "Jestem u góry.", "ref_gygy": "non kiak.", "pred_gygy": "noak luar."}
 {"category": "podrecznik_gramatyka", "pl": "Siedzę pod błotem podczas deszczu.", "ref_gygy": "syosian kiak syosyanuer.", "pred_gygy": "siofionun syofionun kiak xuar."}
+{"category": "podrecznik_gramatyka", "pl": "Szkoła została zbudowana na wodzie.", "ref_gygy": "syonen giopanus nular.", "pred_gygy": "sionun gysues nuladuar."}
+{"category": "podrecznik_gramatyka", "pl": "W budynku lata dym.", "ref_gygy": "nulan sioduasiak siar.", "pred_gygy": "sionun siozior."}
+{"category": "podrecznik_gramatyka", "pl": "Sadza się tworzy podczas spalania.", "ref_gygy": "siodun sioduasys lar.", "pred_gygy": "siofion"}
+{"category": "podrecznik_gramatyka", "pl": "Macie swoje bogactwo w popiele.", "ref_gygy": "sioduan kyamop pos kyamok pur.", "pred_gygy": "jypopuak"}
+{"category": "podrecznik_gramatyka", "pl": "On zbudował pewien budynek.", "ref_gygy": "duan nulacs kiok nular.", "pred_gygy": "cuesok kio nuladuar."}
+{"category": "podrecznik_gramatyka", "pl": "Jestem nauczany.", "ref_gygy": "kianion giogypar.", "pred_gygy": "giopanukuk"}
+{"category": "podrecznik_gramatyka", "pl": "Uczę cię.", "ref_gygy": "kyanion kiak giogypar.", "pred_gygy": "kias kiafuk."}
+{"category": "podrecznik_gramatyka", "pl": "Ja uczę was nadczłowieka.", "ref_gygy": "kiomonion nokus kiak giogypar.", "pred_gygy": "kuk ci kya ci kyo ci kio ci kye ci ky ci kua ci ka ci ku ci ke ci ko ci kuo ci kue ci kio ci kia ci kya ci kyo ci kio ci kye ci ky ci kua ci ka ci ku ci ke ci ko ci kuo ci kue ci kio ci kia ci kya ci kyo ci kio ci kye ci ky ci kua ci ka ci ku ci ke ci ko ci kuo ci kue ci kio ci kia ci kya ci kyo ci kio ci kye ci ky ci kua ci ka ci ku ci ke ci ko ci kuo ci kue ci kio ci kia ci kya ci kyo ci k"}
+{"category": "podrecznik_gramatyka", "pl": "Daję ci moje bogactwo.", "ref_gygy": "kyanion kiap pos kiak par.", "pred_gygy": "jyp kiap kya"}
+{"category": "podrecznik_gramatyka", "pl": "Każdy uczeń ma nauczyciela w szkole.", "ref_gygy": "giopanun giopakus giopanukumik pur.", "pred_gygy": "gysues mi giopanukuk giopanukuk"}
+{"category": "podrecznik_gramatyka", "pl": "Uczeń dał mamie swoje błoto.", "ref_gygy": "lolakanion kyp syosyas giopanukuk paduar.", "pred_gygy": "kiap syos giopakuk paduar."}
+{"category": "podrecznik_gramatyka", "pl": "My dwoje daliśmy sadzę studentowi i profesorowi na uczelni.", "ref_gygy": "gionukuanio ci giogiopakuanio ci gionun sioduasys kiakiak paduar.", "pred_gygy": "sues ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun ci giopanun"}
+{"category": "podrecznik_gramatyka", "pl": "On zawsze ma dużo bogactw.", "ref_gygy": "dumin pomos kiok pur.", "pred_gygy": "mop pos"}
+{"category": "podrecznik_gramatyka", "pl": "On teraz ma dużo bogactw.", "ref_gygy": "duln pomos kiok pur.", "pred_gygy": "mojypus kio"}
+{"category": "podrecznik_gramatyka", "pl": "On wtedy miał dużo bogactw.", "ref_gygy": "dualn pomos kiok pur.", "pred_gygy": "mojypus kio dua."}
+{"category": "podrecznik_gramatyka", "pl": "Mędrzec jest szczęśliwy.", "ref_gygy": "giokuak cor.", "pred_gygy": "giokuk cofir."}
+{"category": "podrecznik_gramatyka", "pl": "My dwoje bez ciebie uszczęśliwiliśmy klauna w cyrku.", "ref_gygy": "conun cokuas kiakiok coduar.", "pred_gygy": "kyas ci kias ci kya j kyak ci kya j kyak ci kya j kyak ci kya j kyak ci kya j kyak ci kya j kyak ci kya j kyak ci kya j kyak ci kya j kyak ci"}
+{"category": "podrecznik_gramatyka", "pl": "Córka bogacza płacze.", "ref_gygy": "pokuap kokak cuasyor.", "pred_gygy": "poap kosuk kuar."}
+{"category": "podrecznik_gramatyka", "pl": "Matka płacze podczas pogrzebu jej syna.", "ref_gygy": "kiop kokuap luoniosyon kuokak cuosyor.", "pred_gygy": "luokosuk ci luokosukion ci luokosukion"}
+{"category": "podrecznik_gramatyka", "pl": "Facet płacze ze szczęścia podczas pogrzebu swojej teściowej.", "ref_gygy": "kyp piakuokap luoniosyon kuak cosyor.", "pred_gygy": "cofiodu ci luo ci kuo ci ka ci kua ci kua ci kua ci kua ci kua"}
+{"category": "podrecznik_gramatyka", "pl": "Ucieszyłeś się podczas jego ekshumacji.", "ref_gygy": "kiop luonyosyon kyak car.", "pred_gygy": "kioekshumationn kya ciaduar."}
+{"category": "podrecznik_gramatyka", "pl": "Długo będę straszył pewnego młodego teścia.", "ref_gygy": "dep piakuokuacs kiak dumop cuedar.", "pred_gygy": "xio da cuep c dekyokuk cuep."}
+{"category": "podrecznik_gramatyka", "pl": "Zostałem ojcem.", "ref_gygy": "kiak kokua ludoduar.", "pred_gygy": "kuk kuo"}
+{"category": "podrecznik_gramatyka", "pl": "Mało ludzi buduje swoje siedziby na cmentarzu.", "ref_gygy": "luocianun kys lonulas kumuok nular.", "pred_gygy": "muop kukus tiak luanun"}
+{"category": "podrecznik_gramatyka", "pl": "Nie ma klaunów wśród mędrców.", "ref_gygy": "giokucian cokuk muer.", "pred_gygy": "gioak ci gyoak"}
+{"category": "podrecznik_gramatyka", "pl": "Części studentów brakuje mądrości.", "ref_gygy": "gionukumop manyon gios muer.", "pred_gygy": "giopas muep gio"}
+{"category": "podrecznik_gramatyka", "pl": "Zostałeś pozbawiony reszty swojego rozsądku.", "ref_gygy": "kyanyon kyp giep muas muer.", "pred_gygy": "mua giogion kia"}
+{"category": "podrecznik_gramatyka", "pl": "On pozbawia bogactwa ich troje.", "ref_gygy": "kiokiokionyon pos kiok muer.", "pred_gygy": "poas kioas ci kioas ci kioas kioak muear."}
+{"category": "podrecznik_gramatyka", "pl": "Niedziela jest pierwszym dniem tygodnia.", "ref_gygy": "cumfioduk fioduciap cump fiodulur.", "pred_gygy": "duaduar"}
+{"category": "podrecznik_gramatyka", "pl": "Poniedziałek jest pierwszym dniem tygodnia.", "ref_gygy": "tumfioduk fioduciap cump fiodulur.", "pred_gygy": "duafiodu ci giopakunion ci giopanun gysues giopanukuk paduar."}
+{"category": "podrecznik_gramatyka", "pl": "Słońce wzeszło na niebie, czyli rozpoczął się nowy dzień, czwartek, dzień ziemi.", "ref_gygy": "nonun fiofiok noduar ni dedup fioduk doduar ni zumfioduk ni syonup fioduk.", "pred_gygy": "fionu ci fioviokuar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci duaduar ci du"}
+{"category": "podrecznik_gramatyka", "pl": "Kto umarł?", "ref_gygy": "dikuk luoduar?", "pred_gygy": "dikuk luoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Co robiły płaczki podczas pogrzebu?", "ref_gygy": "luoniosyon cuosyokuak diduar?", "pred_gygy": "diruas luokua ci luokas duafiodu ci luonun."}
+{"category": "podrecznik_gramatyka", "pl": "Kiedy wzeszedł księżyc na niebie?", "ref_gygy": "diduci nonun fyofyok noduar?", "pred_gygy": "didun ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci kio ci"}
+{"category": "podrecznik_gramatyka", "pl": "Ono wolno szło.", "ref_gygy": "kiok xuop xaduar.", "pred_gygy": "xuo ci kio xaduar."}
+{"category": "podrecznik_gramatyka", "pl": "Pójdę do budynku, żeby nie stać na deszczu.", "ref_gygy": "siasyodu xuaguaxe ci nulanion kiak xadar.", "pred_gygy": "siofion lonun kiak xaduar."}
+{"category": "podrecznik_gramatyka", "pl": "On biegnie, żeby dojść do celu.", "ref_gygy": "ki xenion xarp xen kiok xoxar.", "pred_gygy": "kio ziar xe."}
+{"category": "podrecznik_gramatyka", "pl": "Henio ruchawo wypił piwo ze studentami.", "ref_gygy": "gionukumohyen fiotyas Henioguk xup tyaduar.", "pred_gygy": "heniog xuan tyanion ci zaok"}
+{"category": "podrecznik_gramatyka", "pl": "Skąd Litwini wracali?", "ref_gygy": "dinyon Lituagu kekumok nyoxaduar?", "pred_gygy": "dinun Litwag keak nioxduar."}
+{"category": "podrecznik_gramatyka", "pl": "Z nocnej wracali wycieczki.", "ref_gygy": "fyodup nyaxanyon nyoxaduar.", "pred_gygy": "nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nionu ci nion"}
+{"category": "podrecznik_gramatyka", "pl": "Mam nadzieję na uzyskanie możliwości pójścia do budynku.", "ref_gygy": "kiak nulanio xalypualier.", "pred_gygy": "liep lyp xas nion"}
+{"category": "podrecznik_gramatyka", "pl": "Możesz się cieszyć.", "ref_gygy": "kyak coliar.", "pred_gygy": "kya ciak ca."}
+{"category": "podrecznik_gramatyka", "pl": "On pozwala mu rozjaśnić całość jadalni.", "ref_gygy": "kionion kiok ki tianup mes fior liar.", "pred_gygy": "kio ci kya ci me ci tianun ci fio"}
+{"category": "podrecznik_gramatyka", "pl": "Musisz zniszczyć swoje bogactwo.", "ref_gygy": "tip pos kyak lualyor.", "pred_gygy": "jypus tiak lyoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Trzeba żyć.", "ref_gygy": "lolyor.", "pred_gygy": "lo lyar."}
+{"category": "podrecznik_gramatyka", "pl": "Chce się żyć.", "ref_gygy": "lolior.", "pred_gygy": "kiak lio lo."}
+{"category": "podrecznik_gramatyka", "pl": "Idź się zabij.", "ref_gygy": "luoxen kyak xalir.", "pred_gygy": "kya luoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Umrzyj.", "ref_gygy": "kyak luolir.", "pred_gygy": "luoduar."}
+{"category": "podrecznik_gramatyka", "pl": "Niech Pani pije piwo.", "ref_gygy": "fiotyas kyokak tyalir.", "pred_gygy": "li kyo tya."}
+{"category": "podrecznik_gramatyka", "pl": "Zjadł mięso.", "ref_gygy": "sotias tiaduar.", "pred_gygy": "kio tiaduar."}
+{"category": "podrecznik_gramatyka", "pl": "Kot śpi.", "ref_gygy": "tiesok fyodupyr.", "pred_gygy": "sotias zuar."}
+{"category": "podrecznik_gramatyka", "pl": "Kot śpi, po tym, gdy zjadł mięso.", "ref_gygy": "ki sotias tiaduarp nuadun tiesok fyodupyr.", "pred_gygy": "ki sotias hik tiaduarp tiesok fyodupyr."}
+{"category": "podrecznik_gramatyka", "pl": "Kot, zjadłszy mięso, śpi.", "ref_gygy": "tiesok ki sotias tiaduarp nuadup fyodupyr.", "pred_gygy": "sotias tiaduarp tiesok fyodupyr."}
+{"category": "podrecznik_gramatyka", "pl": "Kot, który zjadł mięso, śpi.", "ref_gygy": "ki sotias hik tiaduarp tiesok fyodupyr.", "pred_gygy": "ki sotias hik tiaduarp tiesok fyodupyr."}
+
